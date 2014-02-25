@@ -1,0 +1,23 @@
+<div class="cards">
+{% for post in site.posts %}
+	<div class="container">
+		<a class="card" href="{{ post.url }}">
+			{% if post.featured_image %}
+				<div class="pic">
+					{% if post.thumb %}
+						{% picture thumb {{ post.thumb }} %}
+					{% else %}
+						{% picture thumb {{ post.featured_image }} %}
+					{% endif %}
+				</div>
+			{% endif %}
+			<header>
+				<div class="inner">
+					<h2>{{ post.title }}</h2>
+					<h4>{{ post.by }}</h4>
+				</div>
+			</header>
+		</a>
+	</div>
+{% endfor %}
+</div>

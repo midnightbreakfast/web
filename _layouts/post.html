@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<div id="page">
+	<section class="toc before">
+		<a class="badge" href="#issue">
+			<h2>
+				Issue
+				<strong>0</strong>
+			</h2>
+		</a>
+		<div id="issue">
+			<section class="contents outlined">
+				{% include posts/cards.html %}
+			</section>
+		</div>
+	</section>
+	<article>
+		<header>
+<!-- 
+			{% if page.featured_image %}
+				<div class="header-image">
+				</div>
+			{% endif %}
+ -->
+			{% if page.type %}
+				<h3 class="type">{{ page.type }}</h3>
+			{% endif %}
+			<h1>{{ page.title }}</h1>
+			{% if page.subtitle %}
+				<h2 class="subtitle">{{ page.subtitle | markdownify | strip_html }}</h2>
+			{% endif %}
+			<h4 class="by">by {{ page.by }}</h4>
+		</header>
+		{% if page.featured_image %}
+			<figure class="left">
+				{% if page.noresize %}
+					<img src="/assets/images/{{ page.featured_image }}">
+				{% else %}
+					{% picture {{ page.featured_image }} %}
+				{% endif %}
+				{% if page.illustrator %}
+					<figcaption>Illustration by {{ page.illustrator }}</figcaption>
+				{% endif %}
+			</figure>
+		{% endif %}
+		{{ content }}
+	</article>
+</div>
+
+<section class="toc after">
+	<div class="badge">
+		<h2>
+			Issue
+			<strong>0</strong>
+		</h2>
+	</div>
+	<div>
+		<section class="contents">
+			{% include posts/cards.html %}
+		</section>
+	</div>
+</section>
