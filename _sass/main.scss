@@ -1,14 +1,27 @@
 $bg-color: #111;
 $screen-m: "screen and (min-width: 30em)";
+$serif: Charter, serif;
+$sans: Franklin, sans-serif;
 
 /* General */
 
 body {
-	font-family: Charter, serif;
+	font-family: $serif;
 	font-size: 100%;
 	line-height: 1.35;
 	background: $bg-color;
 	color: white;
+}
+@media #{$screen-m} {
+	body {
+		font-size: 120%;
+		line-height: 1.4;
+	}
+}
+@media screen and (min-width: 55em) {
+	body {
+		font-size: 125%;
+	}
 }
 
 *, *:before, *:after {
@@ -16,6 +29,90 @@ body {
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+/* General */
+
+img {
+	max-width: 100%;
+}
+
+a {
+	color: inherit;
+}
+a:hover, a:focus, a:active {
+	text-decoration: underline;
+	outline: none;
+}
+
+em, cite {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+	line-height: 1;
+	@media #{$screen-m} {
+		font-size: 2.5em;
+	}
+}
+h2 {
+	margin: 0 0 1.5em;
+	font-family: $sans;
+	article & {
+		margin-top: 3em;
+		font-family: $serif;
+	}
+	font-weight: bold;
+}
+h3 {
+	margin-top: 1.5em;
+	font-family: $sans;
+}
+h4 {
+	margin: 0 0 2em;
+	font-family: $sans;
+	font-weight: bold;
+	color: #888;
+}
+p {
+	margin-bottom: 1.35em;
+	max-width: 35em;
+}
+blockquote {
+	margin: 1.5em 0;
+	font-style: italic;
+}
+
+hr {
+	border: none;
+	border-top: 3px solid white;
+	margin: .25em 0;
+	article & {
+		border-top: 1px solid rgba(0,0,0,.5);
+		width: 50%;
+		margin: 1.5em auto;
+	}
+}
+
+figcaption {
+	font-style: italic;
+}
+
+ul {
+	list-style: square;
+}
+
+small {
+	font-family: $sans;
+	color: #AAA;
+	white-space: nowrap;
+}
+
+
 
 .cover {
 	margin: 0 1.5em;
@@ -31,9 +128,16 @@ body {
 	position: relative;
 }
 
+.contents {
+	&.outset {
+		margin: 0 -.5em;
+	}
+}
+
 a.badge {
 	&:hover {
 		background: #333;
+		text-decoration: none;
 	}
 	&:active {
 		top: 2px;
@@ -57,13 +161,13 @@ a.badge {
 		margin: 0;
 		padding: 2em 0;
 		text-align: center;
-		font-family: Franklin, sans-serif;
+		font-family: $sans;
 		text-transform: uppercase;
 		font-size: .5em;
 		letter-spacing: .2em;
 		strong {
 			display: block;
-			font-family: Charter, serif;
+			font-family: $serif;
 			font-size: 3em;
 			font-style: italic;
 			line-height: 1;
@@ -78,13 +182,13 @@ $logo-height: 2em;
 	width: 7.01041666667 * $logo-height;
 	max-width: 100%;
 	margin-top: $logo-height / 2;
-	body.home & {
-		@media #{screen-m} {
-			$logo-height: 3em;
-			height: $logo-height;
-			width: 7.01041666667 * $logo-height;
-			margin-top: $logo-height / 2;
-		}
+}
+@media #{screen-m} {
+	body.home #logo {
+		$logo-height: 3em;
+		height: $logo-height;
+		width: 7.01041666667 * $logo-height;
+		margin-top: $logo-height / 2;
 	}
 }
 #wordmark {
@@ -103,64 +207,6 @@ $logo-height: 2em;
 		&.after {
 			display: none;
 		}
-	}
-}
-
-.intro {
-	margin: 1em 0 2em;
-	hr {
-		border: none;
-		border-top: 3px solid white;
-		margin: .5em 0;
-	}
-	h2 {
-		font-size: 1.25em;
-		font-weight: bold;
-		margin: 0;
-		font-family: Franklin, sans-serif;
-		@media #{$screen-m} {
-			font-size: 1.5em;
-		}
-	}
-	p {
-		font-size: 1em;
-		line-height: 1.4;
-		margin: 1em 0 0;
-		font-style: italic;
-		max-width: 30em;
-	}
-}
-
-.contents {
-	background: rgba(0,0,0,.2);
-	background: $bg-color;
-	&.outlined {
-		border: .25em solid white;	
-	}
-	&.inset {
-		margin: 1em;
-	}
-	&.outset {
-		margin: 0 -.5em;
-	}
-}
-
-.moon {
-	background: white;
-	color: black;
-	position: absolute;
-	top: -12.5em;
-	height: 20em;
-	width: 20em;
-	right: -10em;
-	border-radius: 10em;
-	box-shadow: 0 0 1px 1px black, 0 0 1px 2px black, 0 0 1px 3px black, 0 0 1px 4px white, 0 0 1px 5px white;
-	section {
-		margin-top: 19em;
-		text-align: center;
-		font-size: .75em;
-		font-family: Franklin, sans-serif;
-		font-weight: bold;
 	}
 }
 
@@ -217,11 +263,11 @@ $logo-height: 2em;
 			line-height: 1;
 		}
 		h2 {
-			font-family: Franklin, sans-serif;
+			font-family: $sans;
 			font-weight: bold;
 		}
 		h4 {
-			font-family: Charter, serif;
+			font-family: $serif;
 			font-size: .75em;
 			color: rgba(255,255,255,.5);
 			margin-top: .2em;
@@ -229,53 +275,6 @@ $logo-height: 2em;
 	}
 }
 
-@media #{$screen-m} {
-	.left {
-		float: left;
-		max-width: 50%;
-		margin: 0 1.5em 1.5em 0;
-	}
-}
-
-img {
-	max-width: 100%;
-}
-
-a {
-	color: inherit;
-}
-a:hover, a:focus, a:active {
-	color: #900;
-	outline: none;
-}
-
-h1 {
-	font-weight: bold;
-	font-size: 2em;
-	line-height: 1;
-	@media #{$screen-m} {
-		font-size: 2.5em;
-	}
-}
-h2 {
-	margin: 3em 0 1.5em;
-	font-weight: bold;
-}
-h3 {
-	margin-top: 1.5em;
-	font-family: Franklin, sans-serif;
-}
-h4 {
-	margin: 0 0 2em;
-	font-family: Franklin, sans-serif;
-	font-weight: bold;
-	color: #888;
-}
-
-blockquote {
-	margin: 1.5em 0;
-	font-style: italic;
-}
 
 #primary-header {
 	padding: .75em 1.5em .25em;
@@ -313,7 +312,7 @@ blockquote {
 			}
 			text-decoration: none;
 			color: white;
-			font-family: Franklin, sans-serif;
+			font-family: $sans;
 			&:hover {
 				text-decoration: underline;
 			}
@@ -335,16 +334,6 @@ article {
 		margin-left: auto;
 		margin-right: auto;
 	}
-/* 
-	p:first-of-type {
-		max-width: 40em;
-		font-size: 1.15em;
-		margin-bottom: .2em;
-	}
- */
-	p+p {
-		text-indent: 1.6em;
-	}
 	header {
 		text-align: center;
 		margin: 0 0 2.7em;
@@ -363,15 +352,6 @@ article {
 				vertical-align: middle;
 			}
 		}
-		h1 {
-			margin: 0 0 .25em;
-		}
-		h2 {
-			margin: 0;
-			font-style: italic;
-			font-size: 1.25em;
-			margin: .5em 0;
-		}
 		.type {
 			text-transform: uppercase;
 			letter-spacing: .2em;
@@ -383,48 +363,18 @@ article {
 				width: 50%;
 			}
 		}
+		h1 {
+			margin: 0 0 .25em;
+		}
+		h2 {
+			margin: 0;
+			font-style: italic;
+			font-size: 1.25em;
+			margin: .5em 0;
+		}
 		.by {
 			padding-top: .15em;
 			margin-top: .15em;
 		}
-	}
-}
-
-figcaption {
-	font-style: italic;
-}
-
-ul {
-	list-style: square;
-}
-
-small {
-	font-family: Franklin, sans-serif;
-	color: #AAA;
-	white-space: nowrap;
-}
-
-#main {
-}
-
-footer {
-	clear: both;
-}
-
-
-/* Bigger Screens */
-
-@media #{$screen-m} {
-	body {
-		font-size: 120%;
-		line-height: 1.4;
-	}
-}
-@media screen and (min-width: 55em) {
-	body {
-		font-size: 125%;
-	}
-	article .drop {
-		margin-top: -.23em;
 	}
 }

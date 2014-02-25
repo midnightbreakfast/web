@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contributors/
-title: Contributors
+title: Our Contributors
 ---
 
 List of contributors and their pieces

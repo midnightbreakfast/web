@@ -9,9 +9,11 @@ thumb: russian-coat/header.png
 illustrator: Lara Odell
 ---
 
-The man with the nice Russian coat found a parking spot beside the hatch shell. It would be a lucky day, he decided. His favorite band was playing, and because he was an executive at the label, he had the best seats in the house and backstage passes. He had chosen to drive that day, and everything had worked out perfectly, the traffic had been in his favor, as if it were a river moving him along to his inevitable destination, and the sun had come out, and all of the tickets had been sold.
+The man with the nice Russian coat found a parking spot beside the hatch shell. It would be a lucky day, he decided. His favorite band was playing, and because he was an executive at the label, he had the best
+seats in the house and backstage passes. He had chosen to drive that day, and everything had worked out perfectly, the traffic had been in his favor, as if it were a river moving him along to his inevitable destination, and the sun had come out, and all of the tickets had been sold.
 
-He walked along the river, watching the sailboats. He would like a sailboat, he thought. He would have to call his secretary about finding him sailing lessons. By the dock, a beggar sat shivering in wet shoes. The man wondered how he had come to wet his shoes on such a bright, fine day.
+He walked along the river, watching the sailboats. He would like a sailboat, he thought. He would have to call his secretary about finding
+him sailing lessons. By the dock, a beggar sat shivering in wet shoes. The man wondered how he had come to wet his shoes on such a bright, fine day.
 
 “Sir,” the beggar said as the man was about to pass.
 
@@ -19,7 +21,8 @@ He walked along the river, watching the sailboats. He would like a sailboat, he 
 
 “Gerald,” the beggar said.
 
-“I can see you want to ask me something,” the man said in a hurry. “I cannot, unfortunately, spare my shoes. I see that your shoes are wet. You are shivering.” The man patted his hands over his pockets for some money as the beggar shivered. He could at least hand over some cash. But then, in a fit of generosity, he said, “My coat. That will warm you. My coat is the warmest thing I have. It is the fur of Russian foxes that died of natural causes, and the finest leather.” He took off the coat and handed it over. “No, don't argue. This is a lucky day for you, too.”
+“I can see you want to ask me something,” the man said in a hurry. “I cannot, unfortunately, spare my shoes. I see that your shoes are wet.
+You are shivering.” The man patted his hands over his pockets for some money as the beggar shivered. He could at least hand over some cash. But then, in a fit of generosity, he said, “My coat. That will warm you. My coat is the warmest thing I have. It is the fur of Russian foxes that died of natural causes, and the finest leather.” He took off the coat and handed it over. “No, don't argue. This is a lucky day for you, too.”
 
 The beggar pulled the coat around himself and stopped shivering, and the man walked on, feeling generous.
 
@@ -38,27 +41,33 @@ The man called his secretary, but she didn't pick up. He felt a rawness in his t
 
 Tommy said, “I work for the record company. Go try to get a handout somewhere else.”
 
-The man was about to explode. But he was an executive at the concert of his favorite band. He did not want to cause a scene that could come back to him. “It's my coat,” he said, “isn't it? I gave my coat to a beggar. He was shivering and I lent him my coat. If you value your job at all, you will do what you have been paid to do.”
+The man was about to explode. But he was an executive at the concert of his favorite band. He did not want to cause a scene that could come
+back to him. “It's my coat,” he said, “isn't it? I gave my coat to a beggar. He was shivering and I lent him my coat. If you value your job at all, you will do what you have been paid to do.”
 
 Tommy again made his way through the crowd.
 
-The man was not about to go after him again. Tommy could consider himself fired. The man didn't need an assistant so badly that he would beg that assistant for help. He himself had started low in the company. True, he had never been an assistant in the manner that Tommy was an assistant, but he had handled concerts. And he was equipped to get his way, now, by the status he had gained.
+The man was not about to go after him again. Tommy could consider
+himself fired. The man didn't need an assistant so badly that he would beg that assistant for help. He himself had started low in the company. True, he had never been an assistant in the manner that Tommy was an assistant, but he had handled concerts. And he was equipped to get his way, now, by the status he had gained.
 
 He called his secretary again. She still wasn't picking up the phone.
 
-He stumbled toward the bouncers holding back the lines for the hatch shell, which, because it was an outdoor arena and the seating was not assigned, needed extra security and could not be filled before the time that had been agreed upon. “Excuse me,” he said, feeling a strange weakness in his legs as he tried to pass through. The bouncers would surely know that he was not just a fan; he was dressed more for a business meeting than for a concert. He never dressed, anymore, in the layers of black and ironic t-shirts he had worn as a fan. He started past the bouncers but one of them grabbed his suit jacket.
+He stumbled toward the bouncers holding back the lines for the hatch shell, which, because it was an outdoor arena and the seating was not
+assigned, needed extra security and could not be filled before the time that had been agreed upon. “Excuse me,” he said, feeling a strange weakness in his legs as he tried to pass through. The bouncers would surely know that he was not just a fan; he was dressed more for a business meeting than for a concert. He never dressed, anymore, in the layers of black and ironic t-shirts he had worn as a fan. He started past the bouncers but one of them grabbed his suit jacket.
 
 “How dare you,” the man, Gerald, said.
 
 “This is a line,” one of the crowd yelled at him. “No cuts,” another said. “I've been waiting for an hour,” a teenager said and spat at him.
 
-A boy had just spat at him, the man thought. A boy in a ripped jean jacket had just spat at him. Couldn't they see that he was a man who had business at the concert? Again the man thought that if he had his jacket, the jacket that he always wore going in and out of the office during the long cold months when they produced the most music, he would not have been mistaken for just anybody.
+A boy had just spat at him, the man thought. A boy in a ripped jean jacket had just spat at him. Couldn't they see that he was a man who had business at the concert? Again the man thought that if he had his
+jacket, the jacket that he always wore going in and out of the office during the long cold months when they produced the most music, he would not have been mistaken for just anybody.
 
-Stay calm, the man thought. “I am Gerald Brannon,” he said, “the executive who helped make this last album the success it was.” Suddenly, he couldn't remember the name. “Those are my seats up there,” he stuttered out, pointing. “I had them reserved months ago.”
+Stay calm, the man thought. “I am Gerald Brannon,” he said, “the executive who helped make this last album the success it was.” Suddenly,
+he couldn't remember the name. “Those are my seats up there,” he stuttered out, pointing. “I had them reserved months ago.”
 
 The bouncer said he was only supposed to let through people the assistant cleared.
 
-The man was still trying to wrack his brain for the name of the last album, his favorite the band had ever done. “The assistant,” he said, “the boy Tommy, refuses to recognize me. Or maybe he is angry. I didn't think he was the right person for the job, and I may have mentioned this, I may have said we would go in another direction, and then that direction declined our offer, and another, as well, and Tommy was who we had left. He started Monday. He hasn't recognized me without my coat, which I gave to a beggar. Or he is only angry with me, in which case, he is fired.”
+The man was still trying to wrack his brain for the name of the last album, his favorite the band had ever done. “The assistant,” he said, “the boy Tommy, refuses to recognize me. Or maybe he is angry. I didn't think
+he was the right person for the job, and I may have mentioned this, I may have said we would go in another direction, and then that direction declined our offer, and another, as well, and Tommy was who we had left. He started Monday. He hasn't recognized me without my coat, which I gave to a beggar. Or he is only angry with me, in which case, he is fired.”
 
 The bouncer looked at him strangely—the man thought the bouncer was trying to decide whether to believe him, and he refrained from puffing his chest out.
 
