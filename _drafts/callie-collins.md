@@ -9,9 +9,9 @@ illustrator: David Mitchell Aronson
 
 I first met Callie Collins in a writing group in Austin a few years ago. We only met once or twice before I moved to San Francisco for grad school, so we didn’t really get to know each other, but it was clear to me, even with very limited knowledge of Austin’s literary scene, that she was a big deal. She worked at the prestigious literary journal _American Short Fiction_, she wrote with force and grace, and she just had this authoritative, put-together presence, like everything in her life was completely under her control.
 
-Not long after I’d relocated, Callie and her _ASF_ colleague Jill Meyers left the journal and cofounded a small press, which they named A Strange Object after a quote from the Donald Barthelme story “Florence Green is 81”: “‘The aim of literature,’ Baskerville replied grandly, ‘is the creation of a strange object covered with fur which breaks your heart.’” I watched from San Francisco as their project became one of the hottest commodities in a very hot market; in a city full of flourishing bookstores, lit mags, and other creative writing ventures, A Strange Object bloomed with particular speed and beauty.
+Not long after I’d relocated, Callie and her _ASF_ colleague Jill Meyers left the journal and cofounded a small press, which they named [A Strange Object](http://www.astrangeobject.com/) after a quote from the Donald Barthelme story “Florence Green is 81”: “‘The aim of literature,’ Baskerville replied grandly, ‘is the creation of a strange object covered with fur which breaks your heart.’” I watched from San Francisco as their project became one of the hottest commodities in a very hot market; in a city full of flourishing bookstores, lit mags, and other creative writing ventures, A Strange Object bloomed with particular speed and beauty.
 
-Their first book, Kelly Luce’s _Three Scenarios in which Hana Sasaki Grows a Tail_, is a luminous collection of speculative-fiction short stories about America and Japan. Their second, an equally strange and lovely collection of stories by Nicholas Grider titled _Misadventure_, was just released. Luce and Grider will be reading at events all over the country, including Milwaukee, Portland, and Miami. 
+Their first book, Kelly Luce’s [_Three Scenarios in which Hana Sasaki Grows a Tail_](http://astrangeobject.bigcartel.com/product/three-scenarios-in-which-hana-sasaki-grows-a-tail-preorder), is a luminous collection of speculative-fiction short stories about America and Japan. Their second, an equally strange and lovely collection of stories by Nicholas Grider titled [_Misadventure_](http://astrangeobject.bigcartel.com/product/misadventure), was just released. Luce and Grider will be reading at events all over the country, including Milwaukee, Portland, and Miami. 
 
 Now that I’ve gotten to know Callie and Jill over drinks in both Austin and San Francisco, I’m even more excited about what their press is doing. (And let me tell you, it does not make missing Austin any easier.) I talked with Callie over email about how they got where they are and where they’ll go from here.
 
@@ -26,9 +26,9 @@ We took a couple of months to settle many things—the name, the plan, the langu
 
 **O’Neal:** Had you and/or Jill worked in other publishing-related ventures before _American Short Fiction_?
 
-**Collins: **Jill had worked at commercial magazines and on other lit mags, and had edited books for university presses, too. I hadn’t.
+**Collins:** Jill had worked at commercial magazines and on other lit mags, and had edited books for university presses, too. I hadn’t.
 
-**O’Neal: **Are there any lessons you learned at _ASF_ that you’ve been able to apply to A Strange Object? And conversely, what have been some surprises or experiences that you weren’t prepared for?
+**O’Neal:** Are there any lessons you learned at _ASF_ that you’ve been able to apply to A Strange Object? And conversely, what have been some surprises or experiences that you weren’t prepared for?
 
 **Collins:** I think some of the work is similar, for sure. We talk a lot about a return to classic, meticulous editing—that’s something we valued at the magazine, too. We learned through _ASF_ how to be an active part of the literary community, in Austin and nationally; that is, how to plan events, how to collaborate with other magazines and series, how to build a brand and get people to recognize and trust our taste. We took a lot of risks in the work we published at the magazine, and we’re continuing to do that at A Strange Object. Both of our first books are story collections, so it’s been nice to continue to think deeply about the way readers move through stories.
 
@@ -68,9 +68,9 @@ Small presses have been (relatively, sometimes not so) quietly publishing the be
 
 **Collins:** Thanks for saying that. We think you’re right—that authors really crave that particular sort of attention. And that small presses are in a much better position to give it to them.
 
-**O’Neal: **I’m also very smitten with your immodest aims. Can you talk a little bit more about that? How do you see the role of the small press as part of the larger publishing landscape changing in the coming years?
+**O’Neal:** I’m also very smitten with your immodest aims. Can you talk a little bit more about that? How do you see the role of the small press as part of the larger publishing landscape changing in the coming years?
 
-**Collins: **I did an interview recently where the interviewer kept asking me about whether or not books are dead—because books are dead, I mean, they’re really dead, because e-books and shorter attention spans are killing everything and no one reads anymore! And none of that is true. I think it’s clear to everyone reading literary content on the Internet that, while books may be changing form or getting to people differently, the community of readers who want fresh, kick-you-over content is just becoming more fervent.
+**Collins:** I did an interview recently where the interviewer kept asking me about whether or not books are dead—because books are dead, I mean, they’re really dead, because e-books and shorter attention spans are killing everything and no one reads anymore! And none of that is true. I think it’s clear to everyone reading literary content on the internet that, while books may be changing form or getting to people differently, the community of readers who want fresh, kick-you-over content is just becoming more fervent.
 
 I obviously understand where he was coming from. The major houses are, in a way, making that narrative solvent. But small presses aren’t stuck in the same loops major houses are. They’re more likely to find innovative ways to access that smart, committed, super-engaged online community
 than are publishers who have a hundred-year history of doing things the old way.
@@ -104,6 +104,6 @@ Key players and organizations? Danithan Mejia runs _Foxing Quarterly_, a magazin
 
 I could obviously go on and on. We’re just pumped to be here.
 
-**O’Neal: **Do you think the Austin lit scene’s rapid growth is a bubble that will burst, or does it have staying power? Obviously New York is going to be the whale in the pond for the foreseeable future, but do you think Austin will become a reliable, permanent alternative?
+**O’Neal:** Do you think the Austin lit scene’s rapid growth is a bubble that will burst, or does it have staying power? Obviously New York is going to be the whale in the pond for the foreseeable future, but do you think Austin will become a reliable, permanent alternative?
 
 **Collins:** You know, I don’t think it’s a bubble that’ll burst, but I do think that we’re going through a period of particularly high development that’s probably not going to last forever. But I think that once it cools off a bit, we’ll be left with several stellar magazines and presses and nonprofits and collectives that’ll provide a sturdy base of quality and excitement for the foreseeable future. I do think Austin will become a reliable, permanent alternative to New York and San Francisco. For all of its problems, I think this town is still a very welcoming place. I’m confident this scene is just going to get better. Better and louder.

@@ -1,5 +1,6 @@
 $bg-color: #111;
 $screen-m: "screen and (min-width: 30em)";
+$screen-l: "screen and (min-width: 45em)";
 $serif: Charter, serif;
 $sans: Franklin, sans-serif;
 
@@ -210,14 +211,29 @@ $logo-height: 2em;
 	}
 }
 
+.tagline {
+	font-size: 1.25em;
+}
+
 .cards {
 	padding: .25em;
 	overflow: hidden;
 	.container {
-		float: left;
-		width: 50%;
 		@media #{$screen-m} {
+			float: left;
+			width: 50%;
+			&:nth-child(2n+1) {
+				clear: left;
+			}
+		}
+		@media #{$screen-l} {
 			width: 33.33333%;
+			&:nth-child(2n+1) {
+				clear: none;
+			}
+			&:nth-child(3n+1) {
+				clear: left;
+			}
 		}
 	}
 	a.card {
@@ -241,17 +257,6 @@ $logo-height: 2em;
 					padding-left: 0;
 					padding-right: 0;
 				}
-			}
-		}
-		&:nth-child(2n) {
-			clear: left;
-		}
-		@media #{$screen-m} {
-			&:nth-child(2n) {
-				clear: none;
-			}
-			&:nth-child(3n) {
-				clear: left;
 			}
 		}
 		&:hover {
@@ -293,7 +298,7 @@ $logo-height: 2em;
 	}
 	nav {
 		margin: 1em 0;
-		font-size: .75em;
+		font-size: .9em;
 		font-weight: bold;
 		@media #{$screen-m} {
 			float: right;
@@ -304,8 +309,8 @@ $logo-height: 2em;
 		}
 		a {
 			display: inline-block;
-			margin-left: .5em;
-			margin-right: .5em;
+			margin-left: .25em;
+			margin-right: .25em;
 			@media #{$screen-m} {
 				margin-left: 1.25em;
 				margin-right: 0;
