@@ -1,6 +1,6 @@
 $bg-color: #111;
 $screen-m: "screen and (min-width: 30em)";
-$screen-l: "screen and (min-width: 45em)";
+$screen-l: "screen and (min-width: 50em)";
 $serif: Charter, serif;
 $sans: Franklin, sans-serif;
 
@@ -23,6 +23,14 @@ body {
 	body {
 		font-size: 125%;
 	}
+}
+
+.clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 
 *, *:before, *:after {
@@ -72,6 +80,7 @@ h2 {
 h3 {
 	margin-top: 1.5em;
 	font-family: $sans;
+	font-weight: bold;
 }
 h4 {
 	margin: 0 0 2em;
@@ -84,8 +93,15 @@ p {
 	max-width: 35em;
 }
 blockquote {
-	margin: 1.5em 0;
+	margin: 1.5em auto;
 	font-style: italic;
+	max-width: 37em;
+	border-left: .25em solid rgba(0,0,0,.1);
+	padding-left: .75em;
+	padding-right: 1em;
+	cite {
+		font-style: normal;
+	}
 }
 
 hr {
@@ -93,14 +109,39 @@ hr {
 	border-top: 3px solid white;
 	margin: .25em 0;
 	article & {
-		border-top: 1px solid rgba(0,0,0,.5);
+		border-top: 1px solid rgba(0,0,0,.25);
 		width: 50%;
 		margin: 1.5em auto;
 	}
 }
 
-figcaption {
-	font-style: italic;
+figure {
+	margin-bottom: 1.5em;
+	img {
+		display: block;
+		margin-bottom: 1.5em;
+	}
+	figcaption {
+		font-style: italic;
+	}
+	&.middle {
+		text-align: center;
+		img {
+			margin: auto;
+		}
+	}
+	@media #{$screen-m} {
+		&.left {
+			float: left;
+			max-width: 45%;
+			margin-right: 1.5em;
+		}
+		&.right {
+			float: right;
+			max-width: 45%;
+			margin-left: 1.5em;
+		}
+	}
 }
 
 ul {
@@ -111,6 +152,7 @@ small {
 	font-family: $sans;
 	color: #AAA;
 	white-space: nowrap;
+	font-weight: normal;
 }
 
 
@@ -127,12 +169,6 @@ small {
 	}
 	color: black;
 	position: relative;
-}
-
-.contents {
-	&.outset {
-		margin: 0 -.5em;
-	}
 }
 
 a.badge {
@@ -184,8 +220,8 @@ $logo-height: 2em;
 	max-width: 100%;
 	margin-top: $logo-height / 2;
 }
-@media #{screen-m} {
-	body.home #logo {
+body.home #logo {
+	@media #{$screen-m} {
 		$logo-height: 3em;
 		height: $logo-height;
 		width: 7.01041666667 * $logo-height;
@@ -198,33 +234,47 @@ $logo-height: 2em;
 
 .toc {
 	position: relative;
+	&.outset {
+		margin: 0 -.5em;
+	}
 	&.before {
 		display: none;
 	}
-	@media #{$screen-m} {
+	@media #{$screen-l} {
 		&.before {
 			display: block;
-		}
-		&.after {
-			display: none;
 		}
 	}
 }
 
 .tagline {
-	font-size: 1.25em;
+	font-size: 1.125em;
+	border-top: 1px solid rgba(255,255,255,.5);
+	border-bottom: 2px solid white;
+	padding: .5em 0;
+	margin-bottom: 2em;
+	text-align: center;
+	@media #{$screen-l} {
+		text-align: left;
+		margin-bottom: 1.5em;
+	}
 }
 
 .cards {
 	padding: .25em;
-	overflow: hidden;
+	@extend .clearfix;
+	#page & {
+		background: $bg-color;
+		border: .25em solid white;
+	}
+	.toc.after & {
+		margin: 0 1em;
+	}
 	.container {
-		@media #{$screen-m} {
-			float: left;
-			width: 50%;
-			&:nth-child(2n+1) {
-				clear: left;
-			}
+		float: left;
+		width: 50%;
+		&:nth-child(2n+1) {
+			clear: left;
 		}
 		@media #{$screen-l} {
 			width: 33.33333%;
@@ -247,19 +297,15 @@ $logo-height: 2em;
 			}
 		}
 		header {
-			text-align: center;
-			body.home & {
-				text-align: left;
-			}
+			text-align: left;
 			.inner {
-				padding: .5em .5em 1em;
-				body.home & {
-					padding-left: 0;
-					padding-right: 0;
-				}
+				padding: .5em 0 1em;
 			}
 		}
 		&:hover {
+			h2 {
+				text-decoration: underline;
+			}
 		}
 		h1, h2, h3, h4 {
 			margin: 0;
@@ -283,7 +329,7 @@ $logo-height: 2em;
 
 #primary-header {
 	padding: .75em 1.5em .25em;
-	overflow: auto;
+	@extend .clearfix;
 	text-align: center;
 	h1 {
 		font-size: 1em;
@@ -292,7 +338,7 @@ $logo-height: 2em;
 			color: #FFF;
 			text-decoration: none;
 		}
-		@media #{$screen-m} {
+		@media #{$screen-l} {
 			float: left;
 		}
 	}
@@ -300,7 +346,7 @@ $logo-height: 2em;
 		margin: 1em 0;
 		font-size: .9em;
 		font-weight: bold;
-		@media #{$screen-m} {
+		@media #{$screen-l} {
 			float: right;
 			body.home & {
 				font-size: 1em;
@@ -329,6 +375,50 @@ $logo-height: 2em;
 				border-bottom: 2px solid rgba(0,0,0,.5);
 			}
 		}
+	}
+}
+
+#page-footer {
+	border-top: 2px solid white;
+	padding-top: 1.5em;
+	margin: 1.5em;
+	p {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.meta {
+		text-align: center;
+		margin: 1.5em 0;
+		font-family: $sans;
+		font-weight: bold;
+		a {
+			text-decoration: none;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+	.social {
+		text-align: center;
+		margin: 1.5em 0;
+		font-family: $sans;
+		a {
+			text-decoration: none;
+			margin: 0 .5em;
+			.ss-icon {
+				position: relative;
+				top: .1em;
+			}
+			&:hover {
+				span {
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+	.message {
+		text-align: center;
+		font-style: italic;
 	}
 }
 
@@ -380,6 +470,50 @@ article {
 		.by {
 			padding-top: .15em;
 			margin-top: .15em;
+		}
+	}
+	footer {
+		max-width: 35em;
+		margin: 4.5em auto 0;
+		&:before {
+			content: '';
+			display: block;
+			border-top: 1px solid rgba(0,0,0,.25);
+			margin: 0 0 .5em;
+			width: 50%;
+		}
+	}
+}
+
+.gifswap {
+	position: relative;
+	img {
+		display: block;
+	}
+	.starter {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+}
+
+#mailchimp {
+	max-width: 25em;
+	margin: auto;
+	background: rgba(0,0,0,.05);
+	padding: 0 .5em;
+	border-radius: 3px;
+	input {
+		font-family: $sans;
+	}
+	#mc_embed_signup div#mce-responses {
+		margin: 0;
+		padding: 0;
+		width: auto;
+		font-family: $sans;
+		.response {
+			padding: 0;
+			margin: .75em 0;
 		}
 	}
 }

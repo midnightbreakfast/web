@@ -3,11 +3,23 @@ layout: post
 type: Fiction
 title: The Russian Coat
 by: Matthew Salesses
+bio: |
+  [Matthew Salesses](http://matthewsalesses.com/) is the author of [<cite>I'm Not Saying, I'm Just Saying</cite>](http://www.amazon.com/Im-Not-Saying-Just/dp/1937865061), [<cite>The Last Repatriate</cite>](http://nouvellabooks.com/books/the-last-repatriate/), a couple of ebooks forthcoming from Thought Catalog Books, and other things. Follow him [@salesses](http://www.twitter.com/salesses).
 featured_image: russian-coat/header.gif
 noresize: true
 thumb: russian-coat/header.png
-illustrator: Lara Odell
+illustrator:
+  name: Lara Odell
+  url: http://laraodell.com/home.html
+date: 2014-02-25 4am
 ---
+
+<figure class="right">
+<div class="gifswap">
+<img class="looper" src="/assets/images/russian-coat/water.gif">
+<img class="starter" src="/assets/images/russian-coat/leaf.gif">
+</div>
+</figure>
 
 The man with the nice Russian coat found a parking spot beside the hatch shell. It would be a lucky day, he decided. His favorite band was playing, and because he was an executive at the label, he had the best seats in the house and backstage passes. He had chosen to drive that day, and everything had worked out perfectly, the traffic had been in his favor, as if it were a river moving him along to his inevitable destination, and the sun had come out, and all of the tickets had been sold.
 
@@ -33,13 +45,11 @@ The man realized in one swoop that the assistant had forgotten who he was. It wa
 
 Tommy looked at him again, then walked away.
 
-The man could not understand this behavior. He had been ready to forgive the boy. He had been ready to accept him as the new assistant.
-The man called his secretary, but she didn't pick up. He felt a rawness in his throat as if he had already been yelling at her. Then he followed after Tommy, calling again, commanding that he get their seats. “Hand over the passes, at least, if you are trying to quit or something. If you are trying to make your boss upset in your first week.”
+The man could not understand this behavior. He had been ready to forgive the boy. He had been ready to accept him as the new assistant. The man called his secretary, but she didn't pick up. He felt a rawness in his throat as if he had already been yelling at her. Then he followed after Tommy, calling again, commanding that he get their seats. “Hand over the passes, at least, if you are trying to quit or something. If you are trying to make your boss upset in your first week.”
 
 Tommy said, “I work for the record company. Go try to get a handout somewhere else.”
 
-The man was about to explode. But he was an executive at the concert of his favorite band. He did not want to cause a scene that could come
-back to him. “It's my coat,” he said, “isn't it? I gave my coat to a beggar. He was shivering and I lent him my coat. If you value your job at all, you will do what you have been paid to do.”
+The man was about to explode. But he was an executive at the concert of his favorite band. He did not want to cause a scene that could come back to him. “It's my coat,” he said, “isn't it? I gave my coat to a beggar. He was shivering and I lent him my coat. If you value your job at all, you will do what you have been paid to do.”
 
 Tommy again made his way through the crowd.
 
@@ -53,8 +63,7 @@ He stumbled toward the bouncers holding back the lines for the hatch shell, whic
 
 “This is a line,” one of the crowd yelled at him. “No cuts,” another said. “I've been waiting for an hour,” a teenager said and spat at him.
 
-A boy had just spat at him, the man thought. A boy in a ripped jean jacket had just spat at him. Couldn't they see that he was a man who had business at the concert? Again the man thought that if he had his
-jacket, the jacket that he always wore going in and out of the office during the long cold months when they produced the most music, he would not have been mistaken for just anybody.
+A boy had just spat at him, the man thought. A boy in a ripped jean jacket had just spat at him. Couldn't they see that he was a man who had business at the concert? Again the man thought that if he had his jacket, the jacket that he always wore going in and out of the office during the long cold months when they produced the most music, he would not have been mistaken for just anybody.
 
 Stay calm, the man thought. “I am Gerald Brannon,” he said, “the executive who helped make this last album the success it was.” Suddenly, he couldn't remember the name. “Those are my seats up there,” he stuttered out, pointing. “I had them reserved months ago.”
 

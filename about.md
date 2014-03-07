@@ -13,22 +13,27 @@ At <cite>Midnight Breakfast</cite>, we’re looking for writing that will spark 
 Masthead
 --------
 
-**Rebecca Rubenstein**
-*Editor-in-Chief*
-[Rebecca Rubenstein](http://rebeccarubenstein.com/) is the editor-in-chief of <cite>Midnight Breakfast</cite>, as well as the interviews editor for [The Rumpus](http://therumpus.net/) and a former contributing editor for the short-lived but wonderful [STET](http://stet.editorially.com/). She resides in San Francisco and can often be found [thinking aloud](http://twitter.com/rrrubenstein) on Twitter. The way to her heart is truly through breakfast (or brunch, if it's the weekend).
+### Rebecca Rubenstein
 
-**Nevan Scott**
+*Editor-in-Chief*
+[Rebecca](http://rebeccarubenstein.com/) likes to make words work. In addition to <cite>Midnight Breakfast</cite>, she is also the interviews editor for [<cite>The Rumpus</cite>](http://therumpus.net/) and a former contributing editor for the short-lived but wonderful [<cite>STET</cite>](http://stet.editorially.com/). She resides in San Francisco and can often be found [thinking aloud](http://twitter.com/rrrubenstein) on Twitter. The way to her heart is truly through breakfast (or brunch, if it’s the weekend).
+
+### Nevan Scott
+
 *Managing Editor*
 [Nevan](http://nevanscott.com/) lives in New York, makes websites with [Cantilever](http://cantilever.co/), teaches people how to make websites at [General Assembly](http://generalassemb.ly/), and designed and built this here very website. Websites, websites, websites.
 
-**F. Taylor Pavlik**
-*Associate Editor, Director of Marketing & Publicity*
-F. Taylor Pavlik is a writer, editor, and marketer living in Brooklyn. His fiction has been published in <cite>The Blood Orange Review</cite> and <cite>Cantaraville</cite>.
+### F. Taylor Pavlik
+
+*Associate Editor, Marketing & Publicity Manager*
+F. Taylor Pavlik is a writer, editor, and marketer living in Brooklyn. His fiction has been published in <cite>The Blood Orange Review</cite> and <cite>Cantaraville</cite>, and he's received some pretty encouraging rejection letters from the <cite>Mid-American Review</cite> and the <cite>Black Warrior Review</cite>.
 
 
 Submissions Info
 ----------------
 
-We are currently closed for writing submissions. Please check back, or [sign up for our newsletter](/campaign/) to be notified of when we’ve opened shop again.
+We are currently closed for writing submissions. Please check back, or [sign up for our newsletter](/donate/) to be notified once we've opened shop again.
 
 Are you an illustrator interested in working with us? [We’d love to hear from you.](mailto:nevan@midnightbreakfast.com)
+
+For all other queries, please drop us a line at [hello@midnightbreakfast.com](mailto:hello@midnightbreakfast.com).

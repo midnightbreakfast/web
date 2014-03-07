@@ -26,12 +26,17 @@ layout: default
 			{% if page.type %}
 				<h3 class="type">{{ page.type }}</h3>
 			{% endif %}
-			<h1>{{ page.title }}</h1>
+			{% if page.title_image %}
+				<h1>{% picture {{ page.title_image }} alt="{{ page.title }}" %}</h1>
+			{% else %}
+				<h1>{{ page.title }}</h1>
+			{% endif %}
 			{% if page.subtitle %}
 				<h2 class="subtitle">{{ page.subtitle | markdownify | strip_html }}</h2>
 			{% endif %}
 			<h4 class="by">by {{ page.by }}</h4>
 		</header>
+<!-- 
 		{% if page.featured_image %}
 			<figure class="left">
 				{% if page.noresize %}
@@ -44,7 +49,16 @@ layout: default
 				{% endif %}
 			</figure>
 		{% endif %}
+ -->
 		{{ content }}
+		
+		<footer>
+			{% if page.bio %}{{ page.bio | markdownify }}{% endif %}
+			{% if page.illustrator %}
+				<p>Illustration by <a href="{{ page.illustrator.url }}">{{ page.illustrator.name }}</a></p>
+			{% endif %}
+			{% if page.endnote %}{{ page.endnote | markdownify }}{% endif %}
+		</footer>
 	</article>
 </div>
 

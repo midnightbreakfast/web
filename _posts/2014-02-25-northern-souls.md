@@ -3,8 +3,14 @@ layout: post
 type: Nonfiction
 title: Northern Souls
 by: Jason Diamond
-featured_image: northern-souls/header.png
-illustrator: Nancy Smith
+bio: |
+  [Jason Diamond](http://twitter.com/imjasondiamond) is the literary editor at Flavorwire, the founder of Vol. 1 Brooklyn, and has been published by <cite>The New York Times</cite>, <cite>The Paris Review</cite>, <cite>Tablet</cite>, <cite>The New York Observer</cite>, and many other fine places. He lives in Brooklyn with his wife, two cats, and a dog named Max.
+featured_image: northern-souls/uniform.png
+title_image: northern-souls/title.png
+illustrator:
+  name: Nancy Smith
+  url: http://somequietfuture.com
+date: 2014-02-25 6am
 ---
 
 Your teenage years are littered with things that you spend the rest of your life trying to understand, live down, or make sense of for yourself or others. I feel like I’ve moved past trying to get over those awkward years, the bad poetry in spiral notebooks, the awkward kissing, and the perpetual feelings of loneliness that stuck with me throughout high school.  I’ve put those things in their proper places and don’t feel much need to revisit them, yet I still find myself trying to explain away the skinhead company I kept back then, to people and their misconceptions.
@@ -20,6 +26,10 @@ Another film that manages to capture this sort of spirit, while in a far less su
 “My parents were a bit confused at first,” Sam tells me about his Jamaican parents’ reaction to his earliest proclamations of being a skinhead. “But I think they began to understand…I was paying tribute to their roots, as well as becoming my own person.” It would make sense, of course, his parents’ skepticism, as people from the Caribbean islands, along with immigrants from all over who moved to England in the 1970s and 1980s, were constant targets for The National Front and other racist groups. When his parents moved to America, hate groups were recruiting skinheads in England, the tough image adding an intimidating edge to the hateful message, and the term “skinhead” suddenly meant the same thing as “Nazi,” even though the racist skinheads (at least in America) were in the minority. It no doubt looked odd to Sam’s parents to see their son wearing a t-shirt with “Skinhead” in Olde English lettering across his chest, considering that he’d be a target of that very group had his parents chosen to live with relatives outside of London, instead of Illinois.
 
 Today Sam is a chef in California with a wife and two children, one he named Jordan, after Michael Jordan—the hero of all Chicagoland kids when I was growing up—and the other named Turner, after Tina Turner, his favorite soul singer. Sam and I keep in touch with each other over the internet. He randomly emails me things apropos of nothing, or to tell me he read something I posted on Facebook.
+
+<figure class="middle">
+{% picture {{ page.featured_image }} %}
+</figure>
 
 “It just looked better,” he tells me over email, about why he decided to shave his head and wear tight Ben Sherman shirts, suspenders, and Doc Martens boots. Sam tells me that after his Jamaican immigrant parents moved him to a predominantly white town, he felt “like a weirdo being one of the only black kids,” so he “started hanging out with the other weirdos.” Punks, goths, ravers, theatre kids—whoever would have him. “I liked the punks,” he says, “But I didn’t like most of the music.” Sam grew up on a steady diet of reggae, rocksteady, James Brown, and Motown, so naturally, “That’s the shit I liked.”
 
