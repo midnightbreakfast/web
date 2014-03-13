@@ -32,7 +32,7 @@ F. Taylor Pavlik is a writer, editor, and marketer living in Brooklyn. His ficti
 Submissions Info
 ----------------
 
-We are currently closed for writing submissions. Please check back, or [sign up for our newsletter](/donate/) to be notified once we've opened shop again.
+We are currently closed for writing submissions. Please check back, or [sign up for our newsletter](/signup/) to be notified once we've opened shop again.
 
 Are you an illustrator interested in working with us? [We’d love to hear from you.](mailto:nevan@midnightbreakfast.com)
 

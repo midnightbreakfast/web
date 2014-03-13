@@ -327,6 +327,28 @@ body.home #logo {
 }
 
 
+.banner {
+	display: block;
+	text-align: center;
+	padding: .25em 1.5em;
+	text-decoration: none;
+	background: rgba(255,255,255,.2);
+	border-bottom: 1px solid rgba(255,255,255,.1);
+	strong {
+		font-family: Franklin, sans-serif;
+		white-space: nowrap;
+	}
+	em {
+		font-style: normal;
+		text-decoration: underline;
+		white-space: nowrap;
+	}
+	&:hover {
+		text-decoration: none;
+		background: rgba(255,255,255,.25);
+	}
+}
+
 #primary-header {
 	padding: .75em 1.5em .25em;
 	@extend .clearfix;
@@ -419,6 +441,9 @@ body.home #logo {
 	.message {
 		text-align: center;
 		font-style: italic;
+		em, cite {
+			font-style: normal;
+		}
 	}
 }
 
