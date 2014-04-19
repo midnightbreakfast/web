@@ -1,6 +1,8 @@
 name: Midnight Breakfast
 permalink: /:title/
 markdown: kramdown
+source: _src
+destination: _site
 redcarpet:
   extensions:
     - smart

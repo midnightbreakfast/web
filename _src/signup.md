@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /signup/
-type: Upcoming
+type: Stay Up to Date
 title: Keep the Conversation Going
 ---
 
