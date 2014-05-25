@@ -12,7 +12,7 @@ date: 2014-02-25 2am
 ---
 
 <figure class="right">
-{% picture {{ page.featured_image }} %}
+{% include picture.html path=page.featured_image %}
 </figure>
 
 I first met Callie Collins in a writing group in Austin a few years ago. We only met once or twice before I moved to San Francisco for grad school, so we didn’t really get to know each other, but it was clear to me, even with very limited knowledge of Austin’s literary scene, that she was a big deal. She worked at the prestigious literary journal _American Short Fiction_, she wrote with force and grace, and she just had this authoritative, put-together presence, like everything in her life was completely under her control.

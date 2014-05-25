@@ -1,0 +1,9 @@
+{% if site.debug %}
+<img src="http://placehold.it/1618x1000&text=MB">
+{% else %}
+  {% if include.alt %}
+    {% picture {{ include.size }} {{ include.path }} alt="{{ include.alt }}" %}
+  {% else %}
+    {% picture {{ include.size }} {{ include.path }} %}
+  {% endif %}
+{% endif %}

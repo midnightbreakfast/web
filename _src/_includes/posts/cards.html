@@ -1,29 +1,18 @@
 <div class="cards">
-{% for post in site.posts %}
-	<div class="container">
-		<a class="card" href="{{ post.url }}">
-			{% if post.featured_image %}
-				<div class="pic">
-					{% if post.thumb %}
-						{% picture thumb {{ post.thumb }} %}
-					{% else %}
-						{% picture thumb {{ post.featured_image }} %}
-					{% endif %}
-				</div>
-			{% endif %}
-			<header>
-				<div class="inner">
-					<h2>
-						{% if post.thumb_title %}
-							{{ post.thumb_title }}
-						{% else %}
-							{{ post.title }}
-						{% endif %}
-					</h2>
-					<h4>{{ post.by }}</h4>
-				</div>
-			</header>
-		</a>
-	</div>
-{% endfor %}
+{% if include.contents %}
+  {% for slug in include.contents %}
+    {% capture permalink %}/{{ slug }}/{% endcapture %}
+    {% for post in site.posts %}
+      {% if post.url == permalink %}
+        {% assign selection = post %}
+      {% endif %}
+    {% endfor %}
+    {% assign post = selection %}
+    {% include post/card.html %}
+  {% endfor %}
+{% else %}
+  {% for post in site.posts %}
+    {% include post/card.html %}
+  {% endfor %}
+{% endif %}
 </div>

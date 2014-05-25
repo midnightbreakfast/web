@@ -5,15 +5,18 @@ class: home
 <div class="cover">
 
 	<h2 class="tagline">An Ongoing Conversation.</h2>
-
+	
+	{% for issue in site.data.issues %}
 	<section class="toc outset">
 		<div class="badge">
 			<h2>
 				Issue
-				<strong>0</strong>
+				<strong>{{ issue[1].number }}</strong>
 			</h2>
 		</div>
-		{% include posts/cards.html %}
+		{% assign contents = issue[1].contents %}
+		{% include posts/cards.html contents=contents %}
 	</section>
+	{% endfor %}
 	
 </div>

@@ -27,7 +27,7 @@ layout: default
 				<h3 class="type">{{ page.type }}</h3>
 			{% endif %}
 			{% if page.title_image %}
-				<h1>{% picture {{ page.title_image }} alt="{{ page.title }}" %}</h1>
+				<h1>{% include picture.html path=page.title_image alt=page.title %}</h1>
 			{% else %}
 				<h1>{{ page.title }}</h1>
 			{% endif %}
@@ -36,21 +36,12 @@ layout: default
 			{% endif %}
 			<h4 class="by">by {{ page.by }}</h4>
 		</header>
-<!-- 
-		{% if page.featured_image %}
-			<figure class="left">
-				{% if page.noresize %}
-					<img src="/assets/images/{{ page.featured_image }}">
-				{% else %}
-					{% picture {{ page.featured_image }} %}
-				{% endif %}
-				{% if page.illustrator %}
-					<figcaption>Illustration by {{ page.illustrator }}</figcaption>
-				{% endif %}
-			</figure>
-		{% endif %}
- -->
+		
 		{{ content }}
+		
+		{% for block in page.blocks %}
+		  {{ block.content | markdownify }}
+		{% endfor %}
 		
 		<footer>
 			{% if page.bio %}{{ page.bio | markdownify }}{% endif %}

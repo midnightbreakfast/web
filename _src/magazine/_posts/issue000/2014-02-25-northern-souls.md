@@ -28,7 +28,7 @@ Another film that manages to capture this sort of spirit, while in a far less su
 Today Sam is a chef in California with a wife and two children, one he named Jordan, after Michael Jordan—the hero of all Chicagoland kids when I was growing up—and the other named Turner, after Tina Turner, his favorite soul singer. Sam and I keep in touch with each other over the internet. He randomly emails me things apropos of nothing, or to tell me he read something I posted on Facebook.
 
 <figure class="middle">
-{% picture {{ page.featured_image }} %}
+{% include picture.html path=page.featured_image %}
 </figure>
 
 “It just looked better,” he tells me over email, about why he decided to shave his head and wear tight Ben Sherman shirts, suspenders, and Doc Martens boots. Sam tells me that after his Jamaican immigrant parents moved him to a predominantly white town, he felt “like a weirdo being one of the only black kids,” so he “started hanging out with the other weirdos.” Punks, goths, ravers, theatre kids—whoever would have him. “I liked the punks,” he says, “But I didn’t like most of the music.” Sam grew up on a steady diet of reggae, rocksteady, James Brown, and Motown, so naturally, “That’s the shit I liked.”

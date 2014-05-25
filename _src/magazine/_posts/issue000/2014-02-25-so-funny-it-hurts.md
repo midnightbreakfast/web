@@ -14,7 +14,7 @@ date: 2014-02-25 3am
 ---
 
 <figure class="right">
-{% picture {{ page.featured_image }} %}
+{% include picture.html path=page.featured_image %}
 </figure>
 
 Some months after I'd come out as queer to my friends and family, I happened upon a [Louis C.K. meme](http://imgur.com/gNgnB) about anti-gay rights advocates—particularly those who argue they shouldn’t have to expose their children to same-sex marriages. The meme's caption read, "Two guys are in love but they can't get married because you don't want to talk to your ugly child for fuckin' five minutes?" As much as I'd like to tell that you that straight allies don't deserve cookies and congratulations for exhibiting the bare minimum of human decency, I'd be lying if I said C.K.'s words didn't move me. After years of shaming from straight people, whether in purposely oppressive ways or indirectly cruel ones, it always strikes me as miraculous when some of them support my cause—especially if they're cultural icons. And given the thousands of Likes and Shares the Louis C.K. meme received, I'm guessing his words touched a few others, too. Thing is, I doubt it would have gotten as much mileage if the caption had included C.K.'s full quote: "…Who fuckin' cares about your shitty kid? He's probably a faggot, anyway."

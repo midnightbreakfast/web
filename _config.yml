@@ -1,6 +1,7 @@
 name: Midnight Breakfast
 permalink: /:title/
-markdown: kramdown
+relative_permalinks: false
+markdown: redcarpet
 source: _src
 destination: _site
 redcarpet:
@@ -13,21 +14,6 @@ picture:
   output: "generated"
   markup: "picturefill"
   presets:
-#    default:
-#      ppi: [1]
-#      attr:
-#        class: "image"
-#        itemprop: "image"
-#      source_default: 
-#        width: "1280"
-#    thumb:
-#      ppi: [1]
-#      attr:
-#        class: "thumb"
-#        itemprop: "thumb"
-#      source_default: 
-#        width: "1280"
-#        height: "640"
     default:
       ppi: [1, 1.5, 2]
       attr:

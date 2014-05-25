@@ -1,0 +1,25 @@
+<div class="container">
+  <a class="card" href="{{ post.url }}">
+    {% if post.featured_image %}
+      <div class="pic">
+        {% if post.thumb %}
+          {% include picture.html size="thumb" path=post.thumb %}
+        {% else %}
+          {% include picture.html size="thumb" path=post.featured_image %}
+        {% endif %}
+      </div>
+    {% endif %}
+    <header>
+      <div class="inner">
+        <h2>
+          {% if post.thumb_title %}
+            {{ post.thumb_title }}
+          {% else %}
+            {{ post.title }}
+          {% endif %}
+        </h2>
+        <h4>{{ post.by }}</h4>
+      </div>
+    </header>
+  </a>
+</div>
