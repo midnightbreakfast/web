@@ -1,12 +1,9 @@
 name: Midnight Breakfast
 permalink: /:title/
 relative_permalinks: false
-markdown: redcarpet
+markdown: kramdown
 source: _src
 destination: _site
-redcarpet:
-  extensions:
-    - smart
 kramdown:
   input: GFM
 picture:
