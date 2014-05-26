@@ -12,6 +12,8 @@ body {
 	line-height: 1.35;
 	background: $bg-color;
 	color: white;
+	max-width: 60em;
+	margin: auto;
 }
 @media #{$screen-m} {
 	body {

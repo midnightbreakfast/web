@@ -16,12 +16,9 @@ picture:
       attr:
         class: "image"
         itemprop: "image"
-      source_xxxlarge:
-        media: "(min-width: 1400px)"
-        width: "2000"
       source_xxlarge:
         media: "(min-width: 1000px)"
-        width: "1400"
+        width: "1200"
       source_xlarge:
         media: "(min-width: 800px)"
         width: "1000"
@@ -38,16 +35,12 @@ picture:
       attr:
         class: "thumb"
         itemprop: "thumb"
-      source_xlarge:
-        media: "(min-width: 1000px)"
-        width: "800"
-        height: "400"
       source_large:
         media: "(min-width: 600px)"
-        width: "600"
-        height: "300"
+        width: "400"
+        height: "200"
       source_default: 
-        width: "500"
-        height: "250"
+        width: "300"
+        height: "150"
 gems:
   - jekyll-compass
