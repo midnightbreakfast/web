@@ -381,64 +381,67 @@ donors:
       last: Williams
       first: Patricia
   perks:
-    - Alexander Chee
-    - Ashley Ford
-    - Benjamin Samuel
     - Chris Abani
-    - Conner Habib
-    - David Gutowski
-    - David James Poissant
-    - Elissa Schappell
-    - Elliott Holt
-    - Eric Anthony Glover
-    - Erika Anderson
-    - Erin Kottke & Graywolf Press
-    - Gabrielle Gantz, Andi Winnette, & McSweeney’s
-    - Gina Frangello & Algonquin Books
-    - Isaac Fitzgerald
-    - Jami Attenberg
-    - Jason Diamond
-    - Jason Novak
-    - Jerry Stahl
-    - Jonathan Lee
-    - Josh Christie
-    - Joshua Mohr
-    - Julia Fierro
-    - Juliet Grames, Amara Hoshijo, & Soho Press
-    - Jynne Dilling Martin & Riverhead Books
-    - Kelly Luce
-    - Kima Jones
-    - Lara Odell
-    - Laura van den Berg
-    - Lauren Cerand
-    - Lauren Eggert-Crowe
-    - Lauren O’Neal
-    - Lincoln Michel
-    - Matt Bell
-    - Matthew Salesses
-    - Maud Newton
     - Megan Abbott
-    - Melissa Febos
-    - Michele Filgate
+    - Steve Almond
+    - Erika Anderson
     - Molly Antopol
-    - Molly McArdle
-    - Nancy Smith
-    - Owen King
-    - Peter Orner
-    - Rick Moody
-    - Ron Currie, Jr.
-    - Roxane Gay
-    - Saeed Jones
+    - Jami Attenberg
+    - Matt Bell
+    - Laura van den Berg
     - Sari Botton
     - Sean Carman
-    - Seth Fischer
-    - Shannon Twomey & Penguin Books
+    - Lauren Cerand
+    - Alexander Chee
+    - Josh Christie
+    - Ron Currie, Jr.
+    - Jason Diamond
+    - Lauren Eggert-Crowe
     - Stephen Elliott
-    - Steve Almond
+    - Melissa Febos
+    - Julia Fierro
+    - Michele Filgate
+    - Seth Fischer
+    - Isaac Fitzgerald
     - The Folio Society
-    - Wendy C. Ortiz
+    - Ashley Ford
+    - Gina Frangello & Algonquin Books
+    - Gabrielle Gantz, Andi Winnette, & McSweeney’s
+    - Roxane Gay
+    - Eric Anthony Glover
+    - Juliet Grames, Amara Hoshijo, & Soho Press
+    - David Gutowski
+    - Conner Habib
+    - Elliott Holt
+    - Kima Jones
+    - Saeed Jones
+    - Owen King
+    - Erin Kottke & Graywolf Press
+    - Jonathan Lee
     - Yiyun Li
+    - Kelly Luce
+    - Jynne Dilling Martin & Riverhead Books
+    - Molly McArdle
+    - Lincoln Michel
+    - Joshua Mohr
+    - Rick Moody
+    - Jason Novak
+    - Maud Newton
+    - Lauren O’Neal
+    - Lara Odell
+    - Peter Orner
+    - Wendy C. Ortiz
+    - David James Poissant
+    - Matthew Salesses
+    - Benjamin Samuel
+    - Elissa Schappell
+    - Nancy Smith
+    - Jerry Stahl
+    - Shannon Twomey & Penguin Books
   video:
+    -
+      last: Collins
+      first: Callie
     -
       last: Eggert-Crowe
       first: Lauren
@@ -480,9 +483,9 @@ donors:
       first: Colin
 ---
 
-On Monday, April 14th, 2014, just after midnight ET, Midnight Breakfast raised its goal of $12,000 to help pay contributors and maintain the website for a full year. We were absolutely blown away by all the support for our crowdfunding efforts, not just monetarily, but through hundreds of tweets, Facebook posts, mentions on Tumblr, and even old school, word-of-mouth whispers. We could not have done this without the backing of such a gracious community of readers and writers, and we sincerely thank everyone from the bottom of our hearts. 
+On Monday, April 14, 2014, just after midnight ET, <cite>Midnight Breakfast</cite> raised its goal of $12,000 to help pay contributors and maintain the website for a full year. We were absolutely blown away by all the support for our crowdfunding efforts, not just monetarily, but through hundreds of tweets, Facebook posts, mentions on Tumblr, and even old school, word-of-mouth whispers. We could not have done this without the backing of such a gracious community of readers and writers, and we sincerely thank everyone from the bottom of our hearts. 
 
-The first year of Midnight Breakfast has been made possible by generous donations from the following individuals:
+The first year of <cite>Midnight Breakfast</cite> has been made possible by generous donations from the following individuals:
 
 <ul class="cols cols-wide cols-max-4">
 {% for donor in page.donors.paying %}
@@ -507,4 +510,4 @@ We'd also like to thank our campaign video participants, who took time off at AW
 {% endfor %}
 </ul>
 
-And lastly, we'd especially like to thank Adam Stepinski and Lauren O'Neal, who tirelessly worked with us behind-the-scenes to make sure everything was up to snuff during the campaign. We really mean it when we say: we could not have done this without you.
+And lastly, we'd like to give extra thanks to Adam Stepinski and Lauren O'Neal, who tirelessly worked with us behind-the-scenes to make sure everything was up to snuff during the campaign. We really mean it when we say: we could not have done this without you.
