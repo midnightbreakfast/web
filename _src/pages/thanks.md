@@ -259,6 +259,9 @@ donors:
       first: Angela
     -
       last: Pavlik
+      first: Delores
+    -
+      last: Pavlik
       first: Jordan
     -
       last: Perez
