@@ -28,6 +28,16 @@ Masthead
 *Associate Editor, Marketing & Publicity Manager*
 F. Taylor Pavlik is a writer, editor, and marketer living in Brooklyn. His fiction has been published in <cite>The Blood Orange Review</cite> and <cite>Cantaraville</cite>, and he's received some pretty encouraging rejection letters from the <cite>Mid-American Review</cite> and the <cite>Black Warrior Review</cite>.
 
+### Ashley Perez
+
+*Social Media Editor, Reader*
+Ashley Perez lives, writes, and participates in other shenanigans in Los Angeles, California. She holds an MFA in Creative Writing from Antioch University Los Angeles. She is a regular contributor to <cite>BLEED</cite> (at Jaded Ibis Press) and runs the literary blog, [Arts Collide](http://artscollide.com/). Ashley's work has appeared or is forthcoming in <cite>The Weekenders Magazine</cite>, <cite>BLEED</cite>, <cite>Drunk Monkeys</cite>, <cite>The Weeklings</cite>, and <cite>First Time: An Anthology About Lost Virginity</cite>. You can also find her on Twitter at [@ArtsCollide](http://twitter.com/artscollide).
+
+### Lauren O’Neal
+
+*Copyeditor, Reader*
+Lauren O’Neal is a freelance writer and editor working toward an MFA in creative writing in San Francisco. She has written for publications like <cite>Slate</cite>, <cite>The New Inquiry</cite>, and <cite>The Rumpus</cite>, where she was formerly an assistant editor. You can follow her on Twitter at [@laureneoneal](https://twitter.com/laureneoneal).
+
 
 Submissions Info
 ----------------
