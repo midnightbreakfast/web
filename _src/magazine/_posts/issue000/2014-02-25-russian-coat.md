@@ -1,5 +1,6 @@
 ---
 layout: post
+issue: 000
 type: Fiction
 title: The Russian Coat
 by: Matthew Salesses

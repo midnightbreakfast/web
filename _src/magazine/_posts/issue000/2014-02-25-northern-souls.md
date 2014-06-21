@@ -1,5 +1,6 @@
 ---
 layout: post
+issue: 000
 type: Nonfiction
 title: Northern Souls
 by: Jason Diamond

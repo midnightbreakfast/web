@@ -1,5 +1,6 @@
 ---
 layout: post
+issue: 000
 type: Nonfiction
 title: So Funny It Hurts
 by: Eric Anthony Glover

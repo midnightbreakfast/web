@@ -1,5 +1,6 @@
 ---
 layout: post
+issue: 000
 type: In Conversation With
 title: Callie Collins
 thumb_title: In Conversation with Callie Collins

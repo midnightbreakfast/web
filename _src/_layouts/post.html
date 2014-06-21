@@ -2,17 +2,19 @@
 layout: default
 ---
 <div id="page">
-  {% if page.categories contains 'magazine' %}
+  {% if page.issue %}
     <section class="toc before">
       <a class="badge" href="#issue">
         <h2>
           Issue
-          <strong>0</strong>
+          <strong>{{ page.issue }}</strong>
         </h2>
       </a>
       <div id="issue">
         <section class="contents outlined">
-          {% include posts/cards.html contents=site.data.issues.issue0.contents %}
+          {% capture issue %}issue{{ page.issue }}{% endcapture %}
+          {% assign contents = site.data.issues[issue].contents %}
+          {% include posts/cards.html contents=contents %}
         </section>
       </div>
     </section>
@@ -55,17 +57,19 @@ layout: default
 		</footer>
 	</article>
 </div>
-{% if page.categories contains 'magazine' %}
+{% if page.issue %}
   <section class="toc after">
     <div class="badge">
       <h2>
         Issue
-        <strong>0</strong>
+        <strong>{{ page.issue }}</strong>
       </h2>
     </div>
     <div>
       <section class="contents">
-        {% include posts/cards.html contents=site.data.issues.issue0.contents %}
+        {% capture issue %}issue{{ page.issue }}{% endcapture %}
+        {% assign contents = site.data.issues[issue].contents %}
+        {% include posts/cards.html contents=contents %}
       </section>
     </div>
   </section>

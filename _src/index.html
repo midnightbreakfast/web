@@ -6,6 +6,19 @@ class: home
 
 	<h2 class="tagline">An Ongoing Conversation.</h2>
 	
+	{% for issue in site.data.issues limit:1 %}
+	<section class="toc outset">
+		<div class="badge">
+			<h2>
+				Issue
+				<strong>{{ issue[1].number }}</strong>
+			</h2>
+		</div>
+		{% assign contents = issue[1].contents %}
+		{% include posts/cards.html contents=contents %}
+	</section>
+	{% endfor %}
+	
 	{% for post in site.categories.smalls limit:1 %}
 	  <a class="feature-smalls" href="{{ post.url }}">
 	    <figure>
@@ -19,7 +32,7 @@ class: home
 	  </a>
 	{% endfor %}
 	
-	{% for issue in site.data.issues %}
+	{% for issue in site.data.issues limit:1 offset:1 %}
 	<section class="toc outset">
 		<div class="badge">
 			<h2>
