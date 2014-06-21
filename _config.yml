@@ -7,7 +7,7 @@ destination: _site
 kramdown:
   input: GFM
 picture:
-  source: "assets/images/_full"
+  source: "assets/images/full"
   output: "generated"
   markup: "picturefill"
   presets:

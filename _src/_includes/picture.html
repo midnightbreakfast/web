@@ -1,5 +1,5 @@
 {% if site.debug %}
-  <img src="http://placehold.it/1618x1000&text=MB">
+  <img src="/assets/images/full/{{ include.path }}">
 {% else %}
   {% picture {{ include.size }} {{ include.path }} alt="{{ include.alt }}" %}
 {% endif %}
