@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 001
-type: TK
+type: Fiction
 title: Some Pride of Ownership
 by: Dwyer Murphy
 featured_image: issue1/pride/covers.jpg

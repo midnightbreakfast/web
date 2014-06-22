@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 001
-type: TK
+type: Nonfiction
 title: Rooms We Die In
 by: Migueltzinta C. Solís
 featured_image: issue1/rooms/boxes.jpg
