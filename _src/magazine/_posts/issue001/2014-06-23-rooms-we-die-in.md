@@ -17,13 +17,13 @@ Now that aunt #6 was dead, we could be a hand. If we are a hand, my grandmother 
 
 They are not quite aunts/uncles, not quite tíos/tías, these other fingers, pulled between English and Spanish, post-colonial and post-Chicano. Aunt finger #3 maintains a spectacular koi pond, does consultation work for dairies, and wishes she were a private investigator. Uncle finger #2 is a tall, mustached cowboy with one eye squinted, works as a mechanic, and has lived in a trailer ever since someone drove into the side of his house. Uncle finger #4 died for eight minutes and came back to life, converses with angels, and is married to a natural blonde. Aunt finger #1 hadn’t spoken with the others for two years, but she swooped in upon hearing of the death, a phantom of the opera, her heroics unsummoned.
 
-My mamá, the thumb, is not only opposable, she is opposed. She is always in trouble with the rest for things like—in semi-chronological order—reading, making art, going to college, having a nose-piercing, marrying another Mexican, going to Abuelita’s second wedding, and escaping the slow swallow of her agricultural hometown. 
+My mamá, the thumb, is not only opposable, she is opposed. She is always in trouble with the rest for things like — in semi-chronological order — reading, making art, going to college, having a nose-piercing, marrying another Mexican, going to Abuelita’s second wedding, and escaping the slow swallow of her agricultural hometown. 
 
 Mamá is the thumb, and I am her fingernail. I am the only granddaughter whose first language was Spanish, and who still speaks it fluently. Respected, I serve proudly as ceremonial weapon to our matrilineality, yet, having transitioned from female to male, I am a granddaughter by office, not gender. I am The Good Kid whose voice has suddenly deepened, whose chest has gone flat, who grows stubble, who lives with A Good Friend. When I visit my extended family, I shave off my sideburns and wear a baggy shirt. To serve them as matrilineal weapon means not to tell. And to honor the nail on the thumb means for them never to ask. No one decided this. It just is.
 
 ***
 
-When aunt #6 was found dead in her residential motel room, the other fingers waited a week to tell Abuelita. Aunt #6 had lived alone, had struggled with mental illness, and had been homeless for a time. She had been nice to strangers and mean to her family. According to aunt #3, the police never released a cause of death. She said the police wouldn’t say how she died, couldn’t in fact prove it was her without an ID—which had not been found at the scene. The ashes were released to aunt #3 in the end. On her way home, she stopped by aunt #6’s motel room, and then called the thumb to say that someone else would have to clean because she refused to look at the place again.
+When aunt #6 was found dead in her residential motel room, the other fingers waited a week to tell Abuelita. Aunt #6 had lived alone, had struggled with mental illness, and had been homeless for a time. She had been nice to strangers and mean to her family. According to aunt #3, the police never released a cause of death. She said the police wouldn’t say how she died, couldn’t in fact prove it was her without an ID — which had not been found at the scene. The ashes were released to aunt #3 in the end. On her way home, she stopped by aunt #6’s motel room, and then called the thumb to say that someone else would have to clean because she refused to look at the place again.
 
 ***
 
@@ -67,13 +67,13 @@ Baggy jeans gave way to zip offs, which gave way to cargo pants, which gave way 
 
 ***
 
-We pulled into the Plaza Motel in the mid-afternoon. Red letters on yellow, no logo. From the street, the building just looked to me like someone with their eyes shut tight. From inside, the place was like the aftermath of a spaghetti Western, the blood dried and crusted—hungry, thirsty, dusty, and all messed up in the head. The rooms of the motel were arranged in a horseshoe shape around a rutted parking lot and four dying palm trees. The windows of the office were behind thick bars, silent. People stood around, gaunt, not looking at each other, pushing busted strollers full of babies and/or bottles and cans. Johns and dealers rolled past in nice, slow-moving cars, coming and going behind dark-tinted windows and yellow-tinted glasses.
+We pulled into the Plaza Motel in the mid-afternoon. Red letters on yellow, no logo. From the street, the building just looked to me like someone with their eyes shut tight. From inside, the place was like the aftermath of a spaghetti Western, the blood dried and crusted — hungry, thirsty, dusty, and all messed up in the head. The rooms of the motel were arranged in a horseshoe shape around a rutted parking lot and four dying palm trees. The windows of the office were behind thick bars, silent. People stood around, gaunt, not looking at each other, pushing busted strollers full of babies and/or bottles and cans. Johns and dealers rolled past in nice, slow-moving cars, coming and going behind dark-tinted windows and yellow-tinted glasses.
 
 “This is it,” one of us said unnecessarily as we parked in front of the only door with missing numbers. I put gloves on and handed a pair to Mamá. She left them on the dashboard. We got out of the van and stood in front of the flimsy door. A sticker with the coroner’s seal across the doorframe had been split in two, presumably by aunt #3. I pulled the key from my breast pocket and unlocked the loose doorknob.
 
 Mounds. Lumps. Towers. Before us was a room filled with a single object made of hundred of little ones welded together with shadow and grit. There were layers and layers and layers, like some kind of awful cake. We wilted in the doorway. I started sweating immediately, warmed by the must of death. Alive with decomposition, the room was reanimated, little animals running from daylight, from us. I tried the light switch, but the bare bulb crackled, sparked, and stayed off. “Water in the walls,” I concluded, nodding at the warped, mildew-stained boards. I unplugged the furnace.
 
-I thought to myself, <em>I’m in a fucking point-and-click adventure game</em>. It’s a type of computer game my brother, my partner, and I enjoy playing together. The narratives of these games often revolve around hauntings and supernatural occurrences. The player clicks around the environment, gathering clues and solving puzzles in order to advance the plot. But without the right music, some things are just matters of fact. The fact of mold across a wall, the fact of water dripping somewhere in the dark, the fact of infestation—roaches, spiders, and mice. The fact of disowned objects filling a room, expectant. The fact that a dead body must stink because it is calling out to be alchemized into earth.
+I thought to myself, <em>I’m in a fucking point-and-click adventure game</em>. It’s a type of computer game my brother, my partner, and I enjoy playing together. The narratives of these games often revolve around hauntings and supernatural occurrences. The player clicks around the environment, gathering clues and solving puzzles in order to advance the plot. But without the right music, some things are just matters of fact. The fact of mold across a wall, the fact of water dripping somewhere in the dark, the fact of infestation — roaches, spiders, and mice. The fact of disowned objects filling a room, expectant. The fact that a dead body must stink because it is calling out to be alchemized into earth.
 
 ***
 
@@ -87,7 +87,7 @@ A bar mounted across a corner to serve as coat rack
 
 A narrow bathroom with a toilet and shower stall
 
-Now unplug the TV and turn it to face the wall. Push the chair into the corner. Pile shopping bags on the chair. Fill the room with boxes. Pile the new things on top of the old things. Wrap them in plastic bags, or the mice will ruin them. Buy food that doesn’t require preparation or refrigeration. Keep it in boxes and plastic bins. When that food is contaminated by roaches, buy more food. Wrap today’s purchases inside of plastic bags. Pile these on top of the old things. If the piles won’t stay, put them on the bed. Don’t put anything under the bed. Now sleep on the floor by the door. Keep a path open to the bathroom. But don’t use the shower—the wall is falling in.
+Now unplug the TV and turn it to face the wall. Push the chair into the corner. Pile shopping bags on the chair. Fill the room with boxes. Pile the new things on top of the old things. Wrap them in plastic bags, or the mice will ruin them. Buy food that doesn’t require preparation or refrigeration. Keep it in boxes and plastic bins. When that food is contaminated by roaches, buy more food. Wrap today’s purchases inside of plastic bags. Pile these on top of the old things. If the piles won’t stay, put them on the bed. Don’t put anything under the bed. Now sleep on the floor by the door. Keep a path open to the bathroom. But don’t use the shower — the wall is falling in.
 
 ***
 
@@ -101,7 +101,7 @@ I felt myself picking up speed, just throwing away and throwing away and throwin
 
 ***
 
-When I was a little kid, papers covered the floor of my play area. Coupons, expired checks, train and airplane ticket stubs, punch cards and index cards. They symbolized a kind of ordered materialism to me, objects charged with a peculiar fantasy of office and organization. There was a children’s book I read all the time about an accountant, and there was a picture of him—he was a dog—with his ledgers, receipts, bonds, bills, and checks laid out before him. I remember miming a kind of digging at the page with my hand, coveting the stacks of paper.
+When I was a little kid, papers covered the floor of my play area. Coupons, expired checks, train and airplane ticket stubs, punch cards and index cards. They symbolized a kind of ordered materialism to me, objects charged with a peculiar fantasy of office and organization. There was a children’s book I read all the time about an accountant, and there was a picture of him — he was a dog — with his ledgers, receipts, bonds, bills, and checks laid out before him. I remember miming a kind of digging at the page with my hand, coveting the stacks of paper.
 
 Besides that, I couldn’t have told you why the papers, scattered, littering our house, mattered so much to me, why it was such a big deal when my mamá, the dexterous thumb, true to threat, took a black plastic bag and started throwing them all away. How could I blame her when wildfires are the thing one worries about in rural California?
 
@@ -189,7 +189,7 @@ We talked about when we died. When we died, we would leave clear indication. Whe
 
 ***
 
-A neighbor dragged out her lawn chair around midday and made herself comfortable in the shade of the van, content to watch the pile of garbage grow in the parking lot. I couldn’t blame her—watching the roaches flee in all directions was highly entertaining—but Mamá was offended. 
+A neighbor dragged out her lawn chair around midday and made herself comfortable in the shade of the van, content to watch the pile of garbage grow in the parking lot. I couldn’t blame her — watching the roaches flee in all directions was highly entertaining — but Mamá was offended. 
 
 We carried out the plan as discussed: I piled salvageable clothing, mail, documents, and purses for Mamá to look through. I threw out everything else. There was nothing under the bed or in the bureau. I stabbed at dark corners with the end of a broom and the dashing of mice made us twitch.
 
@@ -271,4 +271,4 @@ Thumb: The challenge? It probably changed your life!
 
 Nail: No I think it did but because of what you were saying not because of what she was saying. You know it’s like anybody could have that room INSIDE them! There’s some kinda queer futurity mixed up in this.
 
-Thumb: Excellent. You are getting somewhere now. It was an honor in a way—to see her. Thank you I am proud you are my <strike>son</strike> nail.
+Thumb: Excellent. You are getting somewhere now. It was an honor in a way — to see her. Thank you I am proud you are my <strike>son</strike> nail.
