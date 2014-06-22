@@ -5,6 +5,10 @@ type: In Conversation With
 title: Wendy C. Ortiz
 thumb_title: In Conversation with Wendy C. Ortiz
 by: Lauren Eggert-Crowe
+
+bio: |
+  [Lauren Eggert-Crowe](http://www.laureneggertcrowe.com) is the author of two poetry chapbooks: <cite>The Exhibit</cite> (Hyacinth Girl Press, 2013) and <cite>In the Songbird Laboratory</cite> (Dancing Girl Press, 2013). Her poems have appeared in <cite>Tupelo Quarterly</cite>, <cite>SpringGun</cite>, <cite>Sixth Finch</cite>, <cite>Interrupture</cite>, <cite>DIAGRAM</cite>, and elsewhere. She has written essays, book reviews, and interviews for <cite>The Rumpus</cite>, <cite>L.A. Review of Books</cite>, <cite>The Millions</cite>, <cite>Salon</cite>, and <cite>The Nervous Breakdown</cite>. She is a contributing editor for <cite>TROP</cite> and a regular contributor to <cite>Midnight Mixologist</cite>. Raised in Pennsylvania, she now lives in Los Angeles. Follow her on Twitter at @laureggertcrowe.
+
 featured_image: issue1/ortiz/ortiz.jpg
 ---
 

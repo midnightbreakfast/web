@@ -5,7 +5,7 @@ type: Nonfiction
 title: Never Write From a Place of Despair
 by: Erika Anderson
 bio: |
-  TK
+  [Erika Anderson](https://twitter.com/erikaonfire) is a contributing editor for <cite>Guernica Magazine</cite> and teaches for the Sackett Street Writers' Workshop. Her writing has appeared in the <cite>New York Times</cite>, <cite>Creative Nonfiction</cite>, <cite>BuzzFeed Books</cite>, <cite>Interview Magazine</cite>, and has been nominated for a Pushcart Prize. She has an MFA from Vermont College of Fine Arts and lives in Brooklyn's Crown Heights, where she co-hosts the Renegade Reading Series for emerging writers.
 illustrator:
   name: Summer Pierre
 featured_image: issue1/despair/despair.png

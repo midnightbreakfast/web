@@ -4,6 +4,8 @@ issue: 001
 type: Nonfiction
 title: Rooms We Die In
 by: Migueltzinta C. Solís
+bio: |
+  [Migueltzinta C. Solís](http://cauhboi.wordpress.com) was raised in Mexico and California. He earned his BA from The Evergreen State College in Interdisciplinary Studies. He will be attending the VONA/Voices Writers of Color Workshop this year. Aside from being a writer, Migueltzinta is also a visual artist.
 featured_image: issue1/rooms/boxes.jpg
 ---
 
