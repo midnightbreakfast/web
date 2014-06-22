@@ -3,6 +3,7 @@ layout: post
 issue: 001
 type: In Conversation With
 title: Wendy C. Ortiz
+thumb_title: In Conversation with Wendy C. Ortiz
 by: Lauren Eggert-Crowe
 featured_image: issue1/ortiz/ortiz.jpg
 ---
