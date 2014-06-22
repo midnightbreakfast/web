@@ -9,6 +9,7 @@ bio: |
 illustrator:
   name: Summer Pierre
 featured_image: issue1/despair/despair.png
+thumb: issue1/despair/thumb.png
 ---
 
 <figure class="middle small">
