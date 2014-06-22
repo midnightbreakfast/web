@@ -1,5 +1,6 @@
 ---
 layout: post
+type: Issue 0
 title: Letter from the Editor
 by: Rebecca Rubenstein
 permalink: /letter/
