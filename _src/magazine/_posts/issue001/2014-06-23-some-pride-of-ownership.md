@@ -159,13 +159,11 @@ Through the leaves, I could make out glimpses of the waiters, the one struggling
 
 When the plaza was quiet and empty, I began a new letter. I read it several times but never felt the need to revise, and even now I have a distinct, if not perfect, memory of it. 
 
-Dear Jala, 
-
-I think of you when I’m in the shower. At a certain point it’s a relief just to tell you something true. In the mornings, when you stay over, I always wake up before you, and in the shower I get rid of all the night’s tension and longing with a beautiful tug at myself. I have hot water and good pressure and I don’t feel ashamed for a second. I think of you and it feels wonderful. I hope this doesn’t offend you, but if it does, I don’t think I’m to blame. 
-
-
-
-Warmly yours –  
+> Dear Jala, 
+> 
+> I think of you when I’m in the shower. At a certain point it’s a relief just to tell you something true. In the mornings, when you stay over, I always wake up before you, and in the shower I get rid of all the night’s tension and longing with a beautiful tug at myself. I have hot water and good pressure and I don’t feel ashamed for a second. I think of you and it feels wonderful. I hope this doesn’t offend you, but if it does, I don’t think I’m to blame. 
+> 
+> Warmly yours –  
 
 With the letter still in the typewriter I dozed off and enjoyed a ten-hour oblivion. I woke to the little jays in the linden tree and the sun already halfway up the cathedral’s steeple. A steam radiator had started in the night, and I’d worked up a sweat while I slept. The same woman who locked me in the night before came up to say hello, and I sat with her on the bench outside the shop, sharing a cup of coffee while the tourist boats idled along the riverbank. 
 
