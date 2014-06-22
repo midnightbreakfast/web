@@ -1,13 +1,12 @@
 issue1:
   number: 1
   contents:
-    - never-write
-    - orange-valley-lodge-13
     - rooms-we-die-in
-    - scumbag
-    - some-pride-of-ownership
+    - orange-valley-lodge-13
+    - never-write
     - wendy-c-ortiz
-issue0:
+    - some-pride-of-ownership
+    - scumbag
   number: 0
   contents:
     - northern-souls
