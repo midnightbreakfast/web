@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 001
-type: TK
+type: Oral History
 title: 'Orange Valley Lodge #13'
 by: Susan Straight
 bio: |
