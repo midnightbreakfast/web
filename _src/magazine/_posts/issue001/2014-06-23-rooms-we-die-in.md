@@ -11,9 +11,9 @@ featured_image: issue1/rooms/boxes.jpg
 {% include picture.html path=page.featured_image %}
 </figure>
 
-Now that aunt #6 is dead, we could be a hand. If we are a hand, my grandmother is the cupped palm at the center of her five remaining children. If we are a hand, my mother is the thumb, and the other fingers are her brothers and sisters. They hold themselves rigidly so as not to touch, and my mother, the thumb, must handle the emotional intricacies around which the other four digits are not equipped to maneuver. The thumb must cross two state lines to facilitate the distance between the fingers and the cupped palm.
+Now that aunt #6 was dead, we could be a hand. If we are a hand, my grandmother is the cupped palm at the center of her five remaining children. If we are a hand, my mother is the thumb, and the other fingers are her brothers and sisters. They hold themselves rigidly so as not to touch, and my mother, the thumb, must handle the emotional intricacies around which the other four digits are not equipped to maneuver. The thumb must cross two state lines to facilitate the distance between the fingers and the cupped palm.
 
-They are not quite aunts/uncles, not quite tíos/tías, these other fingers, pulled between English and Spanish, post-colonial and post-Chicano. Aunt finger #3 maintains a spectacular koi pond, does consultation work for dairies, and wishes she were a private investigator. Uncle finger #2 is a tall, mustached cowboy with one eye squinted, works as a mechanic, has lived in a trailer ever since someone drove into the side of his house. Uncle finger #4 died for eight minutes and came back to life, converses with angels, and is married to a natural blonde. Aunt finger #1 hadn’t spoken with the others for two years, but she swooped in upon hearing of the death, a phantom of the opera, her heroics unsummoned.
+They are not quite aunts/uncles, not quite tíos/tías, these other fingers, pulled between English and Spanish, post-colonial and post-Chicano. Aunt finger #3 maintains a spectacular koi pond, does consultation work for dairies, and wishes she were a private investigator. Uncle finger #2 is a tall, mustached cowboy with one eye squinted, works as a mechanic, and has lived in a trailer ever since someone drove into the side of his house. Uncle finger #4 died for eight minutes and came back to life, converses with angels, and is married to a natural blonde. Aunt finger #1 hadn’t spoken with the others for two years, but she swooped in upon hearing of the death, a phantom of the opera, her heroics unsummoned.
 
 My mamá, the thumb, is not only opposable, she is opposed. She is always in trouble with the rest for things like—in semi-chronological order—reading, making art, going to college, having a nose-piercing, marrying another Mexican, going to Abuelita’s second wedding, and escaping the slow swallow of her agricultural hometown. 
 
@@ -33,7 +33,7 @@ When aunt #6 was found dead in her residential motel room, the other fingers wai
 
 Mamá had been upgraded to a minivan for free. “They asked if I’d take the Prius or the van, and I said the van because it might come in handy. Watch this,” said the thumb, clicking buttons. The side door slid open by itself. I nodded slowly, impressed.
 
-Mamá drove her minivan upgrade through the desert while I looked at pictures of the room on her phone. I backward-pinched my fingers over a dark, narrow space illuminated by flash, zoomed in on a bunched blanket, a yellow glove turned inside-out, stacks of boxes going up on all sides and a pile of curly hair.
+Mamá drove her minivan upgrade through the desert while I looked at pictures of the room on her phone. I backward-pinched my fingers over a dark, narrow space illuminated by flash, zoomed in on a bunched blanket, a yellow glove turned inside-out, stacks of boxes going up on all sides, and a pile of curly hair.
 
 “You think that’s a wig?” asked Mamá.
 
@@ -41,7 +41,7 @@ I shook my head. “I dunno. But looks like we’re going to need a shovel. Like
 
 We were about to pick up Abuelita, after which we would not discuss the room. She would stay with my great aunt, “Tía,” for the day.
 
-“I’m pretty sure your aunt #6 was a hoarder,” said Mamá, birthing the word into the world with caution. “But I don’t think we’ll need a shovel.”
+“I’m pretty sure your aunt #6 was a hoarder,” said Mamá, birthing the word into the world with caution. “But I don’t think we’ll need a <em>shovel</em>.”
 
 I stayed quiet, embarrassed, the fatalistic nail on an optimistic thumb.
 
@@ -53,7 +53,7 @@ I had been thinking for a few minutes. “Do we know how she died yet? Should we
 
 “Don’t worry, I brought sage.” 
 
-We could have been in an episode of Hoarders, but it felt more like a forensics-themed telenovela, the Chicano takeover of Bones. I would play the steel-stomached cynic so she could play the open mind that puts all the pieces together.
+We could have been in an episode of <em>Hoarders</em>, but it felt more like a forensics-themed telenovela, the Chicano takeover of <em>Bones</em>. I would play the steel-stomached cynic so she could play the open mind that puts all the pieces together.
 
 I drooped my brow as directed and said, “Sometimes sage isn’t enough.”
 
@@ -71,7 +71,7 @@ We pulled into the Plaza Motel in the mid-afternoon. Red letters on yellow, no l
 
 Mounds. Lumps. Towers. Before us was a room filled with a single object made of hundred of little ones welded together with shadow and grit. There were layers and layers and layers, like some kind of awful cake. We wilted in the doorway. I started sweating immediately, warmed by the must of death. Alive with decomposition, the room was reanimated, little animals running from daylight, from us. I tried the light switch, but the bare bulb crackled, sparked, and stayed off. “Water in the walls,” I concluded, nodding at the warped, mildew-stained boards. I unplugged the furnace.
 
-I thought to myself, I’m in a fucking point-and-click adventure game. It’s a type of computer game my brother, my partner, and I enjoy playing together. The narratives of these games often revolve around hauntings and supernatural occurrences. The player clicks around the environment, gathering clues and solving puzzles in order to advance the plot. But without the right music, some things are just matters of fact. The fact of mold across a wall, the fact of water dripping somewhere in the dark, the fact of infestation—roaches, spiders, and mice. The fact of disowned objects filling a room, expectant. The fact that a dead body must stink because it is calling out to be alchemized into earth.
+I thought to myself, <em>I’m in a fucking point-and-click adventure game</em>. It’s a type of computer game my brother, my partner, and I enjoy playing together. The narratives of these games often revolve around hauntings and supernatural occurrences. The player clicks around the environment, gathering clues and solving puzzles in order to advance the plot. But without the right music, some things are just matters of fact. The fact of mold across a wall, the fact of water dripping somewhere in the dark, the fact of infestation—roaches, spiders, and mice. The fact of disowned objects filling a room, expectant. The fact that a dead body must stink because it is calling out to be alchemized into earth.
 
 ***
 
@@ -89,13 +89,13 @@ Now unplug the TV and turn it to face the wall. Push the chair into the corner. 
 
 ***
 
-We must have been standing on the spot she died. A comforter and stained pillow lay there, and when I stepped in to move it aside, my foot slid in something. The tuft of curly salt-and-pepper hair was not a wig. Aunt #6 would have been mostly fluid by the time she was found, the hair tumbling off on its own. I imagined the coroner staff: overworked, tired, closed-faced people struggling to gather up the decaying body, stuffing her into a bag. Went in, got out. No shiny charisma, not the cast of CSI. They would have been silent, not cracking jokes or feeling exuberant over tiny evidences, not seeking out the stories of the woman or the place. None of that.
+We must have been standing on the spot she died. A comforter and stained pillow lay there, and when I stepped in to move it aside, my foot slid in something. The tuft of curly salt-and-pepper hair was not a wig. Aunt #6 would have been mostly fluid by the time she was found, the hair tumbling off on its own. I imagined the coroner staff: overworked, tired, closed-faced people struggling to gather up the decaying body, stuffing her into a bag. Went in, got out. No shiny charisma, not the cast of <em>CSI</em>. They would have been silent, not cracking jokes or feeling exuberant over tiny evidences, not seeking out the stories of the woman or the place. None of that.
 
 In my mind’s eye, per the mythology of us, the border-crosser is incomplete without plastic bags full of food and objects with which to seed their new life. But aunt #6 must have crossed this border hundreds of times without ever beginning. Nothing in the room was displayed or arranged for daily use, nothing but a sliver of soap, a slim roll of toilet paper and an empty bucket in the empty bathroom. All the things in the room were wrapped, bundled, and massed in plastic shopping bags, all roughly the same size, heaped on every surface like carefully lain insect pupae.
 
 Thumb said, “We need to find her purse and her documents, so if it looks like a purse or papers, open it up. Aunt #3 wants to keep some things too. But if it looks bad, throw it out.” I nodded, and started stuffing a garbage bag with the things on the floor. Blanket, plastic glove, hair. Bed, bath, beyond. We began opening the plastic-wrapped bundles. They were mostly filled with clothes in their original bagging, tags attached. I lifted a box near the spot where aunt #6’s body had lain, and a writhe of maggots came to life. Flailing their rotund bodies, they looked like miniature versions of the bag bundles, piled high and teetering. 
 
-I felt myself picking up speed, just throwing away and throwing away and throwing away anything that wasn’t what we we’re there to find. Moving too fast, I imagined Mamá thinking. Too heartlessly, too recklessly, too much a weapon, too much a shovel, too much the nail of her thumb.
+I felt myself picking up speed, just throwing away and throwing away and throwing away anything that wasn’t what we were there to find. <em>Moving too fast</em>, I imagined Mamá thinking. Too heartlessly, too recklessly, too much a weapon, too much a shovel, too much the nail of her thumb.
 
 ***
 
@@ -161,9 +161,9 @@ That night Tía asked me, “¿Y que piensas de nuestro pueblito, Migueltzinta?�
 
 Abuelita asked us how it was going, wanted to know about her daughter’s room, which had strategically not been described to her. Abuelita used to work as a housekeeper, describes frequently the trophies and recognitions she has received for her excellence in the field. It seemed imprudent to tell her about the slippery, greasy carpet, the eddies of mouse pellets, the peeling, buckling, mold-fuzzy walls. We just nodded, said, “Ay vamos, poco a poco,” and mentioned casually that we hadn’t found the purse. Even so, she read the trouble in our evasion and pursed her lips.
 
-We stayed up too late that night. Tía shouted out stories about growing up in Mexico, competing with Ocean’s Twelve playing loudly on TV. Although it was clear that we would rather listen to her than the TV, she did not turn the volume down. I didn’t turn it down either. It was the orchestral score for Tía’s movie, urgent and cool. Gesturing grandly with her short arms and small hands, the stories made her chair shake. She told us about the complex process of wooing, the unreliability of buses and their drivers, and explosive diarrhea in the workplace.
+We stayed up too late that night. Tía shouted out stories about growing up in Mexico, competing with <em>Ocean’s Twelve</em> playing loudly on TV. Although it was clear that we would rather listen to her than the TV, she did not turn the volume down. I didn’t turn it down either. It was the orchestral score for Tía’s movie, urgent and cool. Gesturing grandly with her short arms and small hands, the stories made her chair shake. She told us about the complex process of wooing, the unreliability of buses and their drivers, and explosive diarrhea in the workplace.
 
-You would get off the bus and there would be nothing as far as the eye could see, not house nor person nor dog... Seven men came to ask for my hand! They filled the living room. My mother had to come out and yell, “Alright! Which one of you is the suitor?”And they all pointed to a man in the doorway... I was working at a resort that day and I had to take the baby with me...
+<em>You would get off the bus and there would be nothing as far as the eye could see, not house nor person nor dog... Seven men came to ask for my hand! They filled the living room. My mother had to come out and yell, “Alright! Which one of you is the suitor?” And they all pointed to a man in the doorway... I was working at a resort that day and I had to take the baby with me...</em>
 
 The shuttle to the dialysis place arrived before sunrise. I had slept on the floor by the door, and I listened as Tía gathered up her purse and keys. She paused, and a moment later I felt the weight of a blanket thrown over me. For a moment the blanket was comforting and warm. But then I started thinking of the blanket and pillow lying soggily in the empty space by the door in aunt #6’s room. Was it so strange to sleep on the floor by the door? Wasn’t it something that could just happen?
 
@@ -191,13 +191,13 @@ A neighbor dragged out her lawn chair around midday and made herself comfortable
 
 We carried out the plan as discussed: I piled salvageable clothing, mail, documents, and purses for Mamá to look through. I threw out everything else. There was nothing under the bed or in the bureau. I stabbed at dark corners with the end of a broom and the dashing of mice made us twitch.
 
-“Do you feel changed?” asked Mamá.
+“Do you feel <em>changed</em>?” asked Mamá.
 
 “What?”
 
 “Remember what your aunt #3 said? That seeing the room changed her? That she was going to go home and clean out her garage?”
 
-There was something deeply moving about the intense consolidation of a person, of a personality, something far more meaningful than the waxed dramas held at arm’s length in Hoarders. I imagined aunt #6 going out daily to forage for glamour in Bakersfield, imagined her overwhelmed by the pleasure of these objects. To her, this had been oxygen and medicine, a dosage, a fix. I imagined my aunt’s coming and going, a cell mid-vein, caught in pulse, from store to infested room and back to store. She had subscribed to kitsch out of aesthetic necessity. Cheap and shiny: a kitsch for surviving the third world amidst the broken promises of the first.
+There was something deeply moving about the intense consolidation of a person, of a personality, something far more meaningful than the waxed dramas held at arm’s length in <em>Hoarders</em>. I imagined aunt #6 going out daily to forage for glamour in Bakersfield, imagined her overwhelmed by the pleasure of these objects. To her, this had been oxygen and medicine, a dosage, a fix. I imagined my aunt’s coming and going, a cell mid-vein, caught in pulse, from store to infested room and back to store. She had subscribed to kitsch out of aesthetic necessity. Cheap and shiny: a kitsch for surviving the third world amidst the broken promises of the first.
 
 “Do you like any of these clothes? What size shoes do you wear?”
 
@@ -219,7 +219,7 @@ First, Mamá found the purse, well worn and made of lima-bean-green faux alligat
 
 Then Mamá found a Ghostbusters sticker. “How perfect is that?” she said, setting it in the little alcove beside the bundles of sage. We regarded the sudden altar in silence. It was too perfect. I clapped my hands, head flopping back with irreverent, crow-like laughter. Beside me, the thumb also bared her teeth, as together we consumed the carrion of circumstance.
 
-Later I found a picture of Marilyn Monroe, which at first I threw aside, but which I then felt compelled to revisit. The picture was printed on a plastic canvas stretched on an eight-by-eleven-inch frame. Monroe’s face is laughing against a pink-and-white floral backdrop. Written in a cursive font are the words, “Beneath the make-up and behind the smile I’m just the girl who wishes for the world.” In the original quote, it’s “a girl,” but someone must have changed that to avoid copyright issues. The price tag is still stuck to the back, says “Made in China.” “$8.00” is crossed off in red, “$4.26” handwritten above. Aunt #6 never put it up. The frame was still in the DollarPlus store bag it was purchased in.
+Later I found a picture of Marilyn Monroe, which at first I threw aside, but which I then felt compelled to revisit. The picture was printed on a plastic canvas stretched on an eight-by-eleven-inch frame. Monroe’s face is laughing against a pink-and-white floral backdrop. Written in a cursive font are the words, “Beneath the make-up and behind the smile I’m just the girl who wishes for the world.” In the original quote, it’s “<em>a</em> girl,” but someone must have changed that to avoid copyright issues. The price tag is still stuck to the back, says “Made in China.” “$8.00” is crossed off in red, “$4.26” handwritten above. Aunt #6 never put it up. The frame was still in the DollarPlus store bag it was purchased in.
 
 I could feel the throb of dystopia beating in my chest, could feel this shitty kitsch stinging on my own existential wound. I remembered all the makeup my aunt used to wear, how thick she wore it, how blue her eyelids were, blue enough to scare me as a kid. I remembered my partner saying how worn Monroe’s skin was by the end of her life, ravaged from the daily putting-on and taking-off of face. The steep price of queendom and glamour, undiscounted. Yes, I had to keep it.
 
@@ -269,4 +269,4 @@ Thumb: The challenge? It probably changed your life!
 
 Nail: No I think it did but because of what you were saying not because of what she was saying. You know it’s like anybody could have that room INSIDE them! There’s some kinda queer futurity mixed up in this.
 
-Thumb: Excellent. You are getting somewhere now. It was an honor in a way—to see her. Thank you I am proud you are my son nail.
+Thumb: Excellent. You are getting somewhere now. It was an honor in a way—to see her. Thank you I am proud you are my <strike>son</strike> nail.
