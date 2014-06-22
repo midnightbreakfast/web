@@ -11,234 +11,164 @@ featured_image: issue1/pride/covers.jpg
 {% include picture.html path=page.featured_image %}
 </figure>
 
-You are walking down the street. It’s late at night and your phone is dead. You’re alone.
+Years ago in Paris, I was sleeping head-to-toe with a friend named Jala Amirfar. I hoped that if I made the bed with hospital corners and a decorative foot runner, she’d understand that there were better arrangements available to us, but Jala had a firm sense of how things ought to be. She’d clutch her pillow and disappear headfirst under the blanket just as I turned out the light, and while my eyes adjusted to the dark, I’d hear the hiss of the cheap flannel sheets sliding out of the mattress’s grip and feel the burst of cool air on my toes. She always fell asleep immediately after repositioning herself. I’d lie awake, sometimes for hours, considering the situation and knowing that certain conclusions were unavoidable.
 
-You spent your last dollar getting black-out drunk at a bar called Callahan’s, which is for some reason located in Chinatown. As you start to black back in, you realize that you have no idea where you are. You have lived in this city for fifteen years and thought you knew every corner of it, especially the kind of corners that you’d end up wandering after an evening out at Callahan’s. But you can’t make heads or tails of where you are now. You don’t even see any street signs, though you think you can smell the ocean, a little.
+Jala considered me trifling. She was from Iran by way of Edinburgh. Like many students in Paris, she had come a long distance to brood in optimal conditions. Her coat pockets were filled with tattered notebooks, and I would find her sitting with the gypsies who sold scarves outside the university. “They’re the real artists in this city,” she said to me once. “And no one even knows they’re here.” She often made singular discoveries like that, and I was a good listener who could appreciate contrariness for its own sake. 
 
-You decide that the best thing to do is take a cab. You don’t have any money, but you can probably just jump out at a red light a few blocks away from your place, hide in a dumpster for a little while, and then be in the clear. You are not eager to admit it, but you know firsthand that this works.
+This was Jala’s long dreamed-of year on the continent, and I wasn’t at all the kind of man she intended to sleep with right-side-up in Paris. The first time we met, outside the Place Monge cafeteria, she asked me for a lighter, and I told her a story about my childhood asthma. I was American and short on money, and it must have seemed like I was always rushing off in the direction of some cheap meal or else looking cheerful about having found a museum with free admission. But we had three classes together and became friends in that fast and easy way that students do when they’re far from home. We swapped notes and studied for exams, and at Christmas, when all the French students left the city, we went to the movies almost every afternoon. That spring, she began staying with me one or two nights a week because service on her train, the 11, was interrupted for track maintenance and because she knew just a few other people in town and none of them well. From the first, she insisted on sleeping in that mixed-up way, with the sheets in disarray and her white-socked feet beside my chin.
 
-You spy a striped awning that says F & P Car Service—We Never Close!, but the glass below the awning is darkened and has a metal safety grate pulled across it. A black sedan pulls up next to you, and the driver says, “Ride?”
+Demeaning as our routine was, I was glad to have Jala so close, and believed that I could complicate her views. On nights when she stayed over, I played Jacques Brel albums, scattered around empty wine bottles, and made claims with an off-handed air, as though she were getting to know the real me: that I had attended reform school in some rural outpost, that I was planning a trip to Budapest, that I went to dog races at the Stade Municipal and once saw a greyhound shot. Jala’s eyes were black and brutally adept at conveying disinterest.
 
-You tell the driver where you’re going and then settle into the backseat, which smells like stale cheddar-cheese crackers but is also very comfortable. Your pant-leg rises, and you see that you have bruises looping around your leg. Fight? Or did you just fall? You’ll find out tomorrow when you plug your phone back in, most likely. But now, as you lie in the backseat, you can feel nothing but the cold, pillowy ache of your own tiredness.
+One evening, when there were signs on the metro stairs and the bus shelters announcing repairs on several lines, I was late coming home and found Jala on my doorstep. The nights were still cool, and she seemed to expect an excuse or an apology. I told her that I’d been in an old bookshop. “The hours slip away from me,” I said. “I lose the whole world when I’m there.”
 
-When you wake up, you are deep in the forest. Well, you’re still in the car, but the car is on a road deep in the forest. You could have sworn that you only slept for a few moments, but there is no place like this anywhere near your city.
+I don’t remember where I’d really been. At a market nearby they would sometimes fry the leftover scraps of white fish to sell in sandwiches, and on those nights I would have my dinner at the stall while the other customers and the mongers taught me words for the different parts of the fish. But I’d become accustomed to speaking this way when Jala was around, to being surprised at the sound and meaning of what came out. The lies had no great strategy behind them. I was just feeling my way down a dark hall.
 
-“Where the fuck are we?” you ask the driver, but he says nothing. You ask again. He tells you that he knows who you are, and that you don’t have any money. He says, “I have a proposition for you.”
+ “I didn’t know you like to go to bookshops,” she said and took a step in close. Because of how we slept, I didn’t often have the chance to observe her so squarely. Strands of hair were falling loose from behind her ears, which were pink from the cold. Her lips were parted and there was Nutella on her breath or in the air around us. “Which ones do you like?”
 
-Somehow, you’ve grown up into a scumbag. But at one point, you were something else. The driver tells you that he remembers when you and your special skills were all anyone in town could talk about—how you could find anyone, discover anything, no matter how badly people wanted it hidden. He remembers you from when you were in all the papers, even the sleazy gossip ones.
+“The oldest shops,” I said. “You can’t hurry that sort of atmosphere.”
 
- You still have those papers, even the sleazy gossip ones—they’re pressed between two special phone books that only listed disconnected numbers. People expected great things from you then. But those days have been over for a while.
+She nodded, as though she understood precisely what this meant, and I must have been at least tempted to ask her to explain it to me. “Maybe you could take me along some time,” she said, “if I promise not to spoil the atmosphere.”
 
-You tell him this, and he rolls over your objection without even pausing, like it’s a soda can long ago smashed down into the pavement.
+The next week, I spent every afternoon looking for a bookshop. Someone had given me a guide with a section on “literary secrets,” and, lacking for patience and better advice, I worked my way through the list. But there was something wrong with each place. Bright lights, impatient shopkeepers, sections on design and décor. These weren’t the spots where a sulking loner would lose himself or the world, and if he did, he wouldn’t boast about it to a girl like Jala. Finally, I came to the last recommendation, the attic reading room at Shakespeare & Co., which of course wasn’t a great literary secret, since even I knew about it, but at least had dusty books and was accessed by a ladder.
 
-The taxi driver tells you that he has a daughter, who has given him much trouble. (Don’t they all?) He says she was cursed at birth—maybe by witches, maybe by bad genes from her mother’s side, who knows. But the end effect is still the same: she is asleep. It’s been that way for a very long time, and a lot of other people have tried to wake her up and failed. But he knows that you are different.
+Out of ideas, I found myself in the attic several days in a row. There were places to sit, and notwithstanding the backpackers who posed for pictures with the Shakespeare bust, it could be a comfortable place. There was only one other regular at the time, an old man who worked on a typewriter at a schoolboy’s desk beside the window. The corner was exclusively his, and this struck me as something modest I could aspire to while I waited for a plan. I chose a military-issue cot along the wall and began to think of it with some pride of ownership. The old man would nod hello when I came in, and I spent hours wondering whether all this might somehow be enough to impress Jala.
 
-“So you know where she is already?” you say.
+***
 
-Yes, the taxi driver knows exactly where she is, and he can take you there right now (or, rather, he is already in the middle of taking you there right now). But he can’t wake her up. Only a hero with a pure heart can wake her up. “You’ll have to kiss her,” he says. “She is very beautiful.”
+One night in the attic, after I’d been visiting for over a week, the old man came over to me. Strangers have always felt comfortable approaching me this way, without pretense or introduction, and even in Paris, I was often stopped on the street and treated harshly when I didn’t know the way to the nearest bakery or metro station. But the old man was almost bashful. He smelled like sandalwood aftershave, and I could see from his eyes that he wanted to confide.
 
-Kissing a beautiful woman? Not your usual m.o. (though you’ve been known to do it in the past, when the time and/or money was right). You tell him again that though you don’t do much of anything now, you were always more of a finder than a keeper. 
+Without a word, he kneeled down, emptied a fiction shelf book-by-book and unpinned a photograph from the wall: a black and white image of a man in an undershirt, wrapped in a striped blanket and stretched out on a cot. It was my cot, and the same blanket was folded at its foot. 
 
-The taxi driver tells you that if your kiss wakes her up, you’ll receive an untold fortune, because she is a princess. (Of course she is. Aren’t they all?)
+“Kerouac,” the old man said, seeing me hesitate. He whispered, like the backpackers would find the name too provocative. “That’s some cot you got there.”
 
-The taxi driver stops the car. He tells you to get out, that it’s not too far of a walk from here.
+I looked closer at the picture. There was something grizzled and skittish and heedless about the face.
 
-“What if I don’t want to go?” you say. 
+“He used to work right over there,” the old man said, pointing at his desk. “Same as I work. We’ve got a nice little set-up, don’t we? Plum.”
 
-He tells you that the heroes who failed before you failed because their hearts were corrupted. He tells you that you’re the kingdom’s only hope now, the only one who can restore order and save his daughter’s life. You tell him that you don’t know where he got the idea that you’re pure or a hero.
+He seemed to savor the pop of that final word, but I didn’t even have the sense to agree. I was already busy scheming. Jala would know about the bookshop and the attic and the writers who used to stay overnight, but it was my cot, and with an artful sequencing I could show her that it had once been <em>Kerouac’s</em> cot, too, and really, that ought to mean something to a girl who came halfway round the world to wallow on riverbanks, who kept a diary, who looked at her reflection in shop windows to see how French contorted her mouth, who had for friends only a few gypsies and me.
 
-“Fine, we’ll do it your way,” he says, reaching into his pants and producing a gun. “Go now or I will shoot you in the leg.”
+I asked the old man whether he would be there again tomorrow. He was reshelving the books, and when he looked over his shoulder, I was struck again by the welcome in his eyes. 
 
-So you go, because you’ve heard that one before, and it almost never ends well.
+“Where else are we gonna be?”
 
-Goddamn princesses. High-risk, high-reward, as they used to say in business school, during that one week when you went to business school.
+***
 
-As you walk deeper and deeper into the woods, you begin to root through your pockets. In addition to your empty wallet, you find a coat-check ticket for a coat that you don’t remember wearing and a large metal key ring linked through about a dozen keys that don’t belong to you. Noticeably absent are your own house keys.
+The next day, Jala and I met outside the university. The number 11 train was still down, and I told her that I needed to make a stop on the way home. We walked down the Place du Panthéon, which wasn’t direct, but was steep and cobbled, then along the quai, where the crowds pressed us so close together I thought she might take my arm.
 
-As you slog through the forest, you wonder if there even is any castle, any sleeping princess. You’ve known a few princesses in your time, sure, but you’ve known many more failed models with a scam and a mean, mobbed-up boyfriend, ready to take idealistic fools for all they were worth. 
+“Is this your secret bookshop?” she asked when we came to the storefront. She rarely allowed any inflection in her voice and I could never be sure whether her tone was mocking or sincere.
 
-You begin to wonder if you got rolled while you were drunk—if maybe you did actually walk straight home from Callahan’s, but were jumped by kids drawn in by the smell of easy prey with a drunkard’s stagger.
+“There’s a book haunting me,” I said. “I need to finish it.”
 
-You allow yourself a brief smile as you imagine those kids, rummaging around through your things. They’ll never find the good stuff, the things left over from your old life. They’ll be dead before they even get close. You never leave your dank little efficiency apartment without setting your special alarm. You may be a loser now, a washed-up joke who has to drink at a bar called Callahan’s in Chinatown because you’ve been permanently disinvited from every other bar in the city, but you haven’t forgotten everything you’ve ever learned. 
+We pushed through the crowded retail floor and climbed the ladder. I told her that the cot was mine, and she sat cross-legged beside me reading a chapbook, with Kerouac’s blanket wrapped around her legs. There were no tourists that night, but the old man was in his usual spot, making a pleasant racket on the typewriter. He would look over his shoulder now and again, and when he saw that we were still there he would nod happily.
 
-None of this explains the coat-check ticket, except for the most obvious answer: you stole someone else’s coat-check ticket last night. It makes sense. You can be kind of a dick when you’re drunk.
+“I think he might be a monk,” Jala said, whispering. “He’s copying out Bibles.”
 
-And then, finally, you see it. The forest dips down into a small valley, and in that valley, there is the castle. It looks a little bit more like a very nice factory than a castle, but it does have the basic elements—turrets, moat (dried), drawbridge (wrecked). Thick, grey-colored vines seem to tightly bind the whole thing together. You walk down the hill, toward the castle, wondering if you should go inside, and if so, how you’re supposed to hack a path through those vines with nothing but a ring of keys and someone else’s coat-check ticket. When you get closer, you realize that someone has already hacked a neat path through all of it.
+At this, the typing stopped. The old man’s eyes scanned the room until they reached the shelf where the photograph was hidden, and I moved closer to Jala, believing that my new friend and I had an unspoken agreement to reenact the unveiling. But when he stood and began toward us, I realized that perhaps I hadn’t taken his full measure. With the desk and the typewriter in front of him, he had a respectable look. Elegant, even. But I saw now that he was a little unkempt, a little damp, and that there was something unusual about the way he clutched his sheet of paper. 
 
-When you get even closer, you see that the vines are all almost completely dead. They crumple when you reach out and touch them. You wonder if going in is the right thing to do—from up on the hill there didn’t seem to be much of anything around for miles in any direction, and these dead vines make the likelihood of anyone helpful residing inside, princess or otherwise, seem very unlikely. You pause at the door and survey the great outdoors around you. The sun is just barely beginning to lift into the sky, and all of nature’s weirdest and most bloodthirsty creatures are making their final rounds, looking for a final score before they head back home. You, unfortunately, know this firsthand. 
+“I’ve written a poem,” he said.
 
-So you turn back around and knock on the castle’s front door, which falls open softly under the motion of your fist.
+I tried to ask whether there was something on the wall he might like to show us, an artifact of some sort, but he spoke over me. 
 
-Inside, the whole operation is a little more castle-like: damp stone walls, no windows, thick dust almost everywhere. A broken padlock hangs from the handle of the first door before you, rusted to the point of rotting. You pull the handle and walk through.
+“My poem’s about the two of you.” 
 
-You walk down a hallway, quickly passing a number of staircases that probably lead to something interesting because you are hoping to pass all the way through the castle, out a back exit, pause a bit until full daylight erupts, and then set a small, manageable fire. That should get the attention of some park rangers, right? If not, it’s a warm time of year, you could probably get by out there for three, four days, eating berries, drinking from streams, setting fires until someone notices you. Might even be nice, actually. Assuming that that taxi driver isn’t coming back to make sure you’ve done a good job.
+He began to recite. It was an admirable reading voice, really. Confident and weary, the hint of an old New England accent. And at first, the poem really was about the two of us. There was a line about a “star-bless’t husband,” which I took to be me, and I felt that, after all, this was alluring in its own way and might speak to something in Jala.
 
-You hear a cough. Not a cough of illness, but a cough of boredom, the kind designed to note that there is someone else in the room, so pull your pants up, please. Not that your pants are down this time, but you’re familiar enough with this cough anyway. You look ahead down the hallway and see, carved into the left side of the wall, a small counter-like opening, almost like the counter at the public pool where you used to be able to buy Nerds and Gobstoppers in the summer. The small man behind the small counter does not seem to have any Nerds or Gobstoppers. There are two torches lit on the wall behind him, and you now realize that this is where the faint ambient lighting for the entire hall has been coming from.
+But the second verse took a sharp turn. The husband was forgotten, and the focus shifted to the poet himself. I can say now that it was the better verse, the allusions more concrete, the rhythm pounding. The gist was that after finishing up at the bookshop, the old man intended to visit the public showers on the other side of the Jardin des Plantes, where he would masturbate while thinking of Jala.
 
-“Avast here heroic soul you have defeated the dragon which guards this fair castle now you have almost arrived to our princess fair to lift the evil witch’s curse,” he mutters very quickly, staring down disinterestedly, not making eye contact, like this is the fortieth time today he’s said it.
+Before he could begin the third verse, I jumped up from the cot and forced him across the room. I remember how Jala perked up at this, how I felt the urgency of being watched by her, and how the old man noticed my trembling. I tried to push him against the desk, but he held upright and shot his hands into his pockets. He seemed comfortable. Jaunty, almost.
 
-“Dragon?” you say.
+“That’s some cot you got there,” he said. “Plum setup for the both of us. Absolutely plum.”
 
-He looks up, surprised. “Oh, uh, there used to be a dragon. Sorry.”
+It felt like minutes went by while I tried to speak. I couldn’t force him any further and I couldn’t match the insult or the lunacy. I looked over my shoulder and saw that Jala was already beginning to lose interest. Everything was moving too quickly. She opened the chapbook and began looking for the line where she left off. Seeing in her that familiar indifference, my resolve sputtered away.
 
-You peer down a little bit, past the edge of the counter, and see that he is texting.
+The old man understood how it was and grinned. His eyes and teeth were yellowed. “Kerouac’s cot. Kerouac’s blanket. All his.” He rocked back on his heels and peeled down the front collar of his shirt, where the flesh was pocked with a dozen red dots. “His fleas, too.”
 
-“You get service in here?” you say.
+The gesture was so disdainful, so grimy, and I was at such a loss, that I could only skulk away. I lifted the flea-sodden blanket off Jala’s lap and dropped it to the floor. She seemed happy enough to be leaving. Probably she’d visited the attic reading room her first week in town. All that time spent scouring Paris for something black and tortured and bookish, and I was more trifling than ever. On my way down the ladder, I caught a final glimpse of the old man, reveling in the filth, reaching over to his windowsill and beckoning the jays in the linden tree to sing, as though that godforsaken room were filled with nothing but good cheer and Parisian spring. 
 
-“It’s 3G,” he says, again disinterested.
+***
 
-“Can I use your charger?” you say. “My phone is completely dead.”
+In bed that night, after I turned out the light, Jala didn’t reposition herself immediately. The hospital corners and the decorative runner were intact, and there was a faint light from an apartment across the courtyard.
 
-“No,” he says, emphatically.
+She began to talk, maybe more than she had since I’d known her. She told me about bathhouses at home and the sinewy little men who worked all day in the steam. Farsi love poems she’d heard declaimed in public squares when she was a girl in Shiraz. The punishments for sexual deviants and the pity she had felt. “Can you imagine what they would do to an old lech like that?” she said. “He’d either get killed or become a cleric.”
 
-“What’s the princess’s name?” you ask.
+I was unaccustomed to pillow talk of any sort, and she seemed even to be making an effort to charm. My breathing quickened while I listened to the stories, and I began to sweat. At that time, lust tended to rush up on me in much the same way people would on the street, with that abrupt frankness and the expectation that I give directions to a place I’d never heard of. I searched for ways to cross the narrow space between us, but the sheets were tucked so mercilessly and there wasn’t a way of moving beneath them that felt right.
 
-“Briar Rose,” he says without looking up from his phone.
+And then alongside lust came the histamines. First, a flutter on my arm, so light I could almost ignore it. But the flutter became a series of pricks that pulsed across my chest. Jala and the wine we’d drunk before bed and the image of the old man’s pocked breast were conspiring to boil everything beneath my skin.
 
-He then hefts a small wooden box with a large lock onto the counter and again begins intoning mechanically.
+I wriggled free of the sheets and crossed the dark apartment to the bathroom, where I stripped down and examined myself in the mirror. There was nothing but pale, chaste skin, while only ten feet away, on the other side of the door, was the opportunity I had been waiting for. But I stepped closer to the glass and believed I could make out the first faint outlines of flea bites, and imagined that in the pivotal moment, amidst the confusion, my aroused blood would go rushing in every direction and fill in the hollow mounds like a hundred tiny erections.
 
-“Because you have shown purity of heart in the face of the dragon your heroism has earned you this light let it ever shine on your quest to bring truthfromdarkness andvictoryfromdefeat.” He really rushes through the last part, and then, again without looking at you, turns and enters what appears to be a men’s bathroom located behind him. You hear him turning the lock from the inside.
+By the time I was finally calm enough to leave the bathroom, Jala was asleep, with the sheets pried loose, the runner in a sad heap on the floor, and her feet beside my pillow. I lied awake thinking how little I knew about her and how there would never be another moment when she would tell me about the steam baths in Shiraz.
 
-You examine the box in the dim torchlight. It is old, and dragons are carved into it—perhaps the dragons that used to live outside, perhaps just some general-interest dragons. You don’t see any keys around, and you start to write off the box and its large fierce-looking lock, when you remember the key ring in your pocket. You try a few keys and eventually the box pops open, its hinges wheezing like they ache when they move. You lift the top of the box and find a book of matches and a small torch. Even though this is what you had been looking for moments ago, after the whole buildup with the small man and the dragons and all, it feels a bit anticlimactic. You light the torch anyway, and walk on.
+The next morning, Jala went looking for a bus, and I stood for what seemed like a very long time in that same spot before the bathroom mirror. The ache of the squandered chance was gone, but now there was a new sensation. Eight bites on my stomach and chest. They were real and irritable, and when scratched, each one shot a stinging pain across the full grid. 
 
-All that, for a fucking torch. That’s how it is with these princess types. Always a big, unnecessary deal about everything. Some princess complains about feeling a pea through twenty mattresses and twenty featherbeds, and yet somehow you’re the asshole.
+***
 
-You laugh to yourself about this, only snorting a little, but your breath blows the torch out. It stays black for a moment, and then lights up fully, even brighter than before. Testing it, you blow it out one, two, three more times. Each time, it blooms back into a strong flame, brighter each time than the last. You smile to yourself, a little. Well, all right, you think. You’ve gotten out of worse jams than this with less.
+I’d never been inside a French pharmacy. Despite the antiseptic green cross over the door, the shelves were packed with makeup and anti-aging salves, and all the shopgirls had skin like creamed meringues. I almost turned back out the door, but by this time, the itch was becoming unbearable. I was flush and slick from the effort of not scratching and from the embarrassment of having come. But there was one girl in a sky-blue apron who looked heartier than the others, so with downcast eyes and all the dignity I could muster, I called her madame, lifted up my shirt, and asked for help.
 
-You are wondering how much you’ll be able to get for this torch on the secondary market, when the hallway ends. There’s no door, or window. You had imagined a door at the end, one you’d rush through, out into the free, delicious, dust-free air. But there is none.
+Given my state, she might have called security or shouted me out the door herself, but instead she laughed sweetly and came closer. With a rustic accent, she explained that there was no cause for panic, that these were simple bites of the kind one finds every day on a farm. She ran her fingers over the marks and said, “t’inquiète pas,” looking up to see that I understood she addressed me as a familiar.
 
-You examine the wall, knocking for secret passages or holes or chutes, but it feels solid, through and through. You walk back to the window where the texting dwarf gave you the torch, but a metal security gate is now pulled down. You knock, to no avail. The front door that you came through now also seems to be locked. Well, then.
+A blue bottle, almost the same shade as her apron, was produced from behind the counter, and she began to mime the course of treatment on herself. A dab of cream, a fingertip touch, and a gentle puff of air on each spot. Every gesture was precise and generous. For a moment her plump body was a musical instrument being tuned in anticipation of a great concert. I searched for the words to tell her, but at that age I knew so few of the right ones in any language. So I emptied my pockets and she helped me count out the sum, coin-by-coin.
 
-You walk back to the wall, and lay the eternally lit torch down carelessly at your feet. You place your palms flat against the wall and begin to do something that someone less cool might call praying, but which you call begging. Please, you think. As you loop this thought over and over in your brain, you begin to smell a new scent, separate from the dust and mold. It is the smell of your eternal flame setting the wall on fire.
+The number 11 train was running that night, so I was alone, dabbing and blowing. Too tender to sleep, I left the apartment and began to walk. Down the narrow lanes and across the river, through the Marais, past the nightclubs and the kosher butchers and the gated courtyards, until I found myself in Belleville, where Jala lived. Somewhere in my school notebooks, I had her address written down, but I realized, looking over an unfamiliar square, that I had never been to her home. I didn’t even know her street. She was somewhere near the Jourdain station, the same as a thousand other people, maybe more. Crossing over the canal, the wind riled up my itch, and by the time I reached the river, the sun was coming up and the first trash barges were out on the water.
 
-At first you panic, because, you know, fire, but then you realize, this must have been the set-up the whole time. The wall before you, which had appeared to be made from stone like all the others in the castle, actually burns quickly, charring like a piece of newspaper under a match. As it begins to vanish, you see that the hall continues on the other side. This was actually a test. And you actually completed it correctly.
+I kept applying the cream just as instructed. Every four hours, I tried to be delicate and loving and to purse my lips before blowing. But new bites were sprouting up, and the original eight seemed invigorated by the cleanse and by the night air. I spent hours looking at myself in the bathroom mirror, and I couldn’t help feeling that where the skin was pink and raised it belonged to someone else. That any moment the first bite would appear on my jaw, then another on my cheek and one on the bridge of my nose. That soon there’d be nothing left to recognize. I kept watching my reflection, not because I wanted to see the progress, but because some part of me was resigned and sentimental and believed that this was farewell.
 
-When the wall burns through completely, the fire suddenly extinguishes, as if doused in invisible water. You continue on down the hallway with, dare you say, a sense of purpose.
+On Monday, I was still there. But when I saw the sharp juvenile bumps piercing through the surface, I finally acknowledged that I was dealing with more than an irritation. I’d been infested. At the thrift store run by the Poor Clares of Perpetual Adoration, I bought two pairs of pants, two shirts, and a worsted wool sweater, then went home and put all my old clothes into a garbage pale in the courtyard and lit them on fire. They burned quickly and made a sweet black smoke. One of my neighbors, an old widow who lived across the way, was watching from her window and sipping at something in a crystal glass. She nodded gravely at the fire and seemed to agree that life demands many sacrifices from those who would love.
 
-After a few minutes, you reach another counter, this one positioned slightly higher than the last, but despite that, revealing only the midsection of an enormous man. You approach the counter, trying to squat down to see past the edge and look at the man’s face, but you can’t.
+After the fire, I went to the university to see what had become of Jala. We had a class together that day, Libertinage and Eighteenth-Century Letters. In my weakness, I imagined that she would be evicted from her building for bringing in fleas and would move into my apartment, where we could live and scratch together in a shadow of bliss. But I watched her for an hour, while the professor yammered on about the sovereignty of the senses, and not once did she scratch or fidget or even turn to see me suffering.
 
-He, however, seems to see you. 
+***
 
-“Hello,” he says.
+With a chain of rashes and twenty-six bites running nape to navel, I went back to the bookshop. The old man climbed into the attic at nightfall, breezy and clean, direct from a session in the public showers. He looked me up and down and seemed to approve of the thrift-store outfit. Save for a cardigan in place of his tweed jacket, we were dressed alike.
 
-“Hello,” you reply.
+“It’s a stubborn breed,” he said. “Dogged as any I’ve seen. They get fond of a body. But I’ve got a way, if that’s why you’re here.”
 
-“What are you, about five foot ten, one-eighty?” he says. 
+He winked and lowered his collar to show me his healed skin. I wanted to be angry with him, but managed only a muffled, “Please.”
 
-“Yeah, one-eighty on a good day,” you say, puzzled, as you hear him rummaging around in some cabinets above your head. His enormous hands then come into view, laying down, piece by piece, a bunch of shining, silvery pieces of molded metal that, once they are properly laid out across the counter, you’d categorize as a suit of armor.
+“Acquiesce,” he said. He pulled out the chair in front of his typewriter. “Stop struggling. Spend the night. Might be inoculation, might be pity, but it works.”
 
-You approach the suit of armor, unsure if you should even touch it, but the giant pushes it toward you with a single, massive finger.
+I was willing to be led. I sat very still, trying not to feel the fleas bushwhacking across me. Eventually, I slumped down and let my arms hang. It seemed like weeks since I’d slept comfortably. Maybe I hadn’t known a peaceful night in that city.
 
-“Why do I need this?” you say, with less wariness than you had expected.
+“That’s right,” he said, watching me like a star pupil. “Let go.”
 
-“It’s what a hero wears,” the giant says, unconcerned, prodding the helmet your way with a single finger again. Even though you can see both his hands, you still wonder if somehow, he’s texting.
+At eleven, a woman from the shop came up and asked whether we would spend the night. Without answering, the old man followed her down the ladder, and a moment later I heard the definitive clank of a padlock. The room was dark, but the lights from the street and the cathedral reached my desk, and I felt that while the blackness around me was alive and teeming, I might be left alone as long as I stayed in that faint sphere of light.
 
-You take the helmet from the counter and hold it between your palms, like it’s an apple that you’re considering eating. You can see your face reflected in the polished silver. Not too shabby, you think to yourself.
+To pass the time, I began a letter to my parents, whom I hadn’t called or written in months. But a typed letter seemed an ominous way for a son who wasn’t a fugitive or a madman to reestablish contact after so long, so I scrapped the sheet and, after wrestling for a time with the carriage lever, loaded a new one and typed out “Dear Jala.”
 
-Nobody grows up wanting to be a scumbag, in case you’re wondering. No baby is born like that. No one sets out to do it. And nobody ever gets out. It’s like severing an arm. Nobody ever gets to take it back.
+I’d tried so many other routes—the invented past, the search for a bookshop, sharing my bed in unnatural ways—that I thought a love letter could do no worse. It went on for several paragraphs about the footbridges we had crossed together and the sidewalks where chalk drawings dissolved in the rain, until, even in my desperate state, I couldn’t deny any longer how empty it all was. I ripped the paper into strips and tossed them out the open window. Some stuck in the tree branches, others fell into the gutter, and I felt a great comfort knowing they could never be pieced back together.
 
-Except, maybe, today, you.
+ In the plaza below, the waiters were closing up for the night. I leaned on the windowsill, listening to them chat in that rapid, woeful accent they have in the capital.
 
-The giant doesn’t seem too interested in telling you how to get the armor on—hell, maybe he’s texting the dwarf from the last counter. But eventually, you figure it out. You snap the helmet onto your head last of all, and briefly marvel at how surprisingly lightweight the whole get-up is. You pick your torch back up, blowing it out and letting it relight to make it shine even brighter. You slide the bottom of the helmet’s face guard aside, and ask the giant if he’s ever met the princess.
+“She wants someone with a car. She hates the scooter. She gets cold so easily.”
 
-“What?” he says, startled yet bored at the same time. “Who? You mean Rosamund?”
+“What are you going to do? You can’t afford a car. And where would you park it? Who has a car in Paris?”
 
-“I guess,” you say.
+“That’s what I told her. Does she want a Parisian or does she want a car? Anyway, if you don’t mind finishing, I’ll leave now. It’s a long walk.”
 
-“No,” he says.
+“You didn’t ride the scooter?”
 
-You ask him how long he’s been working here, and he answers you by sliding down the counter’s metal security grate in your face.
+“I was bringing her into the center, and she refused to ride. We took the train.”
 
-So you go on down the dusty hallway, you and your torch and your suit of armor.
+“But it’s too late for the train. You’ll have to walk an hour just to find a bus.”
 
-This hallway is long—at least two or three times longer than the last—and so it gives you a chance to think. Everyone else gets a second chance, you think. Morons who take poisoned apples from strangers, idiots who can’t tell the difference between their grandmother and a wolf, some jackass who literally all she has to do in her entire life is just not touch a spinning wheel and she can’t even handle that! These fools, they’re drowning in second chances, but they can’t spare a single drop for anyone else, can they? You start to think, over and over: Why not me?
+“It’s pleasant enough to walk at night. And I should consider this thing. I need to decide what to do about the scooter.”
 
-You reach the end of the hallway, stopping at an iron door. The door has no handle. Where the handle should be, there are three large jigsaw-puzzle shapes indented into the iron, square with little half-circles jutting out, like something a little kid would play with. You turn around, scanning the floor for whatever might fit into the puzzle shapes, feeling proud of yourself for starting to anticipate these tests now, even if you have no idea what the hell you’re supposed to do. Turning, you hit the door with your elbow, and it swings open. You pause for a moment, wondering if you should maybe pull the door closed and try to reset the puzzle, but then you’re already walking through and down the hallway.
+“Sell it to me. Or give me the woman. Whichever you prefer.”
 
-To your immediate left, there is another counter, and then another hallway jutting out at a right angle. But that hallway is very short, ending in a doorway and a spiral staircase. Behind this counter, there’s neither a dwarf nor a giant, but instead, two beautiful women of average length, mass, depth, etc. They appear to be identical twins, but one has blonde hair, the other red.
+Through the leaves, I could make out glimpses of the waiters, the one struggling with a knot at the back of his vest, the other tilting a heat lamp onto its wheels. I imagined what the next hour held for them. The hangdog walk across the river, the damp rag on the tables, each brooding over the loss or gain of a scooter or a woman. I felt in comparison like an unforgiveable imposter and was grateful to be locked away in that attic. Thinking of my bed at home, I was ashamed. The sheets, tucked so carefully, the whites of Jala’s socks, and the space between our misaligned bodies thickening like concrete. I searched my chest for the sharpest bite, and, taking it between my fingers, squeezed. The cold pain rushed up and down my body and it seemed that I was feeling certain parts—tendons, ligaments, entire limbs—for the first time. I wanted to call down to the waiter, to point at the parts and to ask him, like a child, the names of each, but it was late and the man was trying to finish his work, so I sat back in my chair and watched him put away the last of the lamps.
 
-“Hero, you’ve reached the last leg of your journey,” the red-haired one says, her voice nearly cracking.
+When the plaza was quiet and empty, I began a new letter. I read it several times but never felt the need to revise, and even now I have a distinct, if not perfect, memory of it. 
 
-“Hey, are you okay?” you say.
+Dear Jala, 
 
-“She’s fine,” says the blonde one, rolling her eyes. “She’s premenstrual.”
+I think of you when I’m in the shower. At a certain point it’s a relief just to tell you something true. In the mornings, when you stay over, I always wake up before you, and in the shower I get rid of all the night’s tension and longing with a beautiful tug at myself. I have hot water and good pressure and I don’t feel ashamed for a second. I think of you and it feels wonderful. I hope this doesn’t offend you, but if it does, I don’t think I’m to blame. 
 
-The redhead frowns, but doesn’t contradict the explanation.
 
-“Hero, you’ve reached the last leg of your journey,” the blonde repeats, in a voice both cheerier and more removed. “Up the stairs lies the princess fair, so many have tried, but none have come as far as you in many, many moons.” She gestures to a shelf behind her. “This is your bird, created and enchanted by the King’s Magician. He will act as your squire, leading you through the final challenges of your trek, so that you may awaken her fair majesty and save our kingdom.” She elbows her sister, who has been dabbing the corner of her eyes with her velvet gown, and who then retrieves a mechanical bird with closed eyes from the shelf behind them, and places it on the counter in front of you.
 
-“So, is there a spell?” you say to the blonde one.
+Warmly yours –  
 
-“Yes,” says the redhead.
+With the letter still in the typewriter I dozed off and enjoyed a ten-hour oblivion. I woke to the little jays in the linden tree and the sun already halfway up the cathedral’s steeple. A steam radiator had started in the night, and I’d worked up a sweat while I slept. The same woman who locked me in the night before came up to say hello, and I sat with her on the bench outside the shop, sharing a cup of coffee while the tourist boats idled along the riverbank. 
 
-“Sure,” says the blonde.
+Before leaving, I asked her for a stamp, and she offered to mail anything I might have, so I took out the scrap of paper where I’d scribbled Jala’s address and gave it to her with the letter. It seemed a good enough solution to leave the matter in her hands and to walk away unburdened.
 
-“And it’s cast on all of you?”
-
-“Yeah,” says the blonde. The redhead says nothing.
-
-“And the only way to break it is to go upstairs, solve some puzzles, and kiss the princess?”
-
-“Yeah,” says the blonde, arching her eyebrow. “This is pretty basic stuff, you know.”
-
-You turn to the redhead.
-
-“And then you’ll have your old kingdom back?” you say.
-
-“Yes,” she says.
-
-“And I’ll be the hero of this land?”
-
-“Yes.”
-
-“What was this place like before the spell was cast?” you say.
-
-“I don’t remember,” the redhead says. “I’m only twenty-three.”
-
-“This isn’t one of these things where, like, one of you only tells lies and the other one only tells the truth, right?”
-
-“No,” says the redhead.
-
-“Ugh,” says the blonde.
-
-“This a family business for you guys?” you say.
-
-“Yeah, our dad works at the torch window,” the blonde says.
-
-“The dwarf?” you say, surprised.
-
-“Yeah, we’re actually not supposed to have conversations with the customers. Red, could you boot up the bird for him so we can keep things moving?”
-
-Red flicks a switch, and the bird’s eyes pop open. Motors begin whirring and the bird takes off, flying in tiny circles in the air above the counter, before looping over and perching on your shoulder, cooing warmly.
-
-“Oh, and take these keys,” the blonde says. “You’ll need them to get to the princess’s chamber.”
-
-“Up the stairs?”
-
-“Yeah, just up the stairs,” Red whispers. Blonde shoots her a look.
-
-Red turns around to re-arrange the birds, spreading them out across the dusty shelf. You notice that there are two small dust-free circles to the right and left of where your bird had been sitting.
-
-“Hey, what happened to those other two birds?” you say. “I thought I was the first person to come through here in a long time.”
-
-“They broke,” she says. “Now give me your coat-check ticket, I need to validate it.”
-
-You bow slightly to Red, and then bow even more slightly to Blonde.
-
-“Thank you for your aid, maidens fair,” you say. “I shall make sure that your rewards are great when the kingdom is under my rule.”
-
-“Thanks,” says Blonde.
-
-“Good luck,” says Red, handing the coat check ticket back.
-
-“Oh, wait, I do have one more question,” you say. “Your dad told me that the princess’s name was Briar Rose, but then the giant told me that her name was Rosamund. Which is it?”
-
-“I don’t know,” says Red. “She’ll tell you when she sees you, maybe.”
-
-The bird is now chirping impatiently, like a car alarm, and so you leave the girls at the counter, mounting the stairs, clutching your torch in one fist and your new ring of keys in the other. You walk up two, three, four flights before you come upon your first door. The door is locked, and you’re disheartened by the thought of having to go through all of those keys each time you come to a door. But then the mechanical bird swoops into your palm, grabbing the correct key, placing it into the lock. All you have to do is turn it and push.
-
-He does this again and again, through three, four, five, six doors spread out across six, seven, eight floors, opening each easily, until there are only two keys left that you haven’t yet used. You don’t stop to wonder why this has been so easy to do.
-
-As you cross through the threshold of what must be the final door, you enter a room with solid gray stone floors and walls and nothing else. No windows, no furniture, no good-looking girl who’s made a bad mistake that everyone else is paying for. You drop your torch, and when you lean to pick it up, your coat-check ticket comes sailing out of your large metal pocket. You notice that there’s writing on the back—writing that wasn’t there when you handed it over to Red. The writing says LEAVE NOW DO NOT GO UP THE STAIRS DO NOT FOLLOW THE BIRD. You look at the piece of paper, and then up at the bird, who swoops in and takes the paper from you. You try to grab it away from him, but he is too quick and swallows it. You turn to try to go out the door you just passed through, but you find that it is now locked. As you shake the door, you hear a small, metallic crash behind you. You see that the bird has broken open into pieces on the floor, its cogs and springs spilling everywhere, your note crushed to confetti. You try both keys on the key ring, but neither of them work in the lock before you. You drop them, and they tinkle as they fall on the floor.
-
-And then you hear it: breath. You look around the room, wildly, but you see nothing. Your torch light flickers fruitlessly across the empty stone walls and the still-locked door. You hear the breath again, louder now, warm across the back of your neck. You feel its wet heat pass across your cheek as it blows your torch out. The torch does not relight. You believe that this thing was maybe a princess once, the way that you were your mother’s favorite child once. But as the room goes from dark, to black, to a color that no human being alive has ever seen, you know that those days are long gone for both of you. You feel something soft brushing across your throat. And then, on your lips, a kiss.
+I cut across the little garden, past what they say is the oldest tree in Paris, and caught a bus speeding down St. Germain, an express bus that simply roared through the tired old city. I knew that the bites would be gone in a day or two, as the old man said, and while they lasted, I wanted to go back to the store with the green cross over the door and the shopgirl with the rustic accent, to show her my stomach, to feel her charity, and to say anything that came to mind, if she would only run the soft backs of her fingers over my marks again.
