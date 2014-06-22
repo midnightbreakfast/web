@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 001
-type: TK
+type: Oral History
 title: 'Orange Valley Lodge #13'
 by: Susan Straight
 bio: |
@@ -58,9 +58,9 @@ Gonzalo Gomez is here most days, too — he came in 1966 from Juarez, Texas. He 
 
 ***
 
-One evening, when I came back from visiting the sidewalk, I told my youngest daughter that the men had news of the death of one compatriot, aged seventy-seven. All afternoon, people had stopped by to sign the two condolence cards — hundreds of signatures in all. “Go on by the Lodge and they’ll tell you when the funeral is,” her father, my ex-husband, had said to me earlier that day. 
+One evening, when I come back from visiting the sidewalk, I tell my youngest daughter that the men had news of the death of one compatriot, aged seventy-seven. All afternoon, people stopped by to sign the two condolence cards — hundreds of signatures in all. “Go on by the Lodge and they’ll tell you when the funeral is,” her father, my ex-husband, had said to me earlier that day. 
 
-My daughter offered me this early version of a social network: in Rome, in 1501, a noseless, armless fragment of a statue of Hercules was unearthed, placed on a pedestal in Piazza Navona, and named Pasquino, after a tailor to the Pope who loved Vatican gossip. Insults written by Romans, on government and papal corruption, were hung on the statue. Then another statue, this one of a river god, was unearthed and placed across town, on Capitoline Hill. This figure would “ask” Pasquino his opinion on visiting cardinals or officials, and people would race back and forth on foot and horseback to see the “posts” and insults plastered all over the marble men.
+My daughter offers me this early version of a social network: in Rome, in 1501, a noseless, armless fragment of a statue of Hercules was unearthed, placed on a pedestal in Piazza Navona, and named Pasquino, after a tailor to the Pope who loved Vatican gossip. Insults written by Romans, on government and papal corruption, were hung on the statue. Then another statue, this one of a river god, was unearthed and placed across town, on Capitoline Hill. This figure would “ask” Pasquino his opinion on visiting cardinals or officials, and people would race back and forth on foot and horseback to see the “posts” and insults plastered all over the marble men.
 
 Here on the sidewalk, it’s as if an older time like that is preserved in the amber evening light, thick with remembrance but also shot through with frequent laughter. What does it mean, in 2014, when Facebook measures the social worth of one billion people, to park your truck at the same place most sunny days, or even cloudy ones, and set your folding chair on the same cement where you will see your ten closest friends and countless others who park for a few minutes to share news of a death, or a party, or a glimpse of someone they knew forty years ago? What does it mean when you talk today’s politics or sports, but also tell the same story about walking ten miles to see a girl, or the story about the woman you met in Germany when you were a young soldier? What does it mean to carry Georgia or Alabama or Juarez in you, but to live your permanent days here in the place you chose, or the place that chose you?
 
