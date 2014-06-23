@@ -49,7 +49,7 @@ issues:
             name: Susan Straight
             url: http://www.susanstraight.com/
             piece:
-              title: Orange Valley Lodge #13
+              title: "Orange Valley Lodge #13"
               url: /orange-valley-lodge-13/
       -
         title: Illustrators
@@ -91,7 +91,7 @@ issues:
             name: Douglas McCulloh
             url: http://www.douglasmcculloh.com/
             piece:
-              title: Orange Valley Lodge #13
+              title: "Orange Valley Lodge #13"
               url: /orange-valley-lodge-13/
   issue0:
     title: Issue 0
