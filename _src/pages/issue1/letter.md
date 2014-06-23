@@ -3,7 +3,7 @@ layout: post
 type: Issue 1
 title: Letter from the Editor
 by: Rebecca Rubenstein
-permalink: issue/1/letter/
+permalink: /issue-1-letter/
 ---
 
 Hello, 
