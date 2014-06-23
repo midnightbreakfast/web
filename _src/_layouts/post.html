@@ -52,6 +52,9 @@ layout: default
 			{% if page.illustrator %}
 				<p>Illustration by <a href="{{ page.illustrator.url }}">{{ page.illustrator.name }}</a></p>
 			{% endif %}
+			{% if page.photographer %}
+				<p>Photography by <a href="{{ page.photographer.url }}">{{ page.photographer.name }}</a></p>
+			{% endif %}
 			{% if page.endnote %}{{ page.endnote | markdownify }}{% endif %}
 			{% if page.section_note %}{{ page.section_note | markdownify }}{% endif %}
 		</footer>
