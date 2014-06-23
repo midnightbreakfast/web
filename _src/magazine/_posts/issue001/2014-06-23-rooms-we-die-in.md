@@ -56,7 +56,7 @@ I had been thinking for a few minutes. “Do we know how she died yet? Should we
 
 “Don’t worry, I brought sage.” 
 
-We could have been in an episode of <em>Hoarders</em>, but it felt more like a forensics-themed telenovela, the Chicano takeover of <em>Bones</em>. I would play the steel-stomached cynic so she could play the open mind that puts all the pieces together.
+We could have been in an episode of <cite>Hoarders</cite>, but it felt more like a forensics-themed telenovela, the Chicano takeover of <cite>Bones</cite>. I would play the steel-stomached cynic so she could play the open mind that puts all the pieces together.
 
 I drooped my brow as directed and said, “Sometimes sage isn’t enough.”
 
@@ -74,7 +74,7 @@ We pulled into the Plaza Motel in the mid-afternoon. Red letters on yellow, no l
 
 Mounds. Lumps. Towers. Before us was a room filled with a single object made of hundreds of little ones all welded together with shadow and grit. There were layers and layers and layers, like some kind of awful cake. We wilted in the doorway. I started sweating immediately, warmed by the must of death. Alive with decomposition, the room was reanimated, little animals running from daylight, from us. I tried the light switch, but the bare bulb crackled, sparked, and stayed off. “Water in the walls,” I concluded, nodding at the warped, mildew-stained boards. I unplugged the furnace.
 
-I thought to myself, <em>I’m in a fucking point-and-click adventure game</em>. It’s a type of computer game my brother, my partner, and I enjoy playing together. The narratives of these games often revolve around hauntings and supernatural occurrences. The player clicks around the environment, gathering clues and solving puzzles in order to advance the plot. But without the right music, some things are just matters of fact. The fact of mold across a wall, the fact of water dripping somewhere in the dark, the fact of infestation — roaches, spiders, and mice. The fact of disowned objects filling a room, expectant. The fact that a dead body must stink because it is calling out to be alchemized into earth.
+I thought to myself, <i>I’m in a fucking point-and-click adventure game</i>. It’s a type of computer game my brother, my partner, and I enjoy playing together. The narratives of these games often revolve around hauntings and supernatural occurrences. The player clicks around the environment, gathering clues and solving puzzles in order to advance the plot. But without the right music, some things are just matters of fact. The fact of mold across a wall, the fact of water dripping somewhere in the dark, the fact of infestation — roaches, spiders, and mice. The fact of disowned objects filling a room, expectant. The fact that a dead body must stink because it is calling out to be alchemized into earth.
 
 ***
 
@@ -89,13 +89,13 @@ Now unplug the TV and turn it to face the wall. Push the chair into the corner. 
 
 ***
 
-We must have been standing on the spot she died. A comforter and stained pillow lay there, and when I stepped in to move it aside, my foot slid in something. The tuft of curly salt-and-pepper hair was not a wig. Aunt #6 would have been mostly fluid by the time she was found, the hair tumbling off on its own. I imagined the coroner staff: overworked, tired, closed-faced people struggling to gather up the decaying body, stuffing her into a bag. Went in, got out. No shiny charisma, not the cast of <em>CSI</em>. They would have been silent, not cracking jokes or feeling exuberant over tiny evidences, not seeking out the stories of the woman or the place. None of that.
+We must have been standing on the spot she died. A comforter and stained pillow lay there, and when I stepped in to move it aside, my foot slid in something. The tuft of curly salt-and-pepper hair was not a wig. Aunt #6 would have been mostly fluid by the time she was found, the hair tumbling off on its own. I imagined the coroner staff: overworked, tired, closed-faced people struggling to gather up the decaying body, stuffing her into a bag. Went in, got out. No shiny charisma, not the cast of <cite>CSI</cite>. They would have been silent, not cracking jokes or feeling exuberant over tiny evidences, not seeking out the stories of the woman or the place. None of that.
 
 In my mind’s eye, per the mythology of us, the border-crosser is incomplete without plastic bags full of food and objects with which to seed their new life. But aunt #6 must have crossed this border hundreds of times without ever beginning. Nothing in the room was displayed or arranged for daily use, nothing but a sliver of soap, a slim roll of toilet paper and an empty bucket in the empty bathroom. All the things in the room were wrapped, bundled, and massed in plastic shopping bags, all roughly the same size, heaped on every surface like carefully lain insect pupae.
 
 Thumb said, “We need to find her purse and her documents, so if it looks like a purse or papers, open it up. Aunt #3 wants to keep some things too. But if it looks bad, throw it out.” I nodded, and started stuffing a garbage bag with the things on the floor. Blanket, plastic glove, hair. Bed, bath, beyond. We began opening the plastic-wrapped bundles. They were mostly filled with clothes in their original bagging, tags attached. I lifted a box near the spot where aunt #6’s body had lain, and a writhe of maggots came to life. Flailing their rotund bodies, they looked like miniature versions of the bag bundles, piled high and teetering. 
 
-I felt myself picking up speed, just throwing away and throwing away and throwing away anything that wasn’t what we were there to find. <em>Moving too fast</em>, I imagined Mamá thinking. Too heartlessly, too recklessly, too much a weapon, too much a shovel, too much the nail of her thumb.
+I felt myself picking up speed, just throwing away and throwing away and throwing away anything that wasn’t what we were there to find. <i>Moving too fast</i>, I imagined Mamá thinking. Too heartlessly, too recklessly, too much a weapon, too much a shovel, too much the nail of her thumb.
 
 ***
 
@@ -161,9 +161,9 @@ That night Tía asked me, “¿Y que piensas de nuestro pueblito, Migueltzinta?�
 
 Abuelita asked us how it was going, wanted to know about her daughter’s room, which had strategically not been described to her. Abuelita used to work as a housekeeper, describes frequently the trophies and recognitions she has received for her excellence in the field. It seemed imprudent to tell her about the slippery, greasy carpet, the eddies of mouse pellets, the peeling, buckling, mold-fuzzy walls. We just nodded, said, “Ay vamos, poco a poco,” and mentioned casually that we hadn’t found the purse. Even so, she read the trouble in our evasion and pursed her lips.
 
-We stayed up too late that night. Tía shouted out stories about growing up in Mexico, competing with <em>Ocean’s Twelve</em> playing loudly on TV. Although it was clear that we would rather listen to her than the TV, she did not turn the volume down. I didn’t turn it down either. It was the orchestral score for Tía’s movie, urgent and cool. Gesturing grandly with her short arms and small hands, the stories made her chair shake. She told us about the complex process of wooing, the unreliability of buses and their drivers, and explosive diarrhea in the workplace.
+We stayed up too late that night. Tía shouted out stories about growing up in Mexico, competing with <cite>Ocean’s Twelve</cite> playing loudly on TV. Although it was clear that we would rather listen to her than the TV, she did not turn the volume down. I didn’t turn it down either. It was the orchestral score for Tía’s movie, urgent and cool. Gesturing grandly with her short arms and small hands, the stories made her chair shake. She told us about the complex process of wooing, the unreliability of buses and their drivers, and explosive diarrhea in the workplace.
 
-<em>You would get off the bus and there would be nothing as far as the eye could see, not house nor person nor dog... Seven men came to ask for my hand! They filled the living room. My mother had to come out and yell, “Alright! Which one of you is the suitor?” And they all pointed to a man in the doorway... I was working at a resort that day and I had to take the baby with me...</em>
+<i>You would get off the bus and there would be nothing as far as the eye could see, not house nor person nor dog... Seven men came to ask for my hand! They filled the living room. My mother had to come out and yell, “Alright! Which one of you is the suitor?” And they all pointed to a man in the doorway... I was working at a resort that day and I had to take the baby with me...</i>
 
 The shuttle to the dialysis place arrived before sunrise. I had slept on the floor by the door, and I listened as Tía gathered up her purse and keys. She paused, and a moment later I felt the weight of a blanket thrown over me. For a moment the blanket was comforting and warm. But then I started thinking of the blanket and pillow lying soggily in the empty space by the door in aunt #6’s room. Was it so strange to sleep on the floor by the door? Wasn’t it something that could just happen?
 
@@ -197,7 +197,7 @@ We carried out the plan as discussed: I piled salvageable clothing, mail, docume
 
 “Remember what your aunt #3 said? That seeing the room changed her? That she was going to go home and clean out her garage?”
 
-There was something deeply moving about the intense consolidation of a person, of a personality, something far more meaningful than the waxed dramas held at arm’s length in <em>Hoarders</em>. I imagined aunt #6 going out daily to forage for glamour in Bakersfield, imagined her overwhelmed by the pleasure of these objects. To her, this had been oxygen and medicine, a dosage, a fix. I imagined my aunt’s coming and going, a cell mid-vein, caught in pulse, from store to infested room and back to store. She had subscribed to kitsch out of aesthetic necessity. Cheap and shiny: a kitsch for surviving the third world amidst the broken promises of the first.
+There was something deeply moving about the intense consolidation of a person, of a personality, something far more meaningful than the waxed dramas held at arm’s length in <cite>Hoarders</cite>. I imagined aunt #6 going out daily to forage for glamour in Bakersfield, imagined her overwhelmed by the pleasure of these objects. To her, this had been oxygen and medicine, a dosage, a fix. I imagined my aunt’s coming and going, a cell mid-vein, caught in pulse, from store to infested room and back to store. She had subscribed to kitsch out of aesthetic necessity. Cheap and shiny: a kitsch for surviving the third world amidst the broken promises of the first.
 
 “Do you like any of these clothes? What size shoes do you wear?”
 
@@ -269,4 +269,4 @@ Thumb: The challenge? It probably changed your life!
 
 Nail: No I think it did but because of what you were saying not because of what she was saying. You know it’s like anybody could have that room INSIDE them! There’s some kinda queer futurity mixed up in this.
 
-Thumb: Excellent. You are getting somewhere now. It was an honor in a way — to see her. Thank you I am proud you are my <strike>son</strike> nail.
+Thumb: Excellent. You are getting somewhere now. It was an honor in a way — to see her. Thank you I am proud you are my <del>son</del> nail.
