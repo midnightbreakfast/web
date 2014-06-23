@@ -125,7 +125,7 @@ After the fire, I went to the university to see what had become of Jala. We had 
 
 ***
 
-With a chain of rashes and twenty-six bites running nape to navel, I went back to the bookshop. The old man climbed into the attic at nightfall, breezy and clean, direct from a session in the public showers. He looked me up and down and seemed to approve of the thrift-store outfit. Save for a cardigan in place of his tweed jacket, we were dressed alike.
+With a chain of rashes and twenty-six bites running nape to navel, I went back to the bookshop. The old man climbed into the attic at nightfall, breezy and clean, direct from a session in the public showers. He looked me up and down and seemed to approve of the thrift store outfit. Save for a cardigan in place of his tweed jacket, we were dressed alike.
 
 “It’s a stubborn breed,” he said. “Dogged as any I’ve seen. They get fond of a body. But I’ve got a way, if that’s why you’re here.”
 
