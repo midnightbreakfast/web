@@ -52,7 +52,7 @@ Sitting in a folding chair near the other men is LeRoy Barber, who’s often dre
 
 Barber wants Orange Valley to be open regularly, for cards and music and meals. He wants to run the bar and play his extensive collection of blues. “They used to play bingo and pinochle and bid whist,” he says. “But we do good things. On Sundays, from twelve to four, we feed 250-plus homeless people out here. We even take meals to the local parks. We’ll feed anyone.”
 
-Outside, the folding chairs have been rearranged again, as others arrive. McCloud, Glover, and the rest of the men trade stories — some brand new, some everyday. Travis Coleman is here today — he came at seventeen from Idabel, Oklahoma, with his mother, in 1945. “We lived in Red Hollow, right there on 14th Street,” he says, pointing across the old Lincoln Park. “I remember Daisy Carter, and the four sisters—they all worked at the Turkey House. Oh, yes, I remember those girls.” He’s speaking of my mother-in-law, one of the sisters, when she was a beautiful teenager.
+Outside, the folding chairs have been rearranged again, as others arrive. McCloud, Glover, and the rest of the men trade stories — some brand new, some everyday. Travis Coleman is here today — he came at seventeen from Idabel, Oklahoma, with his mother, in 1945. “We lived in Red Hollow, right there on 14th Street,” he says, pointing across the old Lincoln Park. “I remember Daisy Carter, and the four sisters — they all worked at the Turkey House. Oh, yes, I remember those girls.” He’s speaking of my mother-in-law, one of the sisters, when she was a beautiful teenager.
 
 Gonzalo Gomez is here most days, too — he came in 1966 from Juarez, Texas. He sits next to Joe D. Hunter, who arrived in 1955 from North Carolina, and Robert Wood, who came in 1950 from Little Rock, Arkansas. “I was stationed at Camp Pendleton,” he says. “Retired in 1962 as E-7 from the Marine Corps.”
 
@@ -66,7 +66,7 @@ Here on the sidewalk, it’s as if an older time like that is preserved in the a
 
 “Going into the military, that was our way out of the South,” Billy McCloud muses one afternoon, his sunglasses reflecting the palm tree nearby. That palm was only three feet tall when it was planted in the sidewalk, back when the Mercantile Hall was built; it now towers into the sky.
 
-McCloud, whom passersby jokingly call “The Mayor of Riverside,” adjusts his diamond ring and says, “I’da made a slave ten minutes. The first time the man said to me, ‘Hey, nigga, get over there and hoe that field,’ I’da said, ‘How much you payin’?’ When he said nothing—‘I own you’—I’da told them to find a tree—not for me, but for him.”
+McCloud, whom passersby jokingly call “The Mayor of Riverside,” adjusts his diamond ring and says, “I’da made a slave ten minutes. The first time the man said to me, ‘Hey, nigga, get over there and hoe that field,’ I’da said, ‘How much you payin’?’ When he said nothing — ‘I own you’ — I’da told them to find a tree — not for me, but for him.”
 
 Coleman nods and looks across the park. Gomez’s small white dog lies at his feet, and Henry Glover says, “I heard <em>that</em>.”
 
