@@ -515,6 +515,22 @@ article {
 		margin-left: auto;
 		margin-right: auto;
 	}
+	h1 {
+	  font-size: 1.5em;
+	  max-width: 23.33333em;
+	  margin: 2.5em auto 1em;
+	  padding-bottom: .25em;
+	  border-bottom: 1px solid rgba(0,0,0,.25);
+	}
+	header {
+		h1 {
+		  font-size: 2.5em;
+		  max-width: none;
+		  border: none;
+		  padding: 0;
+			margin: 0 0 .25em;
+		}
+	}
 	header {
 		text-align: center;
 		margin: 0 0 2.7em;
@@ -543,9 +559,6 @@ article {
 			@media #{$screen-m} {
 				width: 50%;
 			}
-		}
-		h1 {
-			margin: 0 0 .25em;
 		}
 		h2 {
 			margin: 0;

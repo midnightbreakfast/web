@@ -190,7 +190,7 @@ issues:
               url: /so-funny-it-hurts/
 ---
 
-We’d like to thank all of our writers and illustrators, all of whom have helped make for a wonderful launch issue of <cite>Midnight Breakfast</cite>. If you like their work here, we encourage you to take a gander at more of what they’re up to.
+We’d like to thank all of our writers, illustrators, and photographers, all of whom have helped make for wonderful issues of <cite>Midnight Breakfast</cite>. If you like their work here, we encourage you to take a gander at more of what they’re up to.
 
 {% for issue in page.issues %}
 
