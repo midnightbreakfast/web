@@ -255,7 +255,7 @@ I figured that somewhere between Bakersfield and Oakland, I would regret bringin
 
 Watching the conductor half-carry, half-drag a drunk man off the train, I realized what the feeling was about. The room I had just emptied was actually inside of me, full. It was the room where my artistic ideas and creative motivations lay unused, overrun and molding. It was the room where I shut away my queerness when I went to visit family, and where I shut away my creativity when making money seemed more important than self-expression. I saw myself coming and going from this room, shuttling a bounty of dreams, inspirations, education, and fine art in plastic bags. I saw myself hiding, hoarding the perfected outfits out of sight of the rest of the world, refusing to wear them, inhabit them, use them. Refusing to be my full self. This was the kind of room people died in. The room in which you would find me dead. Unless.
 
-	
+<hr class="space" />
 
 A few hours before arriving in Stockton we texted:
 

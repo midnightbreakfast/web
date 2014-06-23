@@ -95,6 +95,12 @@ p {
 	margin-bottom: 1.35em;
 	max-width: 35em;
 }
+ul, ol {
+  margin-bottom: 1.35em;
+  li {
+    margin-bottom: .675em;
+  }
+}
 blockquote {
 	margin: 1.5em auto;
 	font-style: italic;
@@ -115,6 +121,10 @@ hr {
 		border-top: 1px solid rgba(0,0,0,.25);
 		width: 50%;
 		margin: 1.5em auto;
+	}
+	&.space {
+	  border: none;
+	  margin: 3em auto;
 	}
 }
 
@@ -493,7 +503,7 @@ body.home #logo {
 
 article {
 	padding: 0 1.35em 10%;
-	h1, h2, h3, h4, p {
+	h1, h2, h3, h4, p, ul, ol {
 		max-width: 35em;
 		margin-left: auto;
 		margin-right: auto;
