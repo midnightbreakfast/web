@@ -14,8 +14,8 @@ featured_image: issue1/ortiz/ortiz.jpg
 thumb: issue1/ortiz/thumb.png
 
 photographer:
-  name: TK
-  url: http://example.com
+  name: Meiko Takechi Arquillos
+  url: http://www.meikophoto.com
 ---
 
 <figure class="right">
