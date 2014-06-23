@@ -259,14 +259,14 @@ Watching the conductor half-carry, half-drag a drunk man off the train, I realiz
 
 A few hours before arriving in Stockton we texted:
 
-Nail: you know I already kinda miss that room
+**Nail:** you know I already kinda miss that room
 
-Thumb: What do you miss? The immediacy?
+**Thumb:** What do you miss? The immediacy?
 
-Nail: The company jajajajaj!
+**Nail:** The company jajajajaj!
 
-Thumb: The challenge? It probably changed your life!
+**Thumb:** The challenge? It probably changed your life!
 
-Nail: No I think it did but because of what you were saying not because of what she was saying. You know it’s like anybody could have that room INSIDE them! There’s some kinda queer futurity mixed up in this.
+**Nail:** No I think it did but because of what you were saying not because of what she was saying. You know it’s like anybody could have that room INSIDE them! There’s some kinda queer futurity mixed up in this.
 
-Thumb: Excellent. You are getting somewhere now. It was an honor in a way — to see her. Thank you I am proud you are my <del>son</del> nail.
+**Thumb:** Excellent. You are getting somewhere now. It was an honor in a way — to see her. Thank you I am proud you are my <del>son</del> nail.
