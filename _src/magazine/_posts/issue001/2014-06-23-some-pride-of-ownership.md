@@ -9,8 +9,8 @@ bio: |
 featured_image: issue1/pride/covers.jpg
 thumb: issue1/pride/thumb.png
 illustrator:
-  name: TK
-  url: http://example.com
+  name: Justin Volz
+  url: http://justinvolz.com
 ---
 
 <figure class="right">
