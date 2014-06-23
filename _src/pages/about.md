@@ -16,7 +16,7 @@ Masthead
 ### Rebecca Rubenstein
 
 *Editor-in-Chief*
- [Rebecca](http://rebeccarubenstein.com/) likes to make words work. In addition to <cite>Midnight Breakfast</cite>, she is also the interviews editor for [<cite>The Rumpus</cite>](http://therumpus.net/) and a former contributing editor for the short-lived but wonderful [<cite>STET</cite>](http://stet.editorially.com/). She resides in San Francisco and can often be found [thinking aloud](http://twitter.com/rrrubenstein) on Twitter. The way to her heart is truly through breakfast (or brunch, if it’s the weekend).
+ [Rebecca](http://rebeccarubenstein.com/) likes to make words work. In addition to <cite>Midnight Breakfast</cite>, she is a freelance writer and editor, and is also the former interviews editor of [<cite>The Rumpus</cite>](http://therumpus.net/) and a former contributing editor for the short-lived but wonderful [<cite>STET</cite>](http://stet.editorially.com/). She resides in San Francisco and can often be found [thinking aloud](http://twitter.com/rrrubenstein) on Twitter. The way to her heart is truly through breakfast (or brunch, if it’s the weekend).
 
 ### Nevan Scott
 
