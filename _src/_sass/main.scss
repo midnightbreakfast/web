@@ -611,13 +611,32 @@ article {
 	}
 }
 
+a.letter {
+  display: block;
+  clear: both;
+  padding: .75em;
+  text-align: center;
+  text-decoration: none;
+  border-top: 1px solid rgba(255,255,255,.25);
+  border-bottom: 2px solid white;
+  h3, h4 {
+    margin: 0;
+    @media #{$screen-m} {
+      display: inline;
+    }
+  }
+  &:hover {
+    background: rgba(255,255,255,.05);
+  }
+}
+
 a.feature-smalls {
   position: relative;
   display: block;
   background: rgba(255,255,255,.1);
   padding: .75em 25% .75em .75em;
   font-size: .8em;
-  margin-bottom: 1.75em;
+  margin: 2em 0 4em;
   text-decoration: none;
   border-bottom: 2px solid white;
   overflow: hidden;

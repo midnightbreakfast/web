@@ -16,6 +16,10 @@ class: home
 		</div>
 		{% assign contents = issue[1].contents %}
 		{% include posts/cards.html contents=contents %}
+    <a class="letter" href="{{ issue[1].letter }}">
+      <h3>Letter from the Editor</h3>
+      <h4>by Rebecca Rubenstein</h4>
+    </a>
 	</section>
 	{% endfor %}
 	
@@ -43,6 +47,10 @@ class: home
 		{% assign contents = issue[1].contents %}
 		{% include posts/cards.html contents=contents %}
 	</section>
+	<a class="letter" href="{{ issue[1].letter }}">
+	  <h3>Letter from the Editor</h3>
+	  <h4>by Rebecca Rubenstein</h4>
+	</a>
 	{% endfor %}
 	
 </div>
