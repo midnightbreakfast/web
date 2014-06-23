@@ -80,13 +80,10 @@ I thought to myself, <em>I’m in a fucking point-and-click adventure game</em>.
 
 Imagine a room like this:
 
-A space about ten feet by twelve feet
-
-A bed, a chair, a TV, and a bureau
-
-A bar mounted across a corner to serve as coat rack 
-
-A narrow bathroom with a toilet and shower stall
+- A space about ten feet by twelve feet
+- A bed, a chair, a TV, and a bureau
+- A bar mounted across a corner to serve as coat rack 
+- A narrow bathroom with a toilet and shower stall
 
 Now unplug the TV and turn it to face the wall. Push the chair into the corner. Pile shopping bags on the chair. Fill the room with boxes. Pile the new things on top of the old things. Wrap them in plastic bags, or the mice will ruin them. Buy food that doesn’t require preparation or refrigeration. Keep it in boxes and plastic bins. When that food is contaminated by roaches, buy more food. Wrap today’s purchases inside of plastic bags. Pile these on top of the old things. If the piles won’t stay, put them on the bed. Don’t put anything under the bed. Now sleep on the floor by the door. Keep a path open to the bathroom. But don’t use the shower — the wall is falling in.
 
