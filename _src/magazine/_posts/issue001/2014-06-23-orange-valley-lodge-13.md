@@ -38,7 +38,7 @@ photographer:
   url: http://www.douglasmcculloh.com/
 ---
 
-<figure class="right">
+<figure class="middle">
   {% include picture.html path=page.photos.p2.path %}
   <figcaption>{{ page.photos.p2.caption | markdownify }}</figcaption>
 </figure>
@@ -78,7 +78,7 @@ When I stop by one afternoon, John Bennett is standing on the sidewalk, looking 
 
 ***
 
-<figure class="right">
+<figure class="middle">
   {% include picture.html path=page.photos.p4.path %}
   <figcaption>{{ page.photos.p4.caption | markdownify }}</figcaption>
 </figure>
@@ -97,7 +97,7 @@ Gonzalo Gomez is here most days, too — he came in 1966 from Juarez, Texas. He 
 
 ***
 
-<figure class="right">
+<figure class="middle">
   {% include picture.html path=page.photos.p5.path %}
   <figcaption>{{ page.photos.p5.caption | markdownify }}</figcaption>
 </figure>
@@ -106,6 +106,11 @@ One evening, when I come back from visiting the sidewalk, I tell my youngest dau
 
 My daughter offers me this early version of a social network: in Rome, in 1501, a noseless, armless fragment of a statue of Hercules was unearthed, placed on a pedestal in Piazza Navona, and named Pasquino, after a tailor to the Pope who loved Vatican gossip. Insults written by Romans, on government and papal corruption, were hung on the statue. Then another statue, this one of a river god, was unearthed and placed across town, on Capitoline Hill. This figure would “ask” Pasquino his opinion on visiting cardinals or officials, and people would race back and forth on foot and horseback to see the “posts” and insults plastered all over the marble men.
 
+<figure class="right">
+  {% include picture.html path=page.photos.p6.path %}
+  <figcaption>{{ page.photos.p6.caption | markdownify }}</figcaption>
+</figure>
+
 Here on the sidewalk, it’s as if an older time like that is preserved in the amber evening light, thick with remembrance but also shot through with frequent laughter. What does it mean, in 2014, when Facebook measures the social worth of one billion people, to park your truck at the same place most sunny days, or even cloudy ones, and set your folding chair on the same cement where you will see your ten closest friends and countless others who park for a few minutes to share news of a death, or a party, or a glimpse of someone they knew forty years ago? What does it mean when you talk today’s politics or sports, but also tell the same story about walking ten miles to see a girl, or the story about the woman you met in Germany when you were a young soldier? What does it mean to carry Georgia or Alabama or Juarez in you, but to live your permanent days here in the place you chose, or the place that chose you?
 
 “Going into the military, that was our way out of the South,” Billy McCloud muses one afternoon, his sunglasses reflecting the palm tree nearby. That palm was only three feet tall when it was planted in the sidewalk, back when the Mercantile Hall was built; it now towers into the sky.
@@ -113,8 +118,3 @@ Here on the sidewalk, it’s as if an older time like that is preserved in the a
 McCloud, whom passersby jokingly call “The Mayor of Riverside,” adjusts his diamond ring and says, “I’da made a slave ten minutes. The first time the man said to me, ‘Hey, nigga, get over there and hoe that field,’ I’da said, ‘How much you payin’?’ When he said nothing — ‘I own you’ — I’da told them to find a tree — not for me, but for him.”
 
 Coleman nods and looks across the park. Gomez’s small white dog lies at his feet, and Henry Glover says, “I heard <em>that</em>.”
-
-<figure class="middle small">
-  {% include picture.html path=page.photos.p6.path %}
-  <figcaption>{{ page.photos.p6.caption | markdownify }}</figcaption>
-</figure>
