@@ -8,9 +8,9 @@ bio: |
   [Susan Straight](http://www.susanstraight.com) was born in Riverside and still lives there with her family. (She can actually see the hospital from her kitchen window, which her daughters find kind of pathetic; most days, she walks the dog past the classroom where she wrote her first short story at 16, at Riverside City College, which they find even more sad.) She has published [seven novels and one middle-grade reader](http://www.susanstraight.com/books/). <cite>Highwire Moon</cite> was a finalist for the National Book Award in 2001; <cite>A Million Nightingales</cite> was a finalist for the <cite>Los Angeles Times</cite> Book Prize in 2006. Her short stories have appeared in <cite>Zoetrope</cite>, <cite>The Ontario Review</cite>, <cite>The Oxford American</cite>, <cite>The Sun</cite>, <cite>Black Clock</cite>, and other magazines. 
 featured_image: issue1/ovl/2-stokes-wiley.jpg
 thumb: issue1/ovl/thumb.png
-photographer:
-  name: TK
-  url: http://example.com
+photographer: 
+  name: Douglas McCulloh
+  url: http://www.douglasmcculloh.com/
 ---
 
 <figure class="right">
