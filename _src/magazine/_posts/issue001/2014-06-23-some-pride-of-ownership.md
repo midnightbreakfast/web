@@ -49,7 +49,7 @@ Without a word, he kneeled down, emptied a fiction shelf book-by-book and unpinn
 
 I looked closer at the picture. There was something grizzled and skittish and heedless about the face.
 
-“He used to work right over there,” the old man said, pointing at his desk. “Same as I work. We’ve got a nice little set-up, don’t we? Plum.”
+“He used to work right over there,” the old man said, pointing at his desk. “Same as I work. We’ve got a nice little setup, don’t we? Plum.”
 
 He seemed to savor the pop of that final word, but I didn’t even have the sense to agree. I was already busy scheming. Jala would know about the bookshop and the attic and the writers who used to stay overnight, but it was <em>my</em> cot, and with an artful sequencing I could show her that it had once been <em>Kerouac’s</em> cot, too, and really, that ought to mean something to a girl who came halfway round the world to wallow on riverbanks, who kept a diary, who looked at her reflection in shop windows to see how French contorted her mouth, who had for friends only a few gypsies and me.
 
