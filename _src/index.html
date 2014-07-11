@@ -13,8 +13,13 @@ class: home
       </figure>
 	    <h4 class="introducing">New</h4>
 	    <h3 class="feature">Small Plates</h3>
+	    {% if post.overtitle %}
+        <h2 class="overtitle">{{ post.overtitle }}</h2>
+	    {% endif %}
 	    <h1 class="title">{{ post.title }}</h1>
-	    <h2 class="subtitle">{{ post.subtitle }}</h2>
+	    {% if post.subtitle %}
+        <h2 class="subtitle">{{ post.subtitle }}</h2>
+	    {% endif %}
 	    <h3 class="by">by {{ post.by }}</h3>
 	  </a>
 	{% endfor %}
