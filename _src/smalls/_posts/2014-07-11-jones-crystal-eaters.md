@@ -4,10 +4,10 @@ type: Small Plates
 overtitle: an excerpt from
 title: Crystal Eaters
 by: Shane Jones
-cover: smalls/crystal-eaters/cover.png
+cover: smalls/crystal-eaters/cover.jpg
 
 endnote: |
-  This excerpt can be found in <cite>Crystal Eaters</cite> by Shane Jones © 2014 by Two Dollar Radio. It has been reprinted with permission from Two Dollar Radio.
+  This text is excerpted from <cite>Crystal Eaters</cite> by Shane Jones, copyright 2014 by Two Dollar Radio, used with permission from Two Dollar Radio.
 
 bio: |
   Shane Jones's first novel, <cite>Light Boxes</cite>, was originally published by Publishing Genius Press in a print run of 500 copies in 2009. The novel was reviewed widely, the film optioned by Spike Jonze, and the book was reprinted by Penguin. <cite>Light Boxes</cite> has been translated in eight languages and was named an NPR best book of the year. Jones is also the author of the novels <cite>Daniel Fights a Hurricane</cite> and <cite>The Failure Six</cite>.
@@ -17,7 +17,7 @@ bio: |
 
 <h4>Editor’s Note</h4>
 
-A few months ago, I began to hear murmurings of a novel called <cite>[Crystal Eaters](http://www.indiebound.org/book/9781937512187)</cite>. Both <cite>[HTMLGiant](http://htmlgiant.com/reviews/crystal-eaters-by-shane-jones/)</cite> and <cite>[The Rumpus](http://therumpus.net/2014/04/crystal-eaters-by-shane-jones/)</cite> gave the book (and its author, [Shane Jones](https://twitter.com/hiShaneJones)) glowing reviews, and then last month, <cite>Largehearted Boy</cite> [featured Jones](http://www.largeheartedboy.com/blog/archive/2014/06/book_notes_shan_3.html) as part of its Book Notes series. Shortly following this, [Laura van den Berg* sat down with Jones](http://www.theparisreview.org/blog/2014/06/18/red-giant-an-interview-with-shane-jones/) for <cite>The Paris Review Daily</cite>, and their conversation was so fantastic and engaging, that if it had been the only thing I read about the book, I would have found myself sold on the spot.
+A few months ago, I began to hear murmurings of a novel called <cite>[Crystal Eaters](http://www.indiebound.org/book/9781937512187)</cite>. Both <cite>[HTMLGiant](http://htmlgiant.com/reviews/crystal-eaters-by-shane-jones/)</cite> and <cite>[The Rumpus](http://therumpus.net/2014/04/crystal-eaters-by-shane-jones/)</cite> gave the book (and its author, [Shane Jones](https://twitter.com/hiShaneJones)) glowing reviews, and then last month, <cite>Largehearted Boy</cite> [featured Jones](http://www.largeheartedboy.com/blog/archive/2014/06/book_notes_shan_3.html) as part of its Book Notes series. Shortly following this, [Laura van den Berg sat down with Jones](http://www.theparisreview.org/blog/2014/06/18/red-giant-an-interview-with-shane-jones/) for <cite>The Paris Review Daily</cite>, and their conversation was so fantastic and engaging, that if it had been the only thing I read about the book, I would have found myself sold on the spot.
 
 <figure class="right small">
   {% include picture.html path=page.cover %}
@@ -28,8 +28,6 @@ Not that I needed to be “sold.” There are a few presses whose catalogues are
 Before <cite>Crystal Eaters</cite>, I was sadly unfamiliar with Jones’s writing, but now, I’m thankful for the discovery. The novel is a poignant look at a village that subsists on crystals, and follows one family’s trajectory as it grapples with illness, secrets, and the outside threat of modernity. It’s dreamlike and devastating, with language that affixes itself to your bones and won’t let go, even long after you’ve finished. I can’t recommend it more highly. 
 
 ---Rebecca Rubenstein, Editor-in-Chief
-
-*By the way, if you haven't read van den Berg's incredible collection <cite>The Isle of Youth</cite>, please [be sure to remedy that](http://lauravandenberg.com/the-isle-of-youth/).
 
 </div>
 
