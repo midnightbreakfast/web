@@ -30,6 +30,9 @@ layout: default
 			{% if page.type %}
 				<h3 class="type">{{ page.type }}</h3>
 			{% endif %}
+			{% if page.overtitle %}
+				<h2 class="overtitle">{{ page.overtitle }}</h2>
+			{% endif %}
 			{% if page.title_image %}
 				<h1>{% include picture.html path=page.title_image alt=page.title %}</h1>
 			{% else %}

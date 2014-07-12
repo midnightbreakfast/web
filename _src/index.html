@@ -6,6 +6,24 @@ class: home
 
 	<h2 class="tagline">An Ongoing Conversation.</h2>
 	
+	{% for post in site.categories.smalls limit:1 %}
+	  <a class="feature-smalls" href="{{ post.url }}">
+	    <figure>
+        {% include picture.html path=post.cover %}
+      </figure>
+	    <h4 class="introducing">New</h4>
+	    <h3 class="feature">Small Plates</h3>
+	    {% if post.overtitle %}
+        <h2 class="overtitle">{{ post.overtitle }}</h2>
+	    {% endif %}
+	    <h1 class="title">{{ post.title }}</h1>
+	    {% if post.subtitle %}
+        <h2 class="subtitle">{{ post.subtitle }}</h2>
+	    {% endif %}
+	    <h3 class="by">by {{ post.by }}</h3>
+	  </a>
+	{% endfor %}
+	
 	{% for issue in site.data.issues limit:1 %}
 	<section class="toc outset">
 		<div class="badge">
@@ -23,7 +41,7 @@ class: home
   </a>
 	{% endfor %}
 	
-	{% for post in site.categories.smalls limit:1 %}
+	{% for post in site.categories.smalls limit:1 offset:1 %}
 	  <a class="feature-smalls" href="{{ post.url }}">
 	    <figure>
         {% include picture.html path=post.cover %}
