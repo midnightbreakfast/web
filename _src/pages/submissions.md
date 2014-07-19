@@ -37,7 +37,7 @@ Fantastic. Submit it to [submissions@midnightbreakfast.com](mailto:submissions@m
 I hear you pay your contributors...
 -----------------------------------
  
-Yes, we do! More than 150 generous donors made it possible for us to compensate all our writers and artists for their hard work during our first year. We’re currently able to offer $50 if we select your work for publication in <cite>Midnight Breakfast</cite>.
+Yes, we do! [More than 150 generous donors](/thanks/) made it possible for us to compensate all our writers and artists for their hard work during our first year. We’re currently able to offer $50 if we select your work for publication in <cite>Midnight Breakfast</cite>.
 
 
 
