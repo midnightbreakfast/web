@@ -1,8 +1,8 @@
 ---
 layout: smalls
 type: Small Plates
-overtitle: an excerpt from
-title: <cite>Excavation: A Memoir</cite>
+title: TK
+subtitle: <cite>TK</cite>
 by: Wendy C. Ortiz
 cover: TK.jpg
 
