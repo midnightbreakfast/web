@@ -17,7 +17,7 @@ So...what should I submit?
  
 To get the best idea of what we’re looking for, we encourage you to read our back issues, which are conveniently available for free on this very website. We publish one issue per month, with six pieces per issue, which means we have to be a bit selective. On a practical level, we’re looking for unpublished work in the range of 1,000-10,000 words. On a conceptual level, we want to be wowed. Nothing excites us more than a good story with emotional depth. We believe everyone has a story to tell and we want to share as many of these, from as diverse a selection of experiences, as we can. 
 
-**Fiction:** We’re open to loose genre, though we tend to skew more towards literary and speculative fiction. We also love a good, well-written humor piece. What we’re not looking for: fan-fiction, erotica, or anything that requires excessive world-building (as much as we love Game of Thrones in these parts, that kind of work isn’t for us).
+**Fiction:** We’re open to loose genre, though we tend to skew more towards literary and speculative fiction. We also love a good, well-written humor piece. What we’re not looking for: fan-fiction, erotica, or anything that requires excessive world-building (as much as we love <cite>Game of Thrones</cite> in these parts, that kind of work isn’t for us).
 
 **Nonfiction:** We’re looking for personal essays and/or cultural criticism with a narrative bent. We’re particularly interested in reading about people and cultures that are often underrepresented or otherwise marginalized.
 
@@ -30,7 +30,7 @@ Sadly, we’re currently not accepting poetry, or anything that requires excessi
 In that case, I’ve got something I think you’re going to like.
 --------------------------------------------------------------
  
-Fantastic. Submit it to [submissions@midnightbreakfast.com](mailto:submissions@midnightbreakfast.com) as an attachment (either a Word Document or a PDF). Please make sure your name, email, and any other pertinent contact info are in the document, and include the name of your piece as well as the genre (fiction, nonfiction, interview) in the subject line of your email. We’ll give it a read and get back to you as soon as we can. We’ve got a small staff, so please give us at least a month to give your submission the consideration it needs before checking in. And we accept simultaneous submissions, so please be kind and let us know if your work is accepted elsewhere.
+Fantastic. Submit it to [submissions@midnightbreakfast.com](mailto:submissions@midnightbreakfast.com) as an attachment (either a Word Document or a PDF). Please only send one submission at a time and make sure your name, email, and any other pertinent contact info are in the document, and include the name of your piece as well as the genre (fiction, nonfiction, interview) in the subject line of your email. We’ll give it a read and get back to you as soon as we can. We’ve got a small staff, so please give us at least a month to give your submission the consideration it needs before checking in. And we accept simultaneous submissions, so please be kind and let us know if your work is accepted elsewhere.
 
 
 
