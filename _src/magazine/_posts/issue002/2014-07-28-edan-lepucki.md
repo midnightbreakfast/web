@@ -5,7 +5,7 @@ type: In Conversation with
 title: Edan Lepucki
 by: Lydia Kiesling
 bio: |
-  Lydia Kiesling is a staff writer for <cite>The Millions</cite> and the creator of the semi-regular <cite>Modern Library Revue</cite>. Her writing has appeared at <cite>Salon</cite>, <cite>Slate</cite>, <cite>Bullett</cite>, among other places, and she was a judge in the 2014 Tournament of Books. She lives in San Francisco, works in Berkeley, and sporadically Tweets at [@lydiakiesling](http://twitter.com/lydiakiesling).
+  Lydia Kiesling is a staff writer for <cite>The Millions</cite> and the creator of the semi-regular <cite>Modern Library Revue</cite>. Her writing has appeared at <cite>Salon</cite>, <cite>Slate</cite>, <cite>Bullett</cite>, among other places, and she was a judge in the 2014 Tournament of Books. She lives in San Francisco, works in Berkeley, and sporadically tweets at [@lydiakiesling](http://twitter.com/lydiakiesling).
 illustrator:
   name: TK
   url: #
