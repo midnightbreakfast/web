@@ -42,7 +42,7 @@ Lauren O’Neal is a freelance writer and editor working toward an MFA in creati
 Submissions Info
 ----------------
 
-We are currently closed for writing submissions. Please check back, or [sign up for our newsletter](/signup/) to be notified once we've opened shop again.
+We're currently open for fiction, nonfiction, and interview submissions. For more info on what and how to submit, visit our [submissions page](/submissions/).
 
 Are you an illustrator interested in working with us? [We’d love to hear from you.](mailto:nevan@midnightbreakfast.com)
 
