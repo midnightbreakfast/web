@@ -1,10 +1,10 @@
 ---
 layout: smalls
 type: Small Plates
-title: TK
-subtitle: <cite>TK</cite>
+overtitle: an excerpt from
+title: Excavation: A Memoir
 by: Wendy C. Ortiz
-cover: TK.jpg
+cover: smalls/excavation/cover.jpg
 
 endnote: |
   This text is excerpted from <cite>Excavation: A Memoir</cite> by Wendy C. Ortiz, copyright 2014 by Future Tense Books, used with permission from the author and Future Tense Books.
