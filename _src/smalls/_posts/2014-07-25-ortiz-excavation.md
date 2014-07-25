@@ -28,7 +28,7 @@ Here’s the thing about Wendy: she doesn’t hold back. She puts everything out
 
 <cite>Excavation</cite> is an unflinching, uncompromising experience. It’s an investigation of the sexual relationship Wendy had with her eighth grade teacher over the course of five years, but it’s also an unapologetic exploration of what it means to be a teenage girl — of what happens when our desires become our focal point, and how we harness sex and allow it to harness us. The book is at once harrowing and beautiful, and Wendy’s language is crisp and shakes you to your core. She writes sentences you wish you could write. 
 
-Sometimes I like to use the term “literary powerhouse,” and for me, Wendy C. Ortiz is the embodiment of this. I’m so glad [Future Tense Books](http://www.futuretensebooks.com/futuret/home1.html) (which, let it be said, is a powerhouse of its own) gave <cite>Excavation</cite> a home, and I’m absolutely thrilled to bring you this excerpt from one of my favorite books of the last five years.
+Sometimes I like to use the term “literary powerhouse,” and for me, Wendy C. Ortiz is the embodiment of this. I’m so glad [Future Tense Books](http://www.futuretensebooks.com/futuret/home1.html) (which, let it be said, is a powerhouse of its own) gave <cite>Excavation</cite> a home, and I’m absolutely thrilled to bring you this excerpt from one of the best books I've read in the last five years.
 
 Enjoy!
 
