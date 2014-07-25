@@ -20,18 +20,15 @@ bio: |
 
 I don’t remember exactly how or when it happened, but at some point last year, I became aware that [Wendy C. Ortiz](http://midnightbreakfast.com/wendy-c-ortiz/) was out there, killing it with her writing. My friend and former co-editor Zoë Ruiz had worked with her on a few interviews, and then subsequently forwarded me some pitches, all of which mentioned that Wendy had directed them towards The Rumpus. <i>Who is this writer sending us all these great people?</i> I began to wonder. And then, like anyone in the digital age, I googled her. A few clicks later, and I was on [her personal website](http://www.wendyortiz.com/index.shtml), and a few clicks after that and I had read a portion of her work (which is, quite thankfully, [available online](http://www.wendyortiz.com/prose.shtml)).
 
+<figure class="right small">
+  {% include picture.html path=page.cover %}
+</figure>
+
 Here’s the thing about Wendy: she doesn’t hold back. She puts everything out there, makes everything vulnerable. Whether charting the disintegration of a marriage or naming the reasons why having one child is enough, she gives herself permission to be honest and doesn’t shy away from accountability or exposure. Which is precisely what makes her new book, <cite>[Excavation: A Memoir](http://www.futuretensebooks.com/futuret/books.html)</cite>, incredible.
 
 <cite>Excavation</cite> is an unflinching, uncompromising experience. It’s an investigation of the sexual relationship Wendy had with her eighth grade teacher over the course of five years, but it’s also an unapologetic exploration of what it means to be a teenage girl — of what happens when our desires become our focal point, and how we harness sex and allow it to harness us. The book is harrowing but always beautiful, and Wendy’s language is crisp and refreshing. She writes sentences you wish you could write. 
 
 Sometimes I like to use the term “literary powerhouse,” and for me, Wendy C. Ortiz is the embodiment of this. I’m so glad [Future Tense Books](http://www.futuretensebooks.com/futuret/home1.html) (which, let it be said, is a powerhouse of a small press) gave <cite>Excavation</cite> a home, and I’m absolutely thrilled to bring you this excerpt from one of my favorite books of the last five years.
-
-
-
-<figure class="right small">
-  {% include picture.html path=page.cover %}
-</figure>
-
 
 Enjoy!
 
