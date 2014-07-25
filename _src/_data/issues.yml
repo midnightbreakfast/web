@@ -1,7 +1,12 @@
 issue2:
   number: 2
   contents:
-    - sample
+    - trizas-fragments
+    - f
+    - the-invention-of-history
+    - what-remains
+    - a-barcelona-tale
+    - edan-lepucki
   letter: /issue-2-letter/
 issue1:
   number: 1
