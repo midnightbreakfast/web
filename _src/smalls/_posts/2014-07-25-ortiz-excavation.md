@@ -2,7 +2,8 @@
 layout: smalls
 type: Small Plates
 overtitle: an excerpt from
-title: Excavation: A Memoir
+title: |
+  Excavation: A Memoir
 by: Wendy C. Ortiz
 cover: smalls/excavation/cover.jpg
 
