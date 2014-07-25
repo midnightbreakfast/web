@@ -88,6 +88,7 @@ Momma saw her dirty clothes and frowned. Aren’t you old to be rolling in the m
 
 That night, Jolene discovered Callie’s most precious calico doll on Jolene’s pillow, a gift. Jolene hated Callie even more for being someone so unhateable.
 
+
 ***
 
 7.
