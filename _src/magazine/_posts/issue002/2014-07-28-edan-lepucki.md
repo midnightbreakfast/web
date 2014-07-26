@@ -17,7 +17,7 @@ When I started writing for [The Millions](http://themillions.com) in 2009, Edan 
 
 A young graduate of the Iowa Writers’ Workshop who publishes at a brisk and respectable pace, Edan has always been a humane glimpse at another world, a world where writing is something more than faintly disreputable hobby, albatross, or black hole. Writers so often fall into the practice, and they have little guidance apart from mournful Google queries. Edan is a fellow supplicant, but she’s also a union organizer and a team coach; she’ll counsel you on [rejection](http://www.themillions.com/2013/11/ask-the-writing-teacher-fifty-shades-of-rejection.html), share her [vision of the ideal reader](http://www.themillions.com/2011/01/writing-from-the-garret-the-joys-and-dangers-of-readership.html), or provide an [opinionated but fair assessment](http://www.themillions.com/2011/11/do-it-yourself-self-published-authors-take-matters-into-their-own-hands.html) of the self-publishing game. Once she did sell a novel, she held readers rapt with an insider look at the process, publishing interviews with [editors](http://www.themillions.com/2014/03/life-is-too-short-to-read-a-bad-book-a-conversation-with-my-editor.html), [copyeditors](http://www.themillions.com/2014/02/style-sheet-a-conversation-with-my-copyeditor.html), and [agents](http://www.themillions.com/2014/05/dont-ever-do-it-for-the-money-a-conversation-with-my-agent.html) that were always illuminating and never smug.
 
-When Edan (somewhat begrudgingly) left her native and beloved Los Angeles for the Bay Area last year, I got to know her not only as a great writer but also as a sharp wit, elegant hostess, and delightful person. So while I’m am utterly biased, I am also utterly thrilled about the success of her debut, <cite>California</cite>, which by now everyone knows got a tremendous boost from the recent <i>[Colbert ex machina](http://thecolbertreport.cc.com/videos/t1nxwu/amazon-vs--hachette---sherman-alexie)</i> ([Edan appeared recently](http://thecolbertreport.cc.com/videos/8e5dyu/colbert-nation-vs--amazon---edan-lepucki) on <cite>The Colbert Report</cite> as a result). And <cite>California</cite> deserved that boost — it’s a gripping story about marriage and societal breakdown and what to expect when you’re expecting at the end of the world. So I made Edan eat lunch with me and discuss these things, as well as her business, her craft, and her life.
+When Edan (somewhat begrudgingly) left her native and beloved Los Angeles for the Bay Area last year, I got to know her not only as a great writer but also as a sharp wit, elegant hostess, and delightful person. So while I’m utterly biased, I am also utterly thrilled about the success of her debut, <cite>[California](http://www.indiebound.org/book/9780316250818)</cite>, which by now everyone knows got a tremendous boost from the recent <i>[Colbert ex machina](http://thecolbertreport.cc.com/videos/t1nxwu/amazon-vs--hachette---sherman-alexie)</i> ([Edan appeared recently](http://thecolbertreport.cc.com/videos/8e5dyu/colbert-nation-vs--amazon---edan-lepucki) on <cite>The Colbert Report</cite> as a result). And <cite>California</cite> deserved that boost — it’s a gripping story about marriage and societal breakdown and what to expect when you’re expecting at the end of the world. So I made Edan eat lunch with me and discuss these things, as well as her business, her craft, and her life.
 
 ***
 
@@ -35,7 +35,7 @@ When Edan (somewhat begrudgingly) left her native and beloved Los Angeles for th
 
 **Kiesling:** And you do this every day?
 
-**Lepucki:** Yeah, usually I have to spend thirty minutes catching up on the last five days, and it’s horrible. But as a consequence I know that I started <cite>California</cite> at Ucross — which is the residency in Wyoming — the first time I went. I have a time stamp for <cite>California</cite>, whereas for some reason I have no recollection where I began my new book. But with <cite>California</cite>, I went to Ucross, where I had planned to work on the revision of my first book, <cite>The Book of Deeds</cite>.
+**Lepucki:** Yeah, usually I have to spend thirty minutes catching up on the last five days, and it’s horrible. But as a consequence I know that I started <cite>California</cite> at Ucross — which is the residency in Wyoming — the first time I went. I have a time stamp for <cite>California</cite>, whereas for some reason I have no recollection of where I began my new book. But with <cite>California</cite>, I went to Ucross, where I had planned to work on the revision of my first book, <cite>The Book of Deeds</cite>.
 
 **Kiesling:** That’s the one that hasn’t sold.
 
@@ -45,13 +45,13 @@ When Edan (somewhat begrudgingly) left her native and beloved Los Angeles for th
 
 **Lepucki:** No, no, my agent told me, “I think people might fetishize that one now that the current one is doing well, but no one will ever see this.” And I agreed, and she said, “I’m glad we could come to that agreement.”
 
-But in any case, I was planning to go to Ucross to revise <cite>The Book of Deeds</cite>, based on my previous agent’s notes. But right before I left, my previous agent told me that she didn’t actually want to represent the book. So I had no agent and no revision notes. When I got to Ucross, I thought, Fuck, I’ll just take this writing exercise I have, which I had done with my students and which was a brainstorming exercise for a book that I knew I generally wanted to write. I was only ten days at Ucross, and I wrote about forty pages, which, until my second trip to Ucross, was the most I had ever written in a span of time like that.
+In any case, I was planning to go to Ucross to revise <cite>The Book of Deeds</cite>, based on my previous agent’s notes. But right before I left, my previous agent told me that she didn’t actually want to represent the book. So I had no agent and no revision notes. When I got to Ucross, I thought, <i>Fuck, I’ll just take this writing exercise I have</i>, which I had done with my students and which was a brainstorming exercise for a book that I knew I generally wanted to write. I was only ten days at Ucross, and I wrote about forty pages, which, until my second trip to Ucross, was the most I had ever written in a span of time like that.
 
 The exercise was Frida — I don’t think she had that name yet — but she had a turkey baster. The original prompt for the students was to have a character interact with an object they own that nobody else knows about. So I had given Frida a turkey baster. I had no idea where the turkey baster came from. Her husband was outside, and she was inside, and she had this turkey baster. Why? I knew that this was a couple in the future in some post-apocalyptic landscape, but that’s all I had, and I just kept writing.
 
 **Kiesling:** You said this was a book you generally wanted to write. So you had designs on writing a post-apocalyptic novel, always?
 
-**Lepucki:** Yes. From the beginning. I think there always ends up being a myth of how a novel comes to be — I’m still honing mine. But there were a few different things. One is that the phrase — it’s very pretentious — “post-apocalyptic domestic drama” popped into my mind, and I thought, That’s exciting.
+**Lepucki:** Yes. From the beginning. I think there always ends up being a myth of how a novel comes to be — I’m still honing mine. But there were a few different things. One is that the phrase — it’s very pretentious — “post-apocalyptic domestic drama” popped into my mind, and I thought, <i>That’s exciting</i>.
 
 **Kiesling:** Well, it works. That is, in fact, what you wrote.
 
@@ -71,7 +71,7 @@ The exercise was Frida — I don’t think she had that name yet — but she had
 
 **Kiesling:** It’s funny that the turkey baster is a weird talisman in the book and now is a weird talisman in the book’s origin story.
 
-**Lepucki:** There was always a joke where I was going to get turkey basters made that said “<cite>California</cite>” on the side to give away at readings.
+**Lepucki:** There was always a joke where I was going to get turkey basters made that said “<cite>California</cite>” on the side, to give away at readings.
 
 **Kiesling:** Speaking of apocalypses, the novel felt pretty political to me. I guess in post-apocalyptic or slow apocalyptic or any kind of dystopian work, there’s always going to be a political element, just in that most people don’t totally dispense with identifying some particular reason for the societal breakdown. I liked how in <cite>California</cite>, it’s this cluster of interconnected things, some of them climatic and some of them social. It’s not just one thing that happens and then everything is fucked. It’s pretty topical. Was that intentional?
 
@@ -79,7 +79,7 @@ The exercise was Frida — I don’t think she had that name yet — but she had
 
 **Kiesling:** So, prophetic.
 
-**Lepucki:** Clairvoyant, totally. I didn’t want to make it generate from one single catastrophe. I like The Road for instance, or The Handmaid’s Tale, and I’m interested in nuclear holocausts — that’s one of my hobbies — but I don’t think those books are as scary, because everyone feels powerless in the face of some great destruction. This type of slow apocalypse is scarier to me, because we’ve all been complicit in making the world a bad place. And in that it is topical, if we continue on our current road.
+**Lepucki:** Clairvoyant, totally. I didn’t want to make it generate from one single catastrophe. I like <cite>The Road</cite> for instance, or <cite>The Handmaid’s Tale</cite>, and I’m interested in nuclear holocausts — that’s one of my hobbies — but I don’t think those books are as scary, because everyone feels powerless in the face of some great destruction. This type of slow apocalypse is scarier to me, because we’ve all been complicit in making the world a bad place. And in that it is topical, if we continue on our current road.
 
 I was just listening to a story about the EPA caps and the people who are fighting and fighting them because they want to make money. They want to keep jobs, which I understand, and food on the table, but nonetheless, if we just continue on the way things have been going, we’re fucked. So a novel with this premise is a little bit scarier to me. It seems more familiar.
 
@@ -95,11 +95,11 @@ I wanted to ask you about that, too. I’m sure it’s so annoying when people a
 
 **Kiesling:** Deep Springs. Was that a model for Plank?
 
-**Lepucki:** I read this profile about it. In <cite>The New Yorker</cite>, by Dana Goodyear. As soon as I read the article, I knew I was going to write about it, because it was just so fascinating to me. So I brought it with me to Ucross, and I printed out the application, because I wanted to get a sense of the tone of the school and what they required. (And I also wanted my brother to go there, but he wasn’t into it.)
+**Lepucki:** I read [this profile](http://www.newyorker.com/magazine/2006/09/04/the-searchers-2) about it. In <cite>The New Yorker</cite>, by Dana Goodyear. As soon as I read the article, I knew I was going to write about it, because it was just so fascinating to me. So I brought it with me to Ucross, and I printed out the application, because I wanted to get a sense of the tone of the school and what they required. (And I also wanted my brother to go there, but he wasn’t into it.)
 
 There were originally a couple of longer flashbacks at Plank that are not in the book anymore (to the sadness of my husband, because he likes campus novels). Those flashbacks were really fun to write, but every editor who was interested in buying the book said things like, “These kind of slow down the story and don’t seem totally essential.” They were still useful to me in terms of getting character down.
 
-A lot of the Plank stuff, though, is really Oberlin-inspired, or I just totally played pretend. I didn’t do too much research about what Deep Springs looked like, I haven’t talked to anyone who went there. I didn’t want to actually meet people who went to school there, because I wasn’t actually writing about Deep Springs. But I had so much fun writing about that college, that I wanted to write a whole other book about it, The Plank Chronicles, like a spin-off.
+A lot of the Plank stuff, though, is really Oberlin-inspired, or I just totally played pretend. I didn’t do too much research about what Deep Springs looked like, I haven’t talked to anyone who went there. I didn’t want to actually meet people who went to school there, because I wasn’t actually writing about Deep Springs. But I had so much fun writing about that college, that I wanted to write a whole other book about it, <cite>The Plank Chronicles</cite>, like a spin-off.
 
 **Kiesling:** Perfect, a deep prequel. I will read this.
 
@@ -109,7 +109,7 @@ Speaking of editors, let’s talk about that side of things. I’ve really liked
 
 **Kiesling:** Makes sense.
 
-**Lepucki:** There were certain moments when I thought, <i>My agent will love this line</i>, because she has a very dark and dirty sensibility. I think the publishing of <cite>California</cite> was very…humbling, because I have been teaching for a number of years but haven’t really been workshopped in a long time. So when I got my first critique letter from the editor, it was very thorough, very long — twelve pages, single-spaced — and it made me cry because it was so intense but also so spot-on. It was a combination of knowing that it was exactly what I needed to do but not knowing if I could do it. It wasn’t like, She doesn’t know what she’s talking about, how dare she! I never have been, I’m the artist, and nobody else can read my book as well as I can. But it was humbling to realize that there were these very good readers working really hard on my behalf. Once I stopped crying, it felt collaborative and great. There were definitely times when I thought, I can’t revise this book another time or I’m going to kill myself.
+**Lepucki:** There were certain moments when I thought, <i>My agent will love this line</i>, because she has a very dark and dirty sensibility. I think the publishing of <cite>California</cite> was very…humbling, because I have been teaching for a number of years but haven’t really been workshopped in a long time. So when I got my first critique letter from the editor, it was very thorough, very long — twelve pages, single-spaced — and it made me cry because it was so intense but also so spot-on. It was a combination of knowing that it was exactly what I needed to do but not knowing if I could do it. It wasn’t like, <i>She doesn’t know what she’s talking about, how dare she!</i> I never have been, <i>I’m the artist, and nobody else can read my book as well as I can.</i> But it was humbling to realize that there were these very good readers working really hard on my behalf. Once I stopped crying, it felt collaborative and great. There were definitely times when I thought, <i>I can’t revise this book another time or I’m going to kill myself.</i>
 
 **Kiesling:** Because the revisions took longer than you thought. I remember it was kind of a process, right?
 
@@ -119,7 +119,7 @@ And the things I’m not good at, my editor is really good at — things like wo
 
 **Kiesling:** So you believe in the process. The process works!
 
-**Lepucki:** I guess I drank the Kool-Aid, but I think it was positive — even if my book was not on The Colbert Report, I would feel positive about it. I think for a first novel to have had that whip cracked was very necessary. If it had come out the way that it sold, people would have thought, Strong characters, interesting world, but they would have been very confused about why the world was the way it was.
+**Lepucki:** I guess I drank the Kool-Aid, but I think it was positive — even if my book was not on <cite>The Colbert Report</cite>, I would feel positive about it. I think for a first novel to have had that whip cracked was very necessary. If it had come out the way that it sold, people would have thought, <i>Strong characters, interesting world</i>, but they would have been very confused about why the world was the way it was.
 
 **Kiesling:** Was it just kind of atmospheric and vignette-y and domestic?
 
@@ -133,7 +133,7 @@ And the things I’m not good at, my editor is really good at — things like wo
 
 **Lepucki:** In the editorial process there is a lot of weird stuff like that that felt very big, but once it happened, I hardly remembered that they were there, because they weren’t really important to the narrative, and my editor pointed out that the relationship between Micah and Frida was more interesting if it was just the two of them. Those kinds of bulldozing changes feel major, but they are actually the easiest things to change when they don’t really have to do with the main characters, or the premise of the novel, or the emotional beats.
 
-**Kiesling:** So talking about the process and workshopping, I want to ask about your background and your work with Writing Workshops LA. You mentioned that you’ve been doing a lot of workshopping but you, yourself, haven’t been workshopped in a while. And then, with this novel, you got the ultimate workshop. You started the book in 2009. When did you start Writing Workshops LA?
+**Kiesling:** So talking about the process and workshopping, I want to ask about your background and your work with [Writing Workshops LA](http://www.writingworkshopsla.com). You mentioned that you’ve been doing a lot of workshopping but you, yourself, haven’t been workshopped in a while. And then, with this novel, you got the ultimate workshop. You started the book in 2009. When did you start Writing Workshops LA?
 
 **Lepucki:** Well, unofficially, I started right after I graduated from Iowa in 2006, but it really wasn’t a thing in terms of, like, taxes until 2008, or as far as hiring other teachers and having any income that needed to be declared.
 
@@ -151,7 +151,7 @@ So that is what we’ve been doing in the conference. But I have one student, Ca
 
 **Kiesling:** What is it called?
 
-**Lepucki:** It is called The Ghost Network and it’s a fictional nonfiction book about the disappearance of a pop star. It’s phenomenal.
+**Lepucki:** It is called <cite>The Ghost Network</cite> and it’s a fictional nonfiction book about the disappearance of a pop star. It’s phenomenal.
 
 And then I have had students who I’ve worked with just minimally who go on to write their own books without my help. I can’t claim any credit. We also have students who are publishing short stories, and Chris Daley, who teaches nonfiction, has students who are publishing a lot. So we are just going to keep trying to get more students to publish their work.
 
@@ -167,7 +167,7 @@ And then I have had students who I’ve worked with just minimally who go on to 
 
 **Lepucki:** Yeah, I was not pregnant, then I was pregnant, then I was a mother; so I got the whole gamut of experience when I was writing the book. With my first book, my novella [<cite>If You’re Not Yet Like Me</cite>], which was actually about a woman who was pregnant — I was not pregnant when I wrote that book. I was secretly pregnant at my book party, I remember.
 
-**Kiesling:** Well, I am not going to say that some mystical pregnancy thing happened with your work — in fact, it probably has more to do with me as a reader in my current state — but it’s funny that for me, pregnancy wasn’t the salient feature of your novella. I actually just remembered that the character was pregnant. Whereas in <cite>California</cite>, there’s a sense of foreboding that feels very tied to the fact that Frida is pregnant. I mean, it’s a very atmospheric novel in any case, but the pregnancy really slotted in nicely with the general gloom. It has a pregnant vibe. It’s kind of like it is…pregnant with meaning.
+**Kiesling:** Well, I am not going to say that some mystical pregnancy thing happened with your work — in fact, it probably has more to do with me as a reader in my current state — but it’s funny that for me, pregnancy wasn’t the salient feature of your novella. I actually just remembered that the character was pregnant. Whereas in <cite>California</cite>, there’s a sense of foreboding that feels very tied to the fact that Frida is pregnant. I mean, it’s a very atmospheric novel in any case, but the pregnancy really slotted in nicely with the general gloom. It has a pregnant vibe. It’s kind of like it is…<em>pregnant with meaning</em>.
 
 **Lepucki:** Oh my god, you are a genius.
 
@@ -175,15 +175,15 @@ And then I have had students who I’ve worked with just minimally who go on to 
 
 **Lepucki:** I think for both of those books, which I was writing concurrently at one point, pregnancy was obviously something that my subconscious was working on. Did I want to get pregnant? Did I want to have a child? So I had this character [Frida], and she might be pregnant, and I would compare her to myself. And how it wouldn’t be that big of a deal for me to be pregnant, but she’s at the end of the world and I’m not — I can go to Kaiser. So it must have been something that I was working through.
 
-When I wrote that initial turkey baster scene, she was pregnant from the very beginning, although I don’t remember thinking, Oh, she is going to be pregnant. But it is such a useful narrative device in terms of creating drama. She has this secret, then she has to tell Cal, then they have to tell other people — are they going to tell them? Etc. What does it mean to be pregnant? Suddenly everything is at stake. There’s a selfless aspect to pregnancy, where you think, This is not just about me anymore, but then there is a wholly selfish aspect, like, This is my familial unit, this is about what’s best for us and our little group. So I think that resonated in the book, and it worked really well for the conflicts that happen.
+When I wrote that initial turkey baster scene, she was pregnant from the very beginning, although I don’t remember thinking, <i>Oh, she is going to be pregnant.</i> But it is such a useful narrative device in terms of creating drama. She has this secret, then she has to tell Cal, then they have to tell other people — are they going to tell them? Etc. What does it mean to be pregnant? Suddenly everything is at stake. There’s a selfless aspect to pregnancy, where you think, <i>This is not just about me anymore</i>, but then there is a wholly selfish aspect, like, <i>This is my familial unit, this is about what’s best for us and our little group.</i> So I think that resonated in the book, and it worked really well for the conflicts that happen.
 
-**Kiesling:** I’m still thinking about the other interviewers. I guess it wouldn’t occur to me that it would be sexist to ask you about this because you also did just publish your birth story in a collection called Labor Day.
+**Kiesling:** I’m still thinking about the other interviewers. I guess it wouldn’t occur to me that it would be sexist to ask you about this because you also did just publish your birth story in a collection called <cite>Labor Day</cite>.
 
 **Lepucki:** Yeah, I am a proud mama. I’m interested in talking about it.
 
 **Kiesling:** So what else can I ask you now? Do you have a lot of other novels in your mind that you want to write?
 
-**Lepucki:** Not really. I have this one that I’m writing now, and I have an inkling of possibly writing a sequel to <cite>California</cite>, but not in a way that even really picks up where I left off. I have other ideas of things I would like to write about but it’s sort of changeable. I’ll think, Time travel is interesting to me and Puritan girls are interesting to me and ballet dancers are interesting to me, although I don’t necessarily feel the urge to write about all of those things. I want someone else to write them and then I buy them in the bookstore.
+**Lepucki:** Not really. I have this one that I’m writing now, and I have an inkling of possibly writing a sequel to <cite>California</cite>, but not in a way that even really picks up where I left off. I have other ideas of things I would like to write about but it’s sort of changeable. I’ll think, <i>Time travel is interesting to me and Puritan girls are interesting to me and ballet dancers are interesting to me</i>, although I don’t necessarily feel the urge to write about all of those things. I want someone else to write them and then I buy them in the bookstore.
 
 **Kiesling:** Do you still write short fiction at all?
 
