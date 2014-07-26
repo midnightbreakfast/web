@@ -11,41 +11,23 @@ class: home
 	{% endfor %}
 	
 	{% for issue in site.data.issues limit:1 %}
-	<section class="toc outset">
-		<div class="badge">
-			<h2>
-				Issue
-				<strong>{{ issue[1].number }}</strong>
-			</h2>
-		</div>
-		{% assign contents = issue[1].contents %}
-		{% include posts/cards.html contents=contents %}
-	</section>
-  <a class="letter" href="{{ issue[1].letter }}">
-    <h3>Letter from the Editor</h3>
-    <h4>by Rebecca Rubenstein</h4>
-  </a>
+	  {% include issue.html %}
 	{% endfor %}
 	
-	{% for post in site.categories.smalls limit:2 offset:1 %}
+	{% for post in site.categories.smalls limit:1 offset:1 %}
 	  {% include post/small-plates.html %}
 	{% endfor %}
 	
 	{% for issue in site.data.issues limit:1 offset:1 %}
-	<section class="toc outset">
-		<div class="badge">
-			<h2>
-				Issue
-				<strong>{{ issue[1].number }}</strong>
-			</h2>
-		</div>
-		{% assign contents = issue[1].contents %}
-		{% include posts/cards.html contents=contents %}
-	</section>
-	<a class="letter" href="{{ issue[1].letter }}">
-	  <h3>Letter from the Editor</h3>
-	  <h4>by Rebecca Rubenstein</h4>
-	</a>
+	  {% include issue.html %}
+	{% endfor %}
+
+	{% for post in site.categories.smalls limit:1 offset:2 %}
+	  {% include post/small-plates.html %}
+	{% endfor %}
+		
+	{% for issue in site.data.issues limit:1 offset:2 %}
+	  {% include issue.html %}
 	{% endfor %}
 	
 </div>
