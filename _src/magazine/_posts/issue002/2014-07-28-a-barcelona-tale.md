@@ -15,7 +15,7 @@ thumb: TK
 
 We found the apartment through a rental service. It was a studio just south of the Santa Catarina Market, only five hundred euros for the week. It looked out over a small cobblestone square, where tourists dined at outdoor tables and buskers sang flamenco songs. Every hour, you could hear the bells of nearby churches.
 
-Ellen and I were sitting at the little wooden table by the window. We had been dating six months. The trip to Spain was a gift to ourselves from the rent money we had saved by moving in together. It was our third night in Barcelona, and we were trying to decide how to spend it, so Ellen was reading aloud from Let’s Go! Spain.
+Ellen and I were sitting at the little wooden table by the window. We had been dating six months. The trip to Spain was a gift to ourselves from the rent money we had saved by moving in together. It was our third night in Barcelona, and we were trying to decide how to spend it, so Ellen was reading aloud from <cite>Let’s Go! Spain</cite>.
 
 “Listen to this,” she said. “According to ancient legend, every year at midnight before the first day of spring, a gargoyle climbs down from the Cathedral of Barcelona and forgives the city for its sins.”
 
@@ -41,7 +41,7 @@ Ellen turned to me and smiled. We couldn’t believe what we were seeing. The ga
 
 “God, it was a miserable year,” the gargoyle began. It spoke in a raspy, encrusted voice. “Fixed to the same spot every day, unable to flinch a muscle or blink an eye, let alone take flight.” A shiver rose from its haunches and fluttered its wings. “Nothing to do but watch the seasons pass.”
 
-The gargoyle pushed its glass forward and nodded for another round. The bartender quickly obliged. What followed was not the miracle promised by the sidebar in Let’s Go! Spain, but rather a disgruntled gargoyle’s litany of suffering.
+The gargoyle pushed its glass forward and nodded for another round. The bartender quickly obliged. What followed was not the miracle promised by the sidebar in <cite>Let’s Go! Spain</cite>, but rather a disgruntled gargoyle’s litany of suffering.
 
 “Do you know how awful it is to be mortared to a wall?” the gargoyle asked the dumbfounded patrons of the bar. “How depressing it is to be encased in a body of stone?” It went on to complain about how rarely the church was threatened by actual minions of the devil. In point of fact, it explained, almost all of the visitors were tourists.
 
@@ -51,9 +51,9 @@ At first, it seemed, no one wanted to answer the gargoyle, or quite knew how. It
 
 “Runoff from a tile roof sluicing backwards through your throat!” Several people around us gasped. “Ever watched a child point to you and collapse in tears, or begged the Almighty to be able to brush the soot from your scales? I’m telling you, it’s terrible!”
 
-It was hard to know what to make of the gargoyle’s rant. Sure, it would be miserable to be an ornamental downspout on a cathedral wall. But how was that our problem? The gargoyle should take his complaints to the builders who mounted it on the church, I thought. Why should we have to bear the burden of its anger? I was also coming to a different view about how charming it was to see a mythical stone creature brought to life, and wondering what else our guidebook might have gotten wrong about Barcelona.
+It was hard to know what to make of the gargoyle’s rant. Sure, it would be miserable to be an ornamental downspout on a cathedral wall. But how was that our problem? <i>The gargoyle should take his complaints to the builders who mounted it on the church</i>, I thought. <i>Why should we have to bear the burden of its anger?</i> I was also coming to a different view about how charming it was to see a mythical stone creature brought to life, and wondering what else our guidebook might have gotten wrong about Barcelona.
 
-Others in the bar were simply growing tired of listening to the gargoyle’s complaints. One man gave the creature a disgusted wave and turned his back. “Maleïda gàrgola!” someone yelled, to a round of laughter. Slowly, the bar filled again with its usual sounds––low grumbling, the clink of silverware on china, the squeak and scuffle of chair legs on the hardwood floor.
+Others in the bar were simply growing tired of listening to the gargoyle’s complaints. One man gave the creature a disgusted wave and turned his back. “Maleïda gàrgola!” someone yelled, to a round of laughter. Slowly, the bar filled again with its usual sounds — low grumbling, the clink of silverware on china, the squeak and scuffle of chair legs on the hardwood floor.
 
 The gargoyle seemed determined not to take the hint. It kept reciting its list of grievances, its bulging eyes searching the bar, its voice rising to stay above the din.
 
@@ -67,7 +67,7 @@ All we could do was wait. We guessed how much we owed the bartender, added ten p
 
 “Good lord,” Ellen said. We were walking fast, to keep up with one another.
 
-“No kidding. I mean, okay, it’s a vivified stone gargoyle from the fourteenth century ––”
+“No kidding. I mean, okay, it’s a vivified stone gargoyle from the fourteenth century —”
 
 “But it just went on and on!”
 	
@@ -75,8 +75,8 @@ We followed Carrer del Bisbe north to Plaça Nova, where we made a right and slo
 
 ***
 
-The next day we saw the Picasso Museum. It was incredible, full of paintings from his teenage years and early twenties, portraits, still lifes, and family scenes I’d never known he painted. The museum was like Barcelona itself: elegant, easy-going, rightfully proud. That week, we gazed up at Gaudí’s ornate churches and apartments, explored the Gothic Quarter’s maze of narrow streets, and rode the cable car to the summit of Montjüic, where we looked across the skyline to the sea.
+The next day we saw the Picasso Museum. It was incredible, full of paintings from his teenage years and early twenties, portraits, still lifes, and family scenes I’d never known he painted. The museum was like Barcelona itself: elegant, easy-going, rightfully proud. That week, we gazed up at Gaudí’s ornate churches and apartments, explored the Gothic Quarter’s maze of narrow streets, and rode the cable car to the summit of Montjuïc, where we looked across the skyline to the sea.
 
 On our last night, we saw the gargoyle a second time. I would have remembered it as an angry figure at a bar, going on about its troubles to strangers who didn’t want to listen, its voice lost in the crowd. But when we spotted it on the wall of the cathedral, its expression had softened into something like a smile. It was the strangest thing. It looked content. Peaceful, even.
 
-If you visit Barcelona, you’ll find it where Carrer del Bisbe meets Via de la Pietat. It’s on the second level of the cathedral, above the winged monkey with its paws held tight against its eyes. You should go in the late afternoon, when the crowds on the plaza are listening to the musicians on the cathedral steps. That’s when the light is best.
+If you visit Barcelona, you’ll find it where Carrer del Bisbe meets Carrer de la Pietat. It’s on the second level of the cathedral, above the winged monkey with its paws held tight against its eyes. You should go in the late afternoon, when the crowds on the plaza are listening to the musicians on the cathedral steps. That’s when the light is best.
