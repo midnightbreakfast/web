@@ -6,19 +6,23 @@ title: The Invention of History
 by: Luke Dani Blue
 bio: |
   Luke Dani Blue's short stories have appeared in or are forthcoming from Bluestem, Slush Pile Magazine, Redlemona.de and The Stoneslide Corrective. She's received Honorable Mentions from the Academy of American Poets and the Fourteen Hills Michael Rubin Book Award. She currently lives in the Bay Area, where she teaches private writing classes and astrologizes professionally. Follow at: @lukedaniblue.
+
 illustrator:
-  name: TK
-  url: #
-featured_image: TK
-thumb: TK
+  name: Lyndsey Lesh
+  url: https://twitter.com/lyndseylesh
+featured_image: issue2/history/lesh.jpg
 ---
 
-A Fall (Before)
+<figure class="right">
+  {% include picture.html path=page.featured_image %}
+</figure>
+
+## A Fall (Before)
 
 Yudel’s handsome son, sent off in black boots to swing a rifle for Mother Russia. We yearned for him over yeasty dough, the whelp of stray dogs coughing road dust, hay dust, sawdust. Twenty-five years, the order said, but prayer stronger than orders brought him back whole in nine. Leaves turning from gold to red fell behind him like a royal cape.
 That night, we found Faiga’s goose broken-necked on the bare earth behind the school. In the morning, field to wood had frozen, walking outdoors as stunning as the feeling of just waking, when past and future are equally forgotten and for a briefness each of us could be anyone.
 
-First Winter
+## First Winter
 
 The council was a condition of our internment, the first thing we had, its volunteers young men with early-ruined skin. Because of our distrust for conscripts, we ground their names into the frosty streets. “Councilmember,” we called them, but only when necessary.
 
@@ -41,7 +45,8 @@ Eight families shared a kitchen in what had been previously called coat closet. 
 
 We didn't remember who built the prison, who commissioned blueprints, who mortared bricks. “Them,” we said. In the council’s record, it was titled only “That lamentable place.” The oldest among us, charged with memory, said They’d forced us. There’d been an order perhaps, a threat, someone shot in the streets? Already we began to forget these simple things. In the time before—though even that was becoming suspect—we didn’t require the past to be fixed, and so were in the habit of inventing from present needs. Bearded men licking wide pink lips gave us History. While cooking or scavenging at the edges of our place, we sang it, teaching ourselves to remember in this new way. Whoever had built the prison, we were grateful. It gave us a reason to avoid mistakes, and anyway, someone had to go. In History, we remembered the story of Isaac and the punishment of the Gomorrhites, and how in particular epochs, G-d required a sacrifice of blood.
 
-Second Winter
+
+## Second Winter
 
 We dreamed of smoke trailing into the gray skies, slept in piles like rats. On pesach, it was rumored a mother roasted her own child over field potatoes, tried to hang herself. We began to suspect it was true what They said about us. Or anyway, the bad apples. We thanked G-d for the jail He had created, which we could use to root them out. We memorized History and our recitations improved. We recalled how for centuries, They had done this to us, the swindlers, baby killers, horned devils: our imposter-brethren. We remembered Yudel’s son, the glaze in his eyes when he returned from Ukraine, his breath stinking and skin yellowed, rotten in places. Earth running like blood beneath his boots. Among our numbers slithered tens of these sons, then hundreds. Even at night we watched for them.
 

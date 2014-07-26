@@ -6,12 +6,16 @@ title: Trizas/Fragments
 by: Lilliam Rivera
 bio: |
   Lilliam Rivera is a Voices at VONA alum, a 2013 PEN Center USA Emerging Voices Fellow, and a 2013 Enchanted Land Fellow at A Room Of Her Own Foundation. Her short story "Death Defiant Bomba" received honorable mention in Bellevue Literary Review's Goldenberg Prize for Fiction. Her writing has appeared in Bellevue Literary Review, The Rumpus, and Los Angeles Review of Books, among others. Lilliam lives in Los Angeles.
+
 illustrator:
-  name: TK
-  url: #
-featured_image: TK
-thumb: TK
+  name: Larissa Pham
+  url: http://larissapham.com
+featured_image: issue2/trizas/pham.png
 ---
+
+<figure class="middle">
+  {% include picture.html path=page.featured_image %}
+</figure>
 
 There are fifteen steps leading to the coffin. Yvette stands sandwiched between her brother and her aunt, unable to move. She wears an oversized sweatshirt and baggy jeans, clothes borrowed from her teenage son, the one hiding behind his phone.
 

@@ -6,12 +6,18 @@ title: Edan Lepucki
 by: Lydia Kiesling
 bio: |
   Lydia Kiesling is a staff writer for <cite>The Millions</cite> and the creator of the semi-regular <cite>Modern Library Revue</cite>. Her writing has appeared at <cite>Salon</cite>, <cite>Slate</cite>, <cite>Bullett</cite>, among other places, and she was a judge in the 2014 Tournament of Books. She lives in San Francisco, works in Berkeley, and sporadically tweets at [@lydiakiesling](http://twitter.com/lydiakiesling).
+
 illustrator:
-  name: TK
-  url: #
-featured_image: TK
-thumb: TK
+  name: Gabriel Aronson
+  url: http://gabrielaronson.com
+
+featured_image: issue2/lepucki/aronson.jpg
+
 ---
+
+<figure class="middle">
+  {% include picture.html path=page.featured_image %}
+</figure>
 
 When I started writing for [The Millions](http://themillions.com) in 2009, Edan Lepucki was already a veteran. She and founding editor C. Max Magee had worked together at the legendary Book Soup in Los Angeles, and she had been producing reliably great writing for the site since 2007 — from thoughtful [reviews](http://www.themillions.com/2009/09/its-not-you-its-me-thoughts-on-lorrie-moores-a-gate-at-the-stairs.html) and [essays](http://www.themillions.com/2010/09/reading-and-race-on-slavery-in-fiction.html) to harrowing accounts of [purging bookshelves](http://www.themillions.com/2010/01/the-great-book-purge-of-2010.html) or [writing a novel that never sold](http://www.themillions.com/2011/08/shutting-the-drawer-what-happens-when-a-book-doesnt-sell.html). Languishing manuscripts notwithstanding, I considered Edan a figure of admiration before I ever had occasion to admire her virtues in person.
 

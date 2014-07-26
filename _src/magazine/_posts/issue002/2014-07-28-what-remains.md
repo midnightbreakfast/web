@@ -1,19 +1,27 @@
 ---
 layout: post
 issue: 002
+
 type: Fiction
 title: What Remains
 by: Karissa Chen
+
+illustrator:
+  name: Jordan Sondler
+  url: http://www.jordansondler.com
+
+featured_image: issue2/remains/sondler.jpg
+
 bio: |
   Karissa Chen is the author of the chapbook,Of Birds and Lovers published by Corgi Snorkel Press. Her work has appeared in PANK, The Good Men Project, Necessary Fiction and Eclectica Magazine among others. She is a Kundiman Fiction fellow and a VONA/Voices fellow, and received her MFA from Sarah Lawrence College. She currently serves as the fiction & poetry editor at Hyphen magazine, where she curates The Hyphen Reader, and is a co-founding editor at Some Call It Ballin', a new sports literary quarterly.
-illustrator:
-  name: TK
-  url: #
-featured_image: TK
-thumb: TK
+
 ---
 
-1.
+<figure class="middle">
+  {% include picture.html path=page.featured_image %}
+</figure>
+
+## 1.
 
 Jolene wakes up every night, her gown heavy with sweat. Sometimes she dreams she is the one drowning. She claws the black waters of the lake to find it muddy, solid. She thrashes, kicks, only to discover too late she is headed down instead of up. She grasps at reeds and they cut through her fingers, the blood warm against the iciness of the water. She breathes and chokes and her lungs burn and she is dropping down and down toward a bottom she cannot see.
 Other nights she dreams of Callie: Callie falling, Callie’s chubby hands flailing, Callie choking, Callie gurgling, Callie’s eyes bugging, Callie whispering her name—Jojo Jojo Jojo Jojo—a watery plea that circles Jolene’s ears even once she is awake.
@@ -24,7 +32,7 @@ Most of the time, Jolene dreams the way it happened. Callie slipping, not with a
 
 ***
 
-2.
+## 2.
 
 Callie was named not for the instrument or the muse, but for the flower. The day after Momma gave birth to her, Daddy rushed in the bedroom door, his arms overflowing with the white blossoms, their yellow tongues hanging out. Beautiful flowers for my beautiful girls, he said, dropping them in Momma’s lap. When Momma asked what the strange flowers were, Daddy told her callie lilies. He sat on the edge of the bed, watching his new daughter, brushing the faint corn-silk threads on her tiny head. Momma said it would only be fitting their joy should be named after such a thing of beauty. No one noticed Jolene watching the three of them from the doorway, Momma, Daddy, and new Callie. She was five, but she already knew what it was to be invisible.
 
@@ -34,7 +42,7 @@ Everybody loved Callie. How could they not? Callie with her pink cheeks, her whi
 
 ***
 
-3.
+## 3.
 
 Momma no longer gets out of bed. She has Daddy buy calla lilies every week, and they fill the bedroom, white cones shriveling yellow, stalks browning with decay. When Jolene goes in to collect her mother’s dirty dishes, she holds her breath to avoid the stench of rotting flowers.
 
@@ -44,7 +52,7 @@ Jolene wanders the house like a ghost. Jolene imagines she can hear Callie playi
 
 ***
 
-4.
+## 4.
 
 It was a game. Who does Momma love best? Momma would crow, and little Callie would say, Callie! And Daddy would say, Who does Daddy love best? and Callie would say, Momma! One day Callie urged Jolene to ask, Who does Callie love best? and when Jolene did, Callie exclaimed, Jojo! Nobody ever asked who Jolene loved best.
 
@@ -54,7 +62,7 @@ Sometimes Jolene wished Callie would disappear into the well for a day, just so 
 
 ***
 
-5.
+## 5.
 
 Jolene can’t stop herself from replaying the moment again and again. A small plop. Turning around and Callie gone. Callie gone. The second, a long, drawn-out second where Jolene thinks Callie must have vanished, must have disappeared into thin air, magical, angel, fairy—
 
@@ -78,7 +86,7 @@ She starts again. Again, the plop, again, the turn, again, again—
 
 ***
 
-6. 
+## 6. 
 
 Jolene had not loved Callie on the day Callie broke Momma’s favorite teacup. Jolene had told her six was too small to wash dishes, Momma had warned Jolene not to let her, but Callie wanted to help. Callie wanted to do what Jolene was doing. And when the cup slipped and shattered, when Callie bled because she grabbed at a shard before Jolene could stop her, it was Jolene who was punished. Daddy whipped her six times with his belt: one lashing for the cup, two lashings for Callie’s bandaged hand, three lashings for not being a better sister.
 
@@ -91,13 +99,13 @@ That night, Jolene discovered Callie’s most precious calico doll on Jolene’s
 
 ***
 
-7.
+## 7.
 
 Jolene kissed Callie’s purple lips again and again. She thought somewhere she’d read that this would save a drowned person. Like Snow White, like Sleeping Beauty, except they had not drowned, and Jolene wasn’t a prince. Callie was cold, her face puffy, her arms clenched and slimy. Jolene kissed her and kissed her and shook her and shook her, and then sat back, a bubble of dread and shame and horror welling up in her stomach. She tried to carry Callie, but her little body was surprisingly heavy. So Jolene carefully laid Callie on the bank amongst the reeds like she was putting her down for a nap, checked to make sure her sister looked comfortable, and ran home.
 
 ***
 
-8.
+## 8.
 
 Daddy, breath stinking, finds Jolene in her room one night. He sprawls on the floor against the wall. Again, he says to Jolene, his eyes red-rimmed. Tell me again. And Jolene tells him. How after the big rain, Callie had wanted to go fishing. How Jolene was turned—her back was turned!—trying to hook a worm onto a sharpened twig, and hadn’t seen Callie slip and fall in. How she was too late to save her.
 
@@ -109,7 +117,7 @@ Another evening. Jolene turns the corner into the sitting room, and there is Dad
 
 ***
 
-9.
+## 9.
 
 They had intended to fish. The rain had finally stopped after three days and nights. Stir-crazy, Callie had run outside, not caring that her dress was getting dirty. She curled her toes and watched the mud ooze between them, delighted. Jojo, she said. All the bugs came out! Worms and snails had risen to the surface, littering the lawn, the roads, the yard. Wet, earthy, plump with rainwater. Callie plucked a worm from the ground, watched it squirm and curl between her forefinger and thumb, and declared they should go fishing. Jolene did not want to. Jolene had rather liked the days holed up inside, learning to knit alongside Momma. But Callie pouted, and Momma relented, giving them a handful of old twine and Daddy’s penknife to fashion hooks. Be careful with this, Momma warned Jolene. Do not let your sister play with it.
 
@@ -131,7 +139,7 @@ So Callie disappeared, and Jolene concentrated on the worms and the hooks, liste
 
 ***
 
-10.
+## 10.
 
 Momma, Jolene whispers, but Momma is asleep. Her hand is thrown across her forehead. Jolene brushes back Momma’s blond curls, clumped with dirt and grease from not washing. Momma doesn’t stir. Momma, Jolene says again. I can make you a paper mask too. You can wear it every day. It’ll keep the sunlight out. It’ll keep everything out. I can make one for you.
 
@@ -147,7 +155,7 @@ Momma, Jolene says, louder, pushing her harder. You still have me. Immediately, 
 
 ***
 
-11.
+## 11.
 
 Jolene raced toward home, abandoning Callie, little cold Callie, to the reeds. Jolene felt sick before she could make it halfway. She vomited into the bushes and then kept running.
 
@@ -181,7 +189,7 @@ Jolene stood in the middle of the house, her palm pressed against her face, and 
 
 ***
 
-12.
+## 12.
 
 Tell me a story, Callie begged on the nights she couldn’t sleep.
 
@@ -264,7 +272,7 @@ And he dropped into the courtyard and was with her. And he hugged her and said, 
 
 ***
 
-13.
+## 13.
 
 And then one day, Jolene wakes to the smell of oil frying and heads to the kitchen. Momma, her apron on, flips griddle cakes in a pan. Her eyes look tired, her face pale, but she has washed her hair, and it is curled in the neat knot Jolene was once used to seeing every day.
 
@@ -308,7 +316,8 @@ Jolene presses her fork into the griddle cake, slicing across its pimpled cheek,
 
 ***
 
-14.
+## 14.
+
 But Jolene could never get endings right. On that last stormy evening, curled warmly in Jolene’s bed, she got the story wrong again. Boy and girl trapped together forever. Jolene thought that was a good ending, a happy ending. But Callie insisted, That’s not how it goes!
 
 It’s not?
