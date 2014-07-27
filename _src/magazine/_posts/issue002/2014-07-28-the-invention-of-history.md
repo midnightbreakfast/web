@@ -41,14 +41,14 @@ Eyes fixed on the water, on nothing. We made chitchat as women do, while under t
 
 The normal world continued within our walls, but shrunken. The real problem was bodies, which is why some of us became flies and others worms; still others flattened into paper, learning to fold.
 
-Eight families shared a kitchen in what had been previously called coat closet. We ate potatoes and beets and beans and bread. When there wasn’t any, we chewed the insides of our cheeks, pinched beetles from the window frames. Windows made of real glass, frames of molded wood. In spite of everything, we admired the artistry of our first city home.
+Eight families shared a kitchen in what had been previously called <i>coat closet</i>. We ate potatoes and beets and beans and bread. When there wasn’t any, we chewed the insides of our cheeks, pinched beetles from the window frames. Windows made of real glass, frames of molded wood. In spite of everything, we admired the artistry of our first city home.
 
 We didn't remember who built the prison, who commissioned blueprints, who mortared bricks. “Them,” we said. In the council’s record, it was titled only “That lamentable place.” The oldest among us, charged with memory, said They’d forced us. There’d been an order perhaps, a threat, someone shot in the streets? Already we began to forget these simple things. In the time before—though even that was becoming suspect—we didn’t require the past to be fixed, and so were in the habit of inventing from present needs. Bearded men licking wide pink lips gave us History. While cooking or scavenging at the edges of our place, we sang it, teaching ourselves to remember in this new way. Whoever had built the prison, we were grateful. It gave us a reason to avoid mistakes, and anyway, someone had to go. In History, we remembered the story of Isaac and the punishment of the Gomorrhites, and how in particular epochs, G-d required a sacrifice of blood.
 
 
 ## Second Winter
 
-We dreamed of smoke trailing into the gray skies, slept in piles like rats. On pesach, it was rumored a mother roasted her own child over field potatoes, tried to hang herself. We began to suspect it was true what They said about us. Or anyway, the bad apples. We thanked G-d for the jail He had created, which we could use to root them out. We memorized History and our recitations improved. We recalled how for centuries, They had done this to us, the swindlers, baby killers, horned devils: our imposter-brethren. We remembered Yudel’s son, the glaze in his eyes when he returned from Ukraine, his breath stinking and skin yellowed, rotten in places. Earth running like blood beneath his boots. Among our numbers slithered tens of these sons, then hundreds. Even at night we watched for them.
+We dreamed of smoke trailing into the gray skies, slept in piles like rats. On pesach, it was rumored a mother roasted her own child over field potatoes, tried to hang herself. We began to suspect it was true what They said about us. Or anyway, the bad apples. We thanked G-d for the jail He had created, which we could use to root them out. We memorized History and our recitations improved. We recalled how, for centuries, <em>They</em> had done this to us, the swindlers, baby killers, horned devils: our imposter-brethren. We remembered Yudel’s son, the glaze in his eyes when he returned from Ukraine, his breath stinking and skin yellowed, rotten in places. Earth running like blood beneath his boots. Among our numbers slithered tens of these sons, then hundreds. Even at night we watched for them.
 
 In the women’s baths, we stripped naked and crowded close. The big women had shrunk, but the skinnies were the same, all hard angles and stretched laughter. Their long necks wound with tendons, their spines notched like time’s measuring tape. When our bones came together, we made a sound like a neighbor knocking on a faraway door, nobody answering.
 I recognized the sound. A door from my dreams. Bronze handle curled against varnished wood. In the night, a fist collided with that door, pounding some of us from our beds, others into the hollow wall. The apartment became clearer after that, more room to cook and you could get decent sleep when it wasn’t too cold. A woman college graduate recited a play about whining gods ravenous for ash. No one laughed at the Greek jokes; we were fathoming our Lord’s appetite.
@@ -87,14 +87,14 @@ One of the bathing women’s hair stunk like gunpowder. I pulled her close, maki
 
 Beneath us, the earth’s wet flesh shook.
 
-Before, I thought and remembered Babylon, a map of World War, a chalky smear.
+<i>Before</i>, I thought and remembered Babylon, a map of World War, a chalky smear.
 
-Before, I thought and remembered everything.
+<i>Before</i>, I thought and remembered everything.
 
 ***
 
-In History, we learned the future. It was the same. We learned time was static. The teacher held a device we’d never seen before—although on the other hand, we might have. A silver-cased mirror that flickered at a touch and produced animal murmurs, colors that bore and burned. Tablet, he called it, stroking the glass. A map of our place appeared: its walls, its trampled courtyards, its three story buildings, their mazes of flats. The map blinking with labeled dots.
-“Us,” said the teacher, tapping a blue circle: Arklių 3, Teacher’s House.
+In History, we learned the future. It was the same. We learned time was static. The teacher held a device we’d never seen before—although, on the other hand, we might have. A silver-cased mirror that flickered at a touch and produced animal murmurs, colors that bore and burned. Tablet, he called it, stroking the glass. A map of our place appeared: its walls, its trampled courtyards, its three story buildings, their mazes of flats. The map blinking with labeled dots.
+“Us,” said the teacher, tapping a blue circle: <i>Arklių 3, Teacher’s House</i>.
 
 We saw our faces there, fanned backward and forward as in mirrors facing mirrors. We grew dizzy with the present and our own knowing. Wondered if the Israelites at Sinai felt the same.
 
