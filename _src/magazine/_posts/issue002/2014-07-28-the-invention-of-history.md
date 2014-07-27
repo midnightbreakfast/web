@@ -43,7 +43,7 @@ The normal world continued within our walls, but shrunken. The real problem was 
 
 Eight families shared a kitchen in what had been previously called <i>coat closet</i>. We ate potatoes and beets and beans and bread. When there wasn’t any, we chewed the insides of our cheeks, pinched beetles from the window frames. Windows made of real glass, frames of molded wood. In spite of everything, we admired the artistry of our first city home.
 
-We didn't remember who built the prison, who commissioned blueprints, who mortared bricks. “Them,” we said. In the council’s record, it was titled only “That lamentable place.” The oldest among us, charged with memory, said They’d forced us. There’d been an order perhaps, a threat, someone shot in the streets? Already we began to forget these simple things. In the time before—though even that was becoming suspect—we didn’t require the past to be fixed, and so were in the habit of inventing from present needs. Bearded men licking wide pink lips gave us History. While cooking or scavenging at the edges of our place, we sang it, teaching ourselves to remember in this new way. Whoever had built the prison, we were grateful. It gave us a reason to avoid mistakes, and anyway, someone had to go. In History, we remembered the story of Isaac and the punishment of the Gomorrhites, and how in particular epochs, G-d required a sacrifice of blood.
+We didn't remember who built the prison, who commissioned blueprints, who mortared bricks. “Them,” we said. In the council’s record, it was titled only “That lamentable place.” The oldest among us, charged with memory, said They’d forced us. There’d been an order perhaps, a threat, someone shot in the streets? Already we began to forget these simple things. In the time before — though even that was becoming suspect — we didn’t require the past to be fixed, and so were in the habit of inventing from present needs. Bearded men licking wide pink lips gave us History. While cooking or scavenging at the edges of our place, we sang it, teaching ourselves to remember in this new way. Whoever had built the prison, we were grateful. It gave us a reason to avoid mistakes, and anyway, someone had to go. In History, we remembered the story of Isaac and the punishment of the Gomorrhites, and how in particular epochs, G-d required a sacrifice of blood.
 
 
 ## Second Winter
@@ -93,7 +93,7 @@ Beneath us, the earth’s wet flesh shook.
 
 ***
 
-In History, we learned the future. It was the same. We learned time was static. The teacher held a device we’d never seen before—although, on the other hand, we might have. A silver-cased mirror that flickered at a touch and produced animal murmurs, colors that bore and burned. Tablet, he called it, stroking the glass. A map of our place appeared: its walls, its trampled courtyards, its three story buildings, their mazes of flats. The map blinking with labeled dots.
+In History, we learned the future. It was the same. We learned time was static. The teacher held a device we’d never seen before — although, on the other hand, we might have. A silver-cased mirror that flickered at a touch and produced animal murmurs, colors that bore and burned. Tablet, he called it, stroking the glass. A map of our place appeared: its walls, its trampled courtyards, its three story buildings, their mazes of flats. The map blinking with labeled dots.
 “Us,” said the teacher, tapping a blue circle: <i>Arklių 3, Teacher’s House</i>.
 
 We saw our faces there, fanned backward and forward as in mirrors facing mirrors. We grew dizzy with the present and our own knowing. Wondered if the Israelites at Sinai felt the same.
@@ -108,7 +108,7 @@ The teacher shrugged, withdrew the glass.
 
 When the traitors wriggled to the surface, hard lines folded into jackets, I recognized her immediately.
 
-“That one,” I declared, pointing, refusing to turn away. Swiftly, four councilmen were upon her, holding her to the stones. Her hair—it looked different in the day, a cyclone of curls—fanned out under their knees. The other worms bared their rifles. They pressed the barrels to our ribs, said we deserved the death we had coming.
+“That one,” I declared, pointing, refusing to turn away. Swiftly, four councilmen were upon her, holding her to the stones. Her hair — it looked different in the day, a cyclone of curls — fanned out under their knees. The other worms bared their rifles. They pressed the barrels to our ribs, said we deserved the death we had coming.
 
 “All time is this one room,” I shouted, making myself hoarse. “The only future lies behind!”
 
@@ -122,5 +122,5 @@ I'd been calling to no one. In fact, I was in the kitchen, my hissing breath mim
 
 Later, I learned they’d taken her to the jail and even later that she’d never existed. She had no name, no place of birth, no living descendent; she did not appear blinking on the map.
 
-I was just grateful the jail had always been there, that we had a soccer team even if no teammates, a tidy kitchen, a classroom—more space every day. We were rich. Now I’d seen us on the map, I knew we'd be there forever.
+I was just grateful the jail had always been there, that we had a soccer team even if no teammates, a tidy kitchen, a classroom — more space every day. We were rich. Now I’d seen us on the map, I knew we'd be there forever.
 
