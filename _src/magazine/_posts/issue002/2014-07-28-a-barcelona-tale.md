@@ -39,7 +39,7 @@ Ellen checked the calendar on her phone.
 
 ***
 
-We found one of those small, cavern-like tapas bars in the old city, just off Carrer de la Pietat, and took a table in the back. Our plan was to stroll by the cathedral at midnight. We didn’t expect to see much, maybe a charming illusion created by the play of the moonlight on the cathedral façade. In any case, it would make for a romantic walk. But at half an hour ’til midnight, before we’d even motioned for the check, we heard a loud crash in the street, followed by a rain of light debris. We turned to see, in the doorway, a two-foot-tall silhouette of a bat-like creature. The outlines of wings rose above its shoulders. Behind it, a cloud of dust was dissipating in the air.
+We found one of those small, cavern-like tapas bars in the old city, just off Carrer de la Pietat, and took a table in the back. Our plan was to stroll by the cathedral at midnight. We didn’t expect to see much, maybe a charming illusion created by the play of moonlight on the cathedral façade. In any case, it would make for a romantic walk. But at half an hour ’til midnight, before we’d even motioned for the check, we heard a loud crash in the street, followed by a rain of light debris. We turned to see, in the doorway, a two-foot-tall silhouette of a bat-like creature. The outlines of wings rose above its shoulders. Behind it, a cloud of dust was dissipating in the air.
 
 “Bona tarda,” the gargoyle hissed.
 
