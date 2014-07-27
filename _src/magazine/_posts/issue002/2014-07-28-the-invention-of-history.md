@@ -13,7 +13,9 @@ author:
 illustrator:
   name: Lyndsey Lesh
   url: https://twitter.com/lyndseylesh
+
 featured_image: issue2/history/lesh.jpg
+thumb: issue2/history/thumb.png
 ---
 
 <figure class="right">
