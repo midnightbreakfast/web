@@ -35,13 +35,15 @@ title: Our Contributors
               <h3>
                 <a href="{{ post.author.url }}">{{ post.by }}</a>
                 <br />
-                <small>(<a href="{{ post.url }}">
-                  {% if post.thumb_title %}
-                    {{ post.thumb_title }}
-                  {% else %}
-                    {{ post.title }}
-                  {% endif %}
-                </a>)</small>
+                <small>
+                  <a href="{{ post.url }}">
+                    {% if post.thumb_title %}
+                      {{ post.thumb_title }}
+                    {% else %}
+                      {{ post.title }}
+                    {% endif %}
+                  </a>
+                </small>
               </h3>
             {% endif %}
             {% if post.subject %}
@@ -50,13 +52,15 @@ title: Our Contributors
                 <h3>
                   <a href="{{ post.subject.url }}">{{ post.subject.name }}</a>
                   <br />
-                  <small>(<a href="{{ post.url }}">
-                    {% if post.thumb_title %}
-                      {{ post.thumb_title }}
-                    {% else %}
-                      {{ post.title }}
-                    {% endif %}
-                  </a>)</small>
+                  <small>
+                    <a href="{{ post.url }}">
+                      {% if post.thumb_title %}
+                        {{ post.thumb_title }}
+                      {% else %}
+                        {{ post.title }}
+                      {% endif %}
+                    </a>
+                  </small>
                 </h3>
               {% endif %}
             {% endif %}
@@ -97,13 +101,15 @@ title: Our Contributors
                 <h3>
                   <a href="{{ post.illustrator.url }}">{{ post.illustrator.name }}</a>
                   <br />
-                  <small>(<a href="{{ post.url }}">
-                    {% if post.thumb_title %}
-                      {{ post.thumb_title }}
-                    {% else %}
-                      {{ post.title }}
-                    {% endif %}
-                  </a>)</small>
+                  <small>
+                    <a href="{{ post.url }}">
+                      {% if post.thumb_title %}
+                        {{ post.thumb_title }}
+                      {% else %}
+                        {{ post.title }}
+                      {% endif %}
+                    </a>
+                  </small>
                 </h3>
               {% endif %}
             {% endif %}
@@ -142,13 +148,15 @@ title: Our Contributors
                 <h3>
                   <a href="{{ post.photographer.url }}">{{ post.photographer.name }}</a>
                   <br />
-                  <small>(<a href="{{ post.url }}">
-                    {% if post.thumb_title %}
-                      {{ post.thumb_title }}
-                    {% else %}
-                      {{ post.title }}
-                    {% endif %}
-                  </a>)</small>
+                  <small>
+                    <a href="{{ post.url }}">
+                      {% if post.thumb_title %}
+                        {{ post.thumb_title }}
+                      {% else %}
+                        {{ post.title }}
+                      {% endif %}
+                    </a>
+                  </small>
                 </h3>
               {% endif %}
             {% endif %}
