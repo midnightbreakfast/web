@@ -5,15 +5,17 @@ issue: 002
 type: Fiction
 title: What Remains
 by: Karissa Chen
+author:
+  name: Karissa Chen
+  url: http://www.karissachen.com/
+  bio: |
+    <a href="http://www.karissachen.com/">Karissa Chen</a> is the author of the chapbook, <i>Of Birds and Lovers</i>, published by Corgi Snorkel Press. Her work has appeared in <i>PANK</i>, <i>The Good Men Project</i>, <i>Necessary Fiction</i> and <i>Eclectica Magazine</i> among others. She is a Kundiman Fiction fellow and a VONA/Voices fellow, and received her MFA from Sarah Lawrence College. She currently serves as the fiction & poetry editor at <i>Hyphen</i> magazine, where she curates <i>The Hyphen Reader</i>, and is a co-founding editor at <i>Some Call It Ballin'</i>, a new sports literary quarterly.
 
 illustrator:
   name: Jordan Sondler
   url: http://www.jordansondler.com
 
 featured_image: issue2/remains/sondler.jpg
-
-bio: |
-  <a href="http://www.karissachen.com/">Karissa Chen</a> is the author of the chapbook, <i>Of Birds and Lovers</i>, published by Corgi Snorkel Press. Her work has appeared in <i>PANK</i>, <i>The Good Men Project</i>, <i>Necessary Fiction</i> and <i>Eclectica Magazine</i> among others. She is a Kundiman Fiction fellow and a VONA/Voices fellow, and received her MFA from Sarah Lawrence College. She currently serves as the fiction & poetry editor at <i>Hyphen</i> magazine, where she curates <i>The Hyphen Reader</i>, and is a co-founding editor at <i>Some Call It Ballin'</i>, a new sports literary quarterly.
 
 ---
 

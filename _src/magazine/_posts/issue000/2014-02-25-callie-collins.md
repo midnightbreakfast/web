@@ -4,12 +4,21 @@ issue: 000
 type: In Conversation With
 title: Callie Collins
 thumb_title: In Conversation with Callie Collins
+
 by: Lauren O’Neal
-bio: |
-  [Lauren O'Neal](http://twitter.com/laureneoneal) is a freelance writer and editor working toward an MFA in creative writing in San Francisco. She has written for publications like <cite>Slate</cite>, <cite>The New Inquiry</cite>, and <cite>The Rumpus</cite>, where she was formerly an assistant editor.
+author:
+  name: Lauren O’Neal
+  url: http://twitter.com/laureneoneal
+  bio: |
+    [Lauren O'Neal](http://twitter.com/laureneoneal) is a freelance writer and editor working toward an MFA in creative writing in San Francisco. She has written for publications like <cite>Slate</cite>, <cite>The New Inquiry</cite>, and <cite>The Rumpus</cite>, where she was formerly an assistant editor.
+
 featured_image: callie-collins/collins.jpg
 thumb: callie-collins/thumb.jpg
 date: 2014-02-25 2am
+
+subject:
+  name: Callie Collins
+  url: http://www.calliecollins.com/index.html
 ---
 
 <figure class="right">

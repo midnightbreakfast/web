@@ -4,8 +4,11 @@ issue: 002
 type: Fiction
 title: The Invention of History
 by: Luke Dani Blue
-bio: |
-  <a href="http://lukedaniblue.wordpress.com/">Luke Dani Blue's</a> short stories have appeared in or are forthcoming from <i>Bluestem, Slush Pile Magazine, Redlemona.de</i> and <i>The Stoneslide Corrective</i>. She's received Honorable Mentions from the Academy of American Poets and the<i> Fourteen Hills</i> Michael Rubin Book Award. She currently lives in the Bay Area, where she teaches private writing classes and astrologizes professionally. Follow her at: @lukedaniblue.
+author:
+  name: Luke Dani Blue
+  url: http://lukedaniblue.wordpress.com/
+  bio: |
+    <a href="http://lukedaniblue.wordpress.com/">Luke Dani Blue's</a> short stories have appeared in or are forthcoming from <i>Bluestem, Slush Pile Magazine, Redlemona.de</i> and <i>The Stoneslide Corrective</i>. She's received Honorable Mentions from the Academy of American Poets and the<i> Fourteen Hills</i> Michael Rubin Book Award. She currently lives in the Bay Area, where she teaches private writing classes and astrologizes professionally. Follow her at: @lukedaniblue.
 
 illustrator:
   name: Lyndsey Lesh

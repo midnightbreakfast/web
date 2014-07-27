@@ -4,8 +4,11 @@ issue: 000
 type: Nonfiction
 title: So Funny It Hurts
 by: Eric Anthony Glover
-bio: |
-  [Eric Anthony Glover](http://twitter.com/eaglove) is a pop culture critic with lots of opinions. He urges you to agree with them. When he's not exploring the intersection of entertainment and social awareness, you can find him indulging in sci-fi TV, involuntarily daydreaming, or pounding out his next action blockbuster.
+author:
+  name: Eric Anthony Glover
+  url: http://twitter.com/eaglove
+  bio: |
+    [Eric Anthony Glover](http://twitter.com/eaglove) is a pop culture critic with lots of opinions. He urges you to agree with them. When he's not exploring the intersection of entertainment and social awareness, you can find him indulging in sci-fi TV, involuntarily daydreaming, or pounding out his next action blockbuster.
 featured_image: glover/scrabble.jpg
 thumb: glover/thumb.jpg
 illustrator:

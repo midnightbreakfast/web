@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /contributors/
+permalink: /contributors_old/
+
 title: Our Contributors
 issues:
   issue1:

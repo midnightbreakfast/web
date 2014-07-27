@@ -4,8 +4,11 @@ issue: 000
 type: Nonfiction
 title: Northern Souls
 by: Jason Diamond
-bio: |
-  [Jason Diamond](http://twitter.com/imjasondiamond) is the literary editor at Flavorwire, the founder of Vol. 1 Brooklyn, and has been published by <cite>The New York Times</cite>, <cite>The Paris Review</cite>, <cite>Tablet</cite>, <cite>The New York Observer</cite>, and many other fine places. He lives in Brooklyn with his wife, two cats, and a dog named Max.
+author:
+  name: Jason Diamond
+  url: http://twitter.com/imjasondiamond
+  bio: |
+    [Jason Diamond](http://twitter.com/imjasondiamond) is the literary editor at Flavorwire, the founder of Vol. 1 Brooklyn, and has been published by <cite>The New York Times</cite>, <cite>The Paris Review</cite>, <cite>Tablet</cite>, <cite>The New York Observer</cite>, and many other fine places. He lives in Brooklyn with his wife, two cats, and a dog named Max.
 featured_image: northern-souls/uniform.png
 title_image: northern-souls/title.png
 illustrator:

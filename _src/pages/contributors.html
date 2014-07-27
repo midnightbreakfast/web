@@ -1,0 +1,136 @@
+---
+layout: page
+permalink: /contributors/
+title: Our Contributors
+---
+
+<p>We’d like to thank all of our writers, illustrators, and photographers, all of whom have helped make for wonderful issues of <cite>Midnight Breakfast</cite>. If you like their work here, we encourage you to take a gander at more of what they’re up to.</p>
+
+{% for issue in site.data.issues %}
+  <h1>Issue {{ issue[1].number }}</h1>
+  <div class="row">
+    <div class="column half">
+      <div class="module">
+        <h2>Contributors</h2>
+        {% capture contributors %}
+          {% for slug in issue[1].contents %}
+            {% capture permalink %}/{{ slug }}/{% endcapture %}
+            {% for post in site.posts %}
+              {% if post.url == permalink %}
+                {% assign selection = post %}
+              {% endif %}
+            {% endfor %}
+            {% assign post = selection %}
+            {{ post.by | split:' ' | last }}
+            {% if post.subject.name %}
+              {{ post.subject.name | split:' ' | last }}
+            {% endif %}
+          {% endfor %}
+        {% endcapture %}
+        {% assign contributors = contributors | split: ' ' | sort %}
+        {% for contributor in contributors %}
+          {% for post in site.posts %}
+            {% assign author = post.by | split:' ' | last %}
+            {% if author == contributor %}
+              <h3>
+                <a href="{{ post.author.url }}">{{ post.by }}</a>
+                <br />
+                <small>(<a href="{{ post.url }}">{{ post.title }}</a>)</small>
+              </h3>
+            {% endif %}
+            {% if post.subject %}
+              {% assign subject = post.subject.name | split:' ' | last %}
+              {% if subject == contributor %}
+                <h3>
+                  <a href="{{ post.subject.url }}">{{ post.subject.name }}</a>
+                  <br />
+                  <small>(<a href="{{ post.url }}">{{ post.title }}</a>)</small>
+                </h3>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class="column half">
+      <div class="module">
+        <h2>Illustrators</h2>
+        {% capture illustrators %}
+          {% for slug in issue[1].contents %}
+            {% capture permalink %}/{{ slug }}/{% endcapture %}
+            {% for post in site.posts %}
+              {% if post.url == permalink %}
+                {% assign selection = post %}
+              {% endif %}
+            {% endfor %}
+            {% assign post = selection %}
+            {% if post.illustrator.name %}
+              {{ post.illustrator.name | split:' ' | last }}
+            {% endif %}
+          {% endfor %}
+        {% endcapture %}
+        {% assign illustrators = illustrators | split: ' ' | sort %}
+        {% for illustrator in illustrators %}
+          {% for slug in issue[1].contents %}
+            {% capture permalink %}/{{ slug }}/{% endcapture %}
+            {% for post in site.posts %}
+              {% if post.url == permalink %}
+                {% assign selection = post %}
+              {% endif %}
+            {% endfor %}
+            {% assign post = selection %}
+            {% if post.illustrator %}
+              {% assign illustrator_last = post.illustrator.name | split:' ' | last %}
+              {% if illustrator == illustrator_last %}
+                <h3>
+                  <a href="{{ post.illustrator.url }}">{{ post.illustrator.name }}</a>
+                  <br />
+                  <small>(<a href="{{ post.url }}">{{ post.title }}</a>)</small>
+                </h3>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        {% capture photographers %}
+          {% for slug in issue[1].contents %}
+            {% capture permalink %}/{{ slug }}/{% endcapture %}
+            {% for post in site.posts %}
+              {% if post.url == permalink %}
+                {% assign selection = post %}
+              {% endif %}
+            {% endfor %}
+            {% assign post = selection %}
+            {% if post.photographer.name %}
+              {{ post.photographer.name | split:' ' | last }}
+            {% endif %}
+          {% endfor %}
+        {% endcapture %}
+        {% assign photographers = photographers | split: ' ' | sort %}
+        {% for photographer in photographers %}
+          {% if forloop.first %}
+            <h2>Photographers</h2>
+          {% endif %}
+          {% for slug in issue[1].contents %}
+            {% capture permalink %}/{{ slug }}/{% endcapture %}
+            {% for post in site.posts %}
+              {% if post.url == permalink %}
+                {% assign selection = post %}
+              {% endif %}
+            {% endfor %}
+            {% assign post = selection %}
+            {% if post.photographer %}
+              {% assign photographer_last = post.photographer.name | split:' ' | last %}
+              {% if photographer == photographer_last %}
+                <h3>
+                  <a href="{{ post.photographer.url }}">{{ post.photographer.name }}</a>
+                  <br />
+                  <small>(<a href="{{ post.url }}">{{ post.title }}</a>)</small>
+                </h3>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+{% endfor %}

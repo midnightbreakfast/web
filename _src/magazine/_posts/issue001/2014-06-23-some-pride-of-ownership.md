@@ -4,8 +4,11 @@ issue: 001
 type: Fiction
 title: Some Pride of Ownership
 by: Dwyer Murphy
-bio: |
-  [Dwyer Murphy](https://twitter.com/dwyermurphy) is a Brooklyn-based writer. His work has appeared in <cite>Guernica</cite>, where he is a contributing writer, and <cite>The Paris Review Daily</cite>. He is an Emerging Writer Fellow at the Center for Fiction and a reader for <cite>A Public Space</cite>. He is at work on his first novel.
+author:
+  name: Dwyer Murphy
+  url: https://twitter.com/dwyermurphy
+  bio: |
+    [Dwyer Murphy](https://twitter.com/dwyermurphy) is a Brooklyn-based writer. His work has appeared in <cite>Guernica</cite>, where he is a contributing writer, and <cite>The Paris Review Daily</cite>. He is an Emerging Writer Fellow at the Center for Fiction and a reader for <cite>A Public Space</cite>. He is at work on his first novel.
 featured_image: issue1/pride/covers.jpg
 thumb: issue1/pride/thumb.png
 illustrator:

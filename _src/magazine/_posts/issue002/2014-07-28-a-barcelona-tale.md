@@ -4,8 +4,11 @@ issue: 002
 type: Fiction
 title: A Barcelona Tale
 by: Sean Carman
-bio: |
-  [Sean Carman](http://twitter.com/seancarman) has contributed to <cite>McSweeney's Internet Tendency</cite>, <cite>NPR's Three-Minute Fiction Contest</cite>, <cite>The Huffington Post</cite>, <cite>The Rumpus</cite>, and <cite>The Paris Review Daily</cite>, among others. He has a story in the new issue of <cite>Barrelhouse</cite>. He lives and works in Washington, D.C. 
+author:
+  name: Sean Carman
+  url: http://twitter.com/seancarman
+  bio: |
+    [Sean Carman](http://twitter.com/seancarman) has contributed to <cite>McSweeney's Internet Tendency</cite>, <cite>NPR's Three-Minute Fiction Contest</cite>, <cite>The Huffington Post</cite>, <cite>The Rumpus</cite>, and <cite>The Paris Review Daily</cite>, among others. He has a story in the new issue of <cite>Barrelhouse</cite>. He lives and works in Washington, D.C. 
 
 illustrator:
   name: Beady Eyes
