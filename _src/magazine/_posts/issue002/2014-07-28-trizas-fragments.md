@@ -29,7 +29,7 @@ Her brother Anthony stands next to her, holding her up. She can feel him choking
 
 Yvette notices the workers from the funeral home, all urgency on their faces. The service is way behind schedule because of her. The workers keep checking the clock on the wall until the one with the softest face approaches them. He only addresses Anthony. Anthony offers the worker cash, apologizing for the delay. Her brother has always been good at that.
 
-When Yvette’s mother walks past them, Millie tries to press Yvette’s hand toward her, but the old woman ignores the gesture. Yvette wants to run, to get the hell out of there and go back to the spot. The family always teased Yvette that she was an easy birth and that was why she was trouble. When her mother threatened to take the kids away, Yvette broke into the apartment and stole the money the woman kept stashed underneath the Santa Barbara statue. The money was from La Asociación. Each month, friends and family pooled together what they could spare, creating their own little lending bank. It was her mother’s turn to keep the money safe. But Yvette took the 5G and with it, her mother’s last hope of Yvette ever changing.
+When Yvette’s mother walks past them, Millie tries to press Yvette’s hand toward her, but the old woman ignores the gesture. Yvette wants to run, to get the hell out of there and go back to the spot. The family always teased Yvette that she was an easy birth and that was why she was trouble. When her mother threatened to take the kids away, Yvette broke into the apartment and stole the money the woman kept stashed underneath the Santa Barbara statue. The money was from La Asociación. Each month, friends and family pooled together what they could spare, creating their own little lending bank. It was her mother’s turn to keep the money safe. But Yvette took the 5G and, with it, her mother’s last hope of Yvette ever changing.
 
 Her mother greets each of the mourners as if they are at a normal family gathering.
 
@@ -43,11 +43,11 @@ Yvette cries, but inside she feels numb. The man who raised her is only a shell,
 
 ***
 
-Last Night
+<strong>Last Night</strong>
 
 Yvette didn’t have to walk far to find him. The first place she hit was the Webster Projects. She knew he would be in the exit that faced the rocks. That’s where they used to hide when they played kick the can. At that late hour, the exit conceals everything. 
 
-“Where you been at?” Carlos asks. It’s been three years since he last saw her, but he acts as if she’d just returned from buying a quarter drink at the bodega. When they were both teenagers, Carlos told the guys on the block that he was going to pop her cherry. He didn’t, but she let him slide in his finger that one time when they were alone hanging out at I.S. 127. They broke night, and when Yvette returned home, her mother took the broom to her back until it snapped in two. Her father sat her down and spoke with gentle words, as he always did. “You can’t keep doing these things,” he said. She promised him that she would stop.
+“Where you been at?” Carlos asks. It’s been three years since he last saw her, but he acts as if she’s just returned from buying a quarter drink at the bodega. When they were both teenagers, Carlos told the guys on the block that he was going to pop her cherry. He didn’t, but she let him slide in his finger that one time when they were alone hanging out at I.S. 127. They broke night, and when Yvette returned home, her mother took the broom to her back until it snapped in two. Her father sat her down and spoke with gentle words, as he always did. “You can’t keep doing these things,” he said. She promised him that she would stop.
 
 “I live in Pennsylvania now,” she tells Carlos. Her thin lips are smeared with lip gloss borrowed from her youngest daughter, the one who lives with Yvette’s ex. The smell of watermelon candy turns her stomach.
 
@@ -61,7 +61,7 @@ Carlos nods and offers the pipe to her. He reminisces about that time they broke
 
 ***
 
-Five Days Ago
+<strong>Five Days Ago</strong>
 
 She walks fast, New York fast.
 
@@ -129,14 +129,14 @@ She wants to run.
 
 He tries to get up, but all the tubes. Yvette calls out louder to the nurse.
 
-“Don’t leave me,” he says. His eyes are brimming, and Yvette’s chest hurts. She doesn’t know what to do, and he’s pleading with her.
+“Don’t leave me,” he says. His eyes are brimming, and Yvette’s chest hurts. She doesn’t know what to do. He’s pleading with her.
 
 “I promise. I won’t leave you, Papi,” she says. She rests her hand on his, and he settles back down. “I promise.”
 Yvette stays for as long as she can.
 
 ***
 
-Fifteen Years Ago
+<strong>Fifteen Years Ago</strong>
 
 Yvette holds tight. He carries her when the fallen branches and growth are too high for her to climb over. When they reach the isolated sandy cove, he slips off his sandals and tells her to do the same.
 
@@ -151,7 +151,7 @@ He tells her how he came here when he was about her age, maybe a little younger.
 
 “How did she die, Papi?” Yvette asks.
 
-He brushes the question away by lifting her up on the rock. No one ever talks about Evie. She was more ghost than person, an unanswered question. Yvette will learn later that it was her father who found her. They said it was an accident, that Evie must have been playing with the gun hidden in the closet. A mistake, they said. Yvette has stared at the pictures in the photo albums wondering where the resemblance begins.
+He brushes the question away by lifting her up on the rock. No one ever talks about Evie. She’s more ghost than person, an unanswered question. Yvette will learn later that it was her father who found her. They said it was an accident, that Evie must have been playing with the gun hidden in the closet. A mistake, they said. Yvette has stared at the pictures in the photo albums wondering where the resemblance begins.
 
 Her father joins her on the rock, and they wait for the surf to reach them. He tells her to close her eyes as wave upon wave splashes them. Yvette screams each time. The water turns rough, but she looks up to her father and he is laughing. He never lets go of her hand.
 
