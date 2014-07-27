@@ -145,6 +145,7 @@ Yvette holds tight. He carries her when the fallen branches and growth are too h
 Yvette sees the big jutting rock. It’s smooth and gray, the color of a space ship.
 
 “C’mon,” he says, pulling her toward it. The water feels so warm, and she wants to go in, but first the rock.
+
 He tells her how he came here when he was about her age, maybe a little younger. It was his older sister Evie that took him there, the one who died.
 
 “We named you after her,” he says.
