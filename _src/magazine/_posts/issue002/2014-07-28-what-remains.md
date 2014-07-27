@@ -13,7 +13,7 @@ illustrator:
 featured_image: issue2/remains/sondler.jpg
 
 bio: |
-  Karissa Chen is the author of the chapbook,Of Birds and Lovers published by Corgi Snorkel Press. Her work has appeared in PANK, The Good Men Project, Necessary Fiction and Eclectica Magazine among others. She is a Kundiman Fiction fellow and a VONA/Voices fellow, and received her MFA from Sarah Lawrence College. She currently serves as the fiction & poetry editor at Hyphen magazine, where she curates The Hyphen Reader, and is a co-founding editor at Some Call It Ballin', a new sports literary quarterly.
+  <a href="http://www.karissachen.com/">Karissa Chen</a> is the author of the chapbook, <i>Of Birds and Lovers</i>, published by Corgi Snorkel Press. Her work has appeared in <i>PANK</i>, <i>The Good Men Project</i>, <i>Necessary Fiction</i> and <i>Eclectica Magazine</i> among others. She is a Kundiman Fiction fellow and a VONA/Voices fellow, and received her MFA from Sarah Lawrence College. She currently serves as the fiction & poetry editor at <i>Hyphen</i> magazine, where she curates <i>The Hyphen Reader</i>, and is a co-founding editor at <i>Some Call It Ballin'</i>, a new sports literary quarterly.
 
 ---
 
