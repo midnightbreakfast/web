@@ -26,6 +26,7 @@ featured_image: issue2/remains/sondler.jpg
 ## 1.
 
 Jolene wakes up every night, her gown heavy with sweat. Sometimes she dreams she is the one drowning. She claws the black waters of the lake to find it muddy, solid. She thrashes, kicks, only to discover too late she is headed down instead of up. She grasps at reeds and they cut through her fingers, the blood warm against the iciness of the water. She breathes and chokes and her lungs burn and she is dropping down and down toward a bottom she cannot see.
+
 Other nights she dreams of Callie: Callie falling, Callie’s chubby hands flailing, Callie choking, Callie gurgling, Callie’s eyes bugging, Callie whispering her name — <i>Jojo Jojo Jojo Jojo</i> — a watery plea that circles Jolene’s ears even once she is awake.
 
 In some of these dreams, Jolene saves her. In some of these dreams, Jolene runs and leaps into the lake, finds her sister’s arms, and hauls her out. In these dreams, Jolene is so relieved she begins weeping when they’re safely on shore, and Callie comforts her: <i>It’s okay, Jojo, I’m okay</i>. But when Jolene looks up to kiss her baby sister’s brow, she finds a bloated, rotted thing smiling back at her.
@@ -115,7 +116,7 @@ Daddy, breath stinking, finds Jolene in her room one night. He sprawls on the fl
 
 <i>She hit her head on a rock</i>, Jolene lies. <i>She didn’t feel anything.</i>
 
-Another evening. Jolene turns the corner into the sitting room, and there is Daddy in the near-dark, head drooping, a glass tipping precariously from his limp hand. Jolene begins to pry the glass gently from his fingers, but Daddy jerks back. His dark eyes land on Jolene, settle hard and long, before they turn vague again and snap shut. Jolene steps back. Now she is the one trembling. He knows, she thinks with horror.
+Another evening. Jolene turns the corner into the sitting room, and there is Daddy in the near-dark, head drooping, a glass tipping precariously from his limp hand. Jolene begins to pry the glass gently from his fingers, but Daddy jerks back. His dark eyes land on Jolene, settle hard and long, before they turn vague again and snap shut. Jolene steps back. Now she is the one trembling. <i>He knows</i>, she thinks with horror.
 
 ***
 
@@ -203,7 +204,7 @@ Jolene always gave in. She’d push aside her covers to make space for Callie, w
 
 <i>The one about the kites</i>, Callie said on the third night they lay sleepless from the howling of the storm. <i>The girl and the boy with the kites. Tell it.
 
-Why don’t you just tell it?</i> Jolene said, yawning. <i>I never tell it right.</i>
+<i>Why don’t you just tell it?</i> Jolene said, yawning. <i>I never tell it right.</i>
 
 <i>You tell it best</i>, Callie said. She waited. <i>Once upon a time there was a girl and a boy. Say it.</i>
 
@@ -294,6 +295,7 @@ Daddy sits across from Jolene. He’s shaved, his hair is neatly oiled and combe
 <i>Can you bring a bolt of that navy cloth with the small pink flowers back from the store?</i> Momma calls to Daddy. <i>And maybe the gray, too. Jolene will need some new school clothes.
 
 Daddy smiles at Jolene. <i>Does seem like you’ve grown suddenly. Sprouted like a bean. A little lady, soon.</i>
+
 Jolene blushes and hides her smile into her chin.
 
 Momma lays a plate of griddle cakes in front of Jolene. The edges are crisp, the surface bubbling. A strange, pock-marked face, whimsical in its burnt frown.

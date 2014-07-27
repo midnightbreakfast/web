@@ -23,6 +23,7 @@ featured_image: issue2/history/lesh.jpg
 ## A Fall (Before)
 
 Yudel’s handsome son, sent off in black boots to swing a rifle for Mother Russia. We yearned for him over yeasty dough, the whelp of stray dogs coughing road dust, hay dust, sawdust. Twenty-five years, the order said, but prayer stronger than orders brought him back whole in nine. Leaves turning from gold to red fell behind him like a royal cape.
+
 That night, we found Faiga’s goose broken-necked on the bare earth behind the school. In the morning, field to wood had frozen, walking outdoors as stunning as the feeling of just waking, when past and future are equally forgotten and for a briefness each of us could be anyone.
 
 ## First Winter
@@ -38,6 +39,7 @@ I don’t remember who thought of the jail, only that we heard the cell walls se
 In the baths, dingy water crawled over women’s backs, round shoulders flickering in candlelight. Sweat dripped into the pools.
 
 The tang of menstruation contained a whole family line: daughter, mother, grandmother. Our collective memory.
+
 Eyes fixed on the water, on nothing. We made chitchat as women do, while under the surface, blood became shuddering. A slick on the tips of the fingers, a fast heat, nothing more.
 
 ***
@@ -54,6 +56,7 @@ We didn't remember who built the prison, who commissioned blueprints, who mortar
 We dreamed of smoke trailing into the gray skies, slept in piles like rats. On pesach, it was rumored a mother roasted her own child over field potatoes, tried to hang herself. We began to suspect it was true what They said about us. Or anyway, the bad apples. We thanked G-d for the jail He had created, which we could use to root them out. We memorized History and our recitations improved. We recalled how, for centuries, <em>They</em> had done this to us, the swindlers, baby killers, horned devils: our imposter-brethren. We remembered Yudel’s son, the glaze in his eyes when he returned from Ukraine, his breath stinking and skin yellowed, rotten in places. Earth running like blood beneath his boots. Among our numbers slithered tens of these sons, then hundreds. Even at night we watched for them.
 
 In the women’s baths, we stripped naked and crowded close. The big women had shrunk, but the skinnies were the same, all hard angles and stretched laughter. Their long necks wound with tendons, their spines notched like time’s measuring tape. When our bones came together, we made a sound like a neighbor knocking on a faraway door, nobody answering.
+
 I recognized the sound. A door from my dreams. Bronze handle curled against varnished wood. In the night, a fist collided with that door, pounding some of us from our beds, others into the hollow wall. The apartment became clearer after that, more room to cook and you could get decent sleep when it wasn’t too cold. A woman college graduate recited a play about whining gods ravenous for ash. No one laughed at the Greek jokes; we were fathoming our Lord’s appetite.
 
 ***
@@ -97,6 +100,7 @@ Beneath us, the earth’s wet flesh shook.
 ***
 
 In History, we learned the future. It was the same. We learned time was static. The teacher held a device we’d never seen before — although, on the other hand, we might have. A silver-cased mirror that flickered at a touch and produced animal murmurs, colors that bore and burned. Tablet, he called it, stroking the glass. A map of our place appeared: its walls, its trampled courtyards, its three story buildings, their mazes of flats. The map blinking with labeled dots.
+
 “Us,” said the teacher, tapping a blue circle: <i>Arklių 3, Teacher’s House</i>.
 
 We saw our faces there, fanned backward and forward as in mirrors facing mirrors. We grew dizzy with the present and our own knowing. Wondered if the Israelites at Sinai felt the same.
