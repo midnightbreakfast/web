@@ -3,7 +3,7 @@ layout: post
 issue: 002
 type: In Conversation with
 title: Edan Lepucki
-thumb_title: In Conversation with Wendy C. Ortiz
+thumb_title: In Conversation with Edan Lepucki
 by: Lydia Kiesling
 
 bio: |
