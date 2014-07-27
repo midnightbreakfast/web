@@ -24,7 +24,7 @@ bio: |
 ## 1.
 
 Jolene wakes up every night, her gown heavy with sweat. Sometimes she dreams she is the one drowning. She claws the black waters of the lake to find it muddy, solid. She thrashes, kicks, only to discover too late she is headed down instead of up. She grasps at reeds and they cut through her fingers, the blood warm against the iciness of the water. She breathes and chokes and her lungs burn and she is dropping down and down toward a bottom she cannot see.
-Other nights she dreams of Callie: Callie falling, Callie’s chubby hands flailing, Callie choking, Callie gurgling, Callie’s eyes bugging, Callie whispering her name—<i>Jojo Jojo Jojo Jojo</i>—a watery plea that circles Jolene’s ears even once she is awake.
+Other nights she dreams of Callie: Callie falling, Callie’s chubby hands flailing, Callie choking, Callie gurgling, Callie’s eyes bugging, Callie whispering her name — <i>Jojo Jojo Jojo Jojo</i> — a watery plea that circles Jolene’s ears even once she is awake.
 
 In some of these dreams, Jolene saves her. In some of these dreams, Jolene runs and leaps into the lake, finds her sister’s arms, and hauls her out. In these dreams, Jolene is so relieved she begins weeping when they’re safely on shore, and Callie comforts her: <i>It’s okay, Jojo, I’m okay</i>. But when Jolene looks up to kiss her baby sister’s brow, she finds a bloated, rotted thing smiling back at her.
 
@@ -64,11 +64,11 @@ Sometimes Jolene wished Callie would disappear into the well for a day, just so 
 
 ## 5.
 
-Jolene can’t stop herself from replaying the moment again and again. A small plop. Turning around and Callie gone. Callie gone. The second, a long, drawn-out second where Jolene thinks Callie must have vanished, must have disappeared into thin air, magical, angel, fairy—
+Jolene can’t stop herself from replaying the moment again and again. A small plop. Turning around and Callie gone. Callie gone. The second, a long, drawn-out second where Jolene thinks Callie must have vanished, must have disappeared into thin air, magical, angel, fairy —
 
 Jolene plays it back again. The plop. Turning around. The windless trees. The silent sky. No birds, no fish. A pile of twigs and feathers. Nothing. Nobody.
 
-Then the head, there, not there. Blond hair muddying brown. Blue eyes bugged and wide. Desperate, pleading. The stillness, the quiet. And Jolene, she—
+Then the head, there, not there. Blond hair muddying brown. Blue eyes bugged and wide. Desperate, pleading. The stillness, the quiet. And Jolene, she —
 
 Again. The small swallow. Turning around. The head, the eyes. The checking, the double-checking.
 
@@ -82,7 +82,7 @@ The mouth, the hands.
 
 She has time to see all of these details because why?
 
-She starts again. Again, the plop, again, the turn, again, again—
+She starts again. Again, the plop, again, the turn, again, again —
 
 ***
 
@@ -107,7 +107,7 @@ Jolene kissed Callie’s purple lips again and again. She thought somewhere she�
 
 ## 8.
 
-Daddy, breath stinking, finds Jolene in her room one night. He sprawls on the floor against the wall. <i>Again</i>, he says to Jolene, his eyes red-rimmed. <i>Tell me again</i>. And Jolene tells him. How after the big rain, Callie had wanted to go fishing. How Jolene was turned—her back was turned!—trying to hook a worm onto a sharpened twig, and hadn’t seen Callie slip and fall in. How she was too late to save her.
+Daddy, breath stinking, finds Jolene in her room one night. He sprawls on the floor against the wall. <i>Again</i>, he says to Jolene, his eyes red-rimmed. <i>Tell me again</i>. And Jolene tells him. How after the big rain, Callie had wanted to go fishing. How Jolene was turned — her back was turned! — trying to hook a worm onto a sharpened twig, and hadn’t seen Callie slip and fall in. How she was too late to save her.
 
 <i>She suffered</i>, Daddy says, and his lip trembles. The tremble scares Jolene.
 
@@ -145,7 +145,7 @@ So Callie disappeared, and Jolene concentrated on the worms and the hooks, liste
 
 Momma doesn’t move. Jolene sees little pricks of wetness at the corner of Momma’s eyes. <i>Sleep tears or sad tears?</i> Jolene wonders.
 
-Jolene remembers life before Callie: Momma often sitting still on the porch, Daddy warning Jolene not to disturb her. <i>Your mother suffered to bring you here</i>, he said when Jolene whined for Momma’s attention. <i>Do your best not to be a nuisance now</i>. Daddy had been kind but stern. Daddy did not often hug her. Daddy hugged Momma on the nights Momma cried, inconsolable, her words garbled—<i>dirty, damaged, tainted</i>—and Jolene, playing quietly in the corner, knew the best girls were seen not heard.
+Jolene remembers life before Callie: Momma often sitting still on the porch, Daddy warning Jolene not to disturb her. <i>Your mother suffered to bring you here</i>, he said when Jolene whined for Momma’s attention. <i>Do your best not to be a nuisance now</i>. Daddy had been kind but stern. Daddy did not often hug her. Daddy hugged Momma on the nights Momma cried, inconsolable, her words garbled—<i>dirty, damaged, tainted</i> — and Jolene, playing quietly in the corner, knew the best girls were seen not heard.
 
 They are going back to before, Jolene realizes, and suddenly she can’t stand it. She wants to scream, to break all the vases, to throw all the shriveled, molded lilies to the ground, to wake all of them up.
 
@@ -159,7 +159,7 @@ They are going back to before, Jolene realizes, and suddenly she can’t stand i
 
 Jolene raced toward home, abandoning Callie, little cold Callie, to the reeds. Jolene felt sick before she could make it halfway. She vomited into the bushes and then kept running.
 
-She found Momma, who stumbled toward the lake shrieking, <i>Darling, darling!</i>, tripping over her starched house skirt. Jolene turned and ran in the other direction, toward town, toward the general store where Daddy worked. Daddy looked startled when the door hit the wall, the bell violently clanging. <i>Callie—the lake—</i> Jolene choked out between breaths, and before she could finish, Daddy, too, was sprinting toward the lake.
+She found Momma, who stumbled toward the lake shrieking, <i>Darling, darling!</i>, tripping over her starched house skirt. Jolene turned and ran in the other direction, toward town, toward the general store where Daddy worked. Daddy looked startled when the door hit the wall, the bell violently clanging. <i>Callie — the lake — </i> Jolene choked out between breaths, and before she could finish, Daddy, too, was sprinting toward the lake.
 
 Momma was crouched over Callie’s blue body, sobbing. Daddy fell to his knees. Jolene hugged herself. She could not stop shivering. Her skin was still damp. She was so cold. She stared at Momma’s skirt, at the dung-colored streaks flecked across the bottom. She thought to herself that Momma, who had always prided herself on her pressed clothes, clean nails, brushed hair, would have to throw that skirt away.
 
@@ -311,7 +311,7 @@ It is not that morning, though, it is <em>this</em> morning, the only morning.
 
 And there are too many things Jolene doesn’t know how to confess.
 
-Momma and Daddy stare at Jolene, and for a second she imagines a twitch, Momma’s fingers fluttering, Daddy’s arm shifting. She wonders if she just tells them—<i>Callie is dead and I’m afraid I killed her</i>—if maybe, perhaps, there’s a chance that they might take her palms into theirs, press them warm into their laps, and tell her, <i>It wasn’t your fault, it was an accident, you loved your sister.
+Momma and Daddy stare at Jolene, and for a second she imagines a twitch, Momma’s fingers fluttering, Daddy’s arm shifting. She wonders if she just tells them — <i>Callie is dead and I’m afraid I killed her</i> — if maybe, perhaps, there’s a chance that they might take her palms into theirs, press them warm into their laps, and tell her, <i>It wasn’t your fault, it was an accident, you loved your sister.
 
 Jolene presses her fork into the griddle cake, slicing across its pimpled cheek, and stabs into the piece. She opens her mouth.
 
@@ -333,7 +333,7 @@ But Jolene could never get endings right. On that last stormy evening, curled wa
 
 <i>Stories are supposed to have happy endings.
 
-<i>Being with the friend you love—isn’t that the happiest thing?
+<i>Being with the friend you love — isn’t that the happiest thing?
 
 Callie huffed. 
 
