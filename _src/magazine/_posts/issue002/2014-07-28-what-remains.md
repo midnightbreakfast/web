@@ -341,7 +341,7 @@ But Jolene could never get endings right. On that last stormy evening, curled wa
 
 Callie huffed. 
 
-Jolene yawned. <i>It’s time to sleep now, she said.
+Jolene yawned. <i>It’s time to sleep now</i>, she said.
 
 <i>Okay</i>, Callie said, also yawning. She turned and curled into Jolene’s chest. Her hair tickled at Jolene’s chin, its powdery scent lingering under Jolene’s nostrils. <i>What’ll we do tomorrow, Jojo</i>? she asked, but even as Jolene began to answer, Callie’s breathing grew steady and quiet.
 
