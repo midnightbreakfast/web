@@ -122,7 +122,6 @@ hr {
 		border-top: 1px solid rgba(0,0,0,.25);
 		width: 50%;
 		margin: 3em auto;
-		clear: both;
 	}
 	&.space {
 	  border: none;
@@ -165,6 +164,9 @@ figure {
 			float: right;
 			max-width: 45%;
 			margin-left: 1.5em;
+			&.smaller {
+			  max-width: 27.5%;
+			}
 		}
 	}
   @media #{$screen-l} {

@@ -18,7 +18,7 @@ featured_image: issue2/history/lesh.jpg
 thumb: issue2/history/thumb.png
 ---
 
-<figure class="right">
+<figure class="right smaller">
   {% include picture.html path=page.featured_image %}
 </figure>
 
