@@ -1,3 +1,13 @@
+issue2:
+  number: 2
+  contents:
+    - what-remains
+    - f
+    - the-invention-of-history
+    - trizas-fragments
+    - edan-lepucki
+    - a-barcelona-tale
+  letter: /issue-2-letter/
 issue1:
   number: 1
   contents:

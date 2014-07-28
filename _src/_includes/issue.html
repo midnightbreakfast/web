@@ -1,0 +1,14 @@
+<section class="toc outset">
+  <div class="badge">
+    <h2>
+      Issue
+      <strong>{{ issue[1].number }}</strong>
+    </h2>
+  </div>
+  {% assign contents = issue[1].contents %}
+  {% include posts/cards.html contents=contents %}
+</section>
+<a class="letter" href="{{ issue[1].letter }}">
+  <h3>Letter from the Editor</h3>
+  <h4>by Rebecca Rubenstein</h4>
+</a>

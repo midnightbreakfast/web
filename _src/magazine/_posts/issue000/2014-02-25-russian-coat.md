@@ -4,8 +4,11 @@ issue: 000
 type: Fiction
 title: The Russian Coat
 by: Matthew Salesses
-bio: |
-  [Matthew Salesses](http://matthewsalesses.com/) is the author of [<cite>I'm Not Saying, I'm Just Saying</cite>](http://www.amazon.com/Im-Not-Saying-Just/dp/1937865061), [<cite>The Last Repatriate</cite>](http://nouvellabooks.com/books/the-last-repatriate/), a couple of ebooks forthcoming from Thought Catalog Books, and other things. Follow him [@salesses](http://www.twitter.com/salesses).
+author:
+  name: Matthew Salesses
+  url: http://matthewsalesses.com/
+  bio: |
+    [Matthew Salesses](http://matthewsalesses.com/) is the author of [<cite>I'm Not Saying, I'm Just Saying</cite>](http://www.amazon.com/Im-Not-Saying-Just/dp/1937865061), [<cite>The Last Repatriate</cite>](http://nouvellabooks.com/books/the-last-repatriate/), a couple of ebooks forthcoming from Thought Catalog Books, and other things. Follow him [@salesses](http://www.twitter.com/salesses).
 featured_image: russian-coat/header.gif
 noresize: true
 thumb: russian-coat/header.png

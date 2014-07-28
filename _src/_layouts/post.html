@@ -51,7 +51,7 @@ layout: default
 		{% endfor %}
 		
 		<footer>
-			{% if page.bio %}{{ page.bio | markdownify }}{% endif %}
+			{% if page.author.bio %}{{ page.author.bio | markdownify }}{% endif %}
 			{% if page.illustrator %}
 				<p>Illustration by <a href="{{ page.illustrator.url }}">{{ page.illustrator.name }}</a></p>
 			{% endif %}
