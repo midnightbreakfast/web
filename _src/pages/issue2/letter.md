@@ -12,7 +12,7 @@ I grew up in a house full of news. Papers cluttered my family’s dining room ta
 
 The idea of <em>the event</em> is first and foremost what binds the pieces in Issue Two. Though each is unique in its own way, the stories, essay, and interview contained herein all grapple with the way events — current and past, repeat and singular — give shape and add greater context and meaning to a life. How do the things that happen, these pieces seem to ask, catalyze and affect our relationships with others? How do they form (and inform) our identities? In a world where every action begets consequence, what does it mean for an event to transpire in close proximity — how do these occurrences build us, and how do they destroy us? What does it mean for something to happen that’s beyond our control — how does this compel us to survive, to carry on? And how, on a different level, does an event evoke a sense of nostalgia, and invite us to remember why we’re able to view the world with lightness and humor and relief?
 
-Slow apocalypses, childhood grief, fraught parental relationships, revisionist history, dangerous summer jobs, and a surly gargoyle are just a handful of things you’ll find in Issue Two. But I hope you find more. Much more.
+Slow apocalypses, childhood grief, fraught familial relationships, revisionist history, dangerous summer jobs, and a surly gargoyle are just a handful of things you’ll find in Issue Two. But I hope you find more. Much more.
 
 Rebecca Rubenstein
 Editor-in-Chief
