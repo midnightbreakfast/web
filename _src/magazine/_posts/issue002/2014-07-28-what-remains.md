@@ -138,7 +138,7 @@ Jolene did not find worms disgusting, but she hated gutting them. She did not ho
 
 <i>You’ll only hook your fingers, and I’ll get in trouble for it.</i>
 
-So Callie disappeared, and Jolene concentrated on the worms and the hooks, listening to Callie sing under her breath, <i>Mustn’t sing, mustn’t bother Jojo</i>, as she moved back and forth along the lake bank behind her. Jolene had just gotten the second worm on the hook when she heard Callie squeal, <i>A pretty red one!</i> followed by a startled, small <i>Oh!</i> and that plop. and Jolene was turned around, staring at nothing.
+So Callie disappeared, and Jolene concentrated on the worms and the hooks, listening to Callie sing under her breath, <i>Mustn’t sing, mustn’t bother Jojo</i>, as she moved back and forth along the lake bank behind her. Jolene had just gotten the second worm on the hook when she heard Callie squeal, <i>A pretty red one!</i> followed by a startled, small <i>Oh!</i> and that plop, and Jolene was turned around, staring at nothing.
 
 ***
 
@@ -148,7 +148,7 @@ So Callie disappeared, and Jolene concentrated on the worms and the hooks, liste
 
 Momma doesn’t move. Jolene sees little pricks of wetness at the corner of Momma’s eyes. <i>Sleep tears or sad tears?</i> Jolene wonders.
 
-Jolene remembers life before Callie: Momma often sitting still on the porch, Daddy warning Jolene not to disturb her. <i>Your mother suffered to bring you here</i>, he said when Jolene whined for Momma’s attention. <i>Do your best not to be a nuisance now</i>. Daddy had been kind but stern. Daddy did not often hug her. Daddy hugged Momma on the nights Momma cried, inconsolable, her words garbled—<i>dirty, damaged, tainted</i> — and Jolene, playing quietly in the corner, knew the best girls were seen not heard.
+Jolene remembers life before Callie: Momma often sitting still on the porch, Daddy warning Jolene not to disturb her. <i>Your mother suffered to bring you here</i>, he said when Jolene whined for Momma’s attention. <i>Do your best not to be a nuisance now</i>. Daddy had been kind but stern. Daddy did not often hug her. Daddy hugged Momma on the nights Momma cried, inconsolable, her words garbled — <i>dirty, damaged, tainted</i> — and Jolene, playing quietly in the corner, knew the best girls were seen not heard.
 
 They are going back to before, Jolene realizes, and suddenly she can’t stand it. She wants to scream, to break all the vases, to throw all the shriveled, molded lilies to the ground, to wake all of them up.
 
