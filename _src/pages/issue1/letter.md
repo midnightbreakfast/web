@@ -1,5 +1,6 @@
 ---
 layout: post
+issue: 001
 type: Issue 1
 title: Letter from the Editor
 by: Rebecca Rubenstein
