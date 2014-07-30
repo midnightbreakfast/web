@@ -80,3 +80,13 @@ layout: default
     </div>
   </section>
 {% endif %}
+{% if page.smalls %}
+  <div class="smalls after">
+    <div class="hd">
+      <h2>More Small Plates</h2>
+    </div>
+    {% for post in site.categories.smalls limit:4 %}
+      {% include post/small-plates.html %}
+    {% endfor %}
+	</div>
+{% endif %}
