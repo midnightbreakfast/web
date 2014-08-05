@@ -109,13 +109,7 @@ Prior to and during our journey, I’d willed myself to not think about the “w
 
 <block>September 18, 2006
 
-Height of fear and trepidation. We had to stop here and stare at the
-border and hold our pee for two hours. We watched about ten or twelve
-Border Patrol trucks circle by, even pulling into the Burger King takeout
-line less than fifty feet from us… Our hearts were beating so fast
-that for a moment I contemplated how it would be if a Border Patrol
-officer came up to me, what I would say. I decided I would tell him or
-her the truth and try to talk my way out of it…</block>
+Height of fear and trepidation. We had to stop here and stare at the border and hold our pee for two hours. We watched about ten or twelve Border Patrol trucks circle by, even pulling into the Burger King takeout line less than fifty feet from us… Our hearts were beating so fast that for a moment I contemplated how it would be if a Border Patrol officer came up to me, what I would say. I decided I would tell him or her the truth and try to talk my way out of it…</block>
 
 Sometimes when kids play hide and seek, they think that if they shut their eyes, no one will see them. That was my strategy. Keep looking straight ahead, and no one will look at you. Nope, no need to glance over at that American girl and the Mexican guy next to her. They are just taking a well-needed pit stop in the shade of a willow tree in an abandoned lot next to the Burger King drive through. They are not waiting for illicitly crossed northbound passengers to jump in the back. In fact, we can’t see them at all because they are invisible. That was my hope. 
 
