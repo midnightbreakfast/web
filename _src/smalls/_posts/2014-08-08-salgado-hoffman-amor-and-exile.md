@@ -10,7 +10,6 @@ cover: TK
 endnote: |
   This text is excerpted from <cite>Amor and Exile</cite> by Nicole Salgado and Nathaniel Hoffman, copyright 2013 by Cordillera West Books, used with permission from the authors and Cordillera West Books.
 
-
 bio: |
   Nathaniel Hoffman and Nicole Salgado met in the late 1990s when they both studied at Cornell University in Ithaca, New York. They began collaborating on <cite>Amor and Exile</cite> in November 2010.
 
