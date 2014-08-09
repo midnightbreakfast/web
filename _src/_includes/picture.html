@@ -1,5 +1,9 @@
 {% if site.debug %}
-  <img src="/assets/images/full/{{ include.path }}">
+  {% if include.size == "thumb" %}
+    <span class="placeholder thumb" style="background-image: url(/assets/images/full/{{ include.path }})"></span>
+  {% else %}
+    <img src="/assets/images/full/{{ include.path }}">
+  {% endif %}
 {% else %}
   {% picture {{ include.size }} {{ include.path }} alt="{{ include.alt }}" %}
 {% endif %}
