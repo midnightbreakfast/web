@@ -5,7 +5,8 @@ overtitle: an excerpt from
 title: |
   Amor and Exile
 by: Nicole Salgado and Nathaniel Hoffman
-cover: TK
+cover: smalls/amor-and-exile/cover.jpg
+road: smalls/amor-and-exile/road.jpg
 
 endnote: |
   This text is excerpted from <cite>Amor and Exile</cite> by Nicole Salgado and Nathaniel Hoffman, copyright 2013 by Cordillera West Books, used with permission from the authors and Cordillera West Books.
@@ -13,22 +14,22 @@ endnote: |
 bio: |
   Nathaniel Hoffman and Nicole Salgado met in the late 1990s when they both studied at Cornell University in Ithaca, New York. They began collaborating on <cite>Amor and Exile</cite> in November 2010.
 
-Salgado is an American immigration reform advocate based in Central Mexico. She and her husband relocated to his birthplace in Mexico in 2006 due to his undocumented immigration status in the United States. An ecologist and educator by profession, Salgado currently teaches English and does conservation education in Mexico, most recently as a training advisor with Peace Corps Mexico. She is the author and illustrator of <cite>The Bajio’s Bounty</cite>, a book of Central Mexican native food plants and recipes, and blogs at [amorandexile.com](http://amorandexile.com/) and [The Succulent Seer](http://succulentseer.blogspot.com/). She lives with her husband and daughter in Querétaro.
+  Salgado is an American immigration reform advocate based in Central Mexico. She and her husband relocated to his birthplace in Mexico in 2006 due to his undocumented immigration status in the United States. An ecologist and educator by profession, Salgado currently teaches English and does conservation education in Mexico, most recently as a training advisor with Peace Corps Mexico. She is the author and illustrator of <cite>The Bajio’s Bounty</cite>, a book of Central Mexican native food plants and recipes, and blogs at [amorandexile.com](http://amorandexile.com/) and [The Succulent Seer](http://succulentseer.blogspot.com/). She lives with her husband and daughter in Querétaro.
 
-Hoffman is the founding editor of <em>[The Blue Review](http://thebluereview.org/)</em>, a journal of popular scholarship at Boise State University. He has been a journalist for over a decade, covering immigration in Idaho and California and filing stories from Mexico, Cuba, Gaza, Israel, and Lebanon for the <cite>Christian Science Monitor</cite>, <cite>High Country News</cite>, <cite>Knight Ridder</cite>, <cite>Boise Weekly</cite>, and KQED public radio in San Francisco. He teaches citizenship courses for the International Rescue Committee and is on the Radio Boise Board of Directors.
+  Hoffman is the founding editor of <em>[The Blue Review](http://thebluereview.org/)</em>, a journal of popular scholarship at Boise State University. He has been a journalist for over a decade, covering immigration in Idaho and California and filing stories from Mexico, Cuba, Gaza, Israel, and Lebanon for the <cite>Christian Science Monitor</cite>, <cite>High Country News</cite>, <cite>Knight Ridder</cite>, <cite>Boise Weekly</cite>, and KQED public radio in San Francisco. He teaches citizenship courses for the International Rescue Committee and is on the Radio Boise Board of Directors.
 ---
 
 <div class="intro" markdown="block">
 
 <h4>Editor’s Note</h4>
 
-TK
+TK - first paragraph goes here
 
 <figure class="right small">
   {% include picture.html path=page.cover %}
 </figure>
 
-TK
+TK - rest of the letter goes here
 
 Enjoy!
 
@@ -39,6 +40,10 @@ Enjoy!
 <hr />
 
 My first memories of Mexico stretch back to when I visited family in San Diego as a child. On the other side of the Tijuana River, a concrete channel covered with green scum, was a little girl selling bracelets. Everything about her image still haunts me — so young, unkempt, and alone.
+
+<figure class="right">
+  {% include picture.html path=page.road %}
+</figure>
 
 I later made Spring Break forays with friends as a college student. In Mexicali, I danced with a one-legged man, and I journeyed to Guerrero Negro in search of grey whales. I’d co-led the high school service trips to Tijuana and Vicente Guerrero. I’d even been to the city we were moving to, Querétaro, to meet Margo’s family by myself.
 
@@ -107,9 +112,9 @@ As she took the pictures, I wondered if she even noticed how odd we were acting.
 
 Prior to and during our journey, I’d willed myself to not think about the “what ifs,” since my fears were naturally of the disastrous sort. They were pretty easy to ignore while cruising down the highway at seventy miles per hour. But sitting still in the parking lot, my worries came flooding in. What if neither of us could hold our pee any longer? What if the paperwork process took all night, would we have to sleep in the truck? What if the Border Patrol noticed us and came over? Could Margo go to jail? Would I? What would happen to our things? Would I have to drive back to California alone? How would Margo and I contact each other? When they threatened to get out of control, something kicked in to cut off the train of thought, producing a sort of tingly, hollow feeling in my body, as if I was floating or careening down a zip line. Pure adrenaline.
 
-<block>September 18, 2006
-
-Height of fear and trepidation. We had to stop here and stare at the border and hold our pee for two hours. We watched about ten or twelve Border Patrol trucks circle by, even pulling into the Burger King takeout line less than fifty feet from us… Our hearts were beating so fast that for a moment I contemplated how it would be if a Border Patrol officer came up to me, what I would say. I decided I would tell him or her the truth and try to talk my way out of it…</block>
+> September 18, 2006
+> 
+> Height of fear and trepidation. We had to stop here and stare at the border and hold our pee for two hours. We watched about ten or twelve Border Patrol trucks circle by, even pulling into the Burger King takeout line less than fifty feet from us… Our hearts were beating so fast that for a moment I contemplated how it would be if a Border Patrol officer came up to me, what I would say. I decided I would tell him or her the truth and try to talk my way out of it…
 
 Sometimes when kids play hide and seek, they think that if they shut their eyes, no one will see them. That was my strategy. Keep looking straight ahead, and no one will look at you. Nope, no need to glance over at that American girl and the Mexican guy next to her. They are just taking a well-needed pit stop in the shade of a willow tree in an abandoned lot next to the Burger King drive through. They are not waiting for illicitly crossed northbound passengers to jump in the back. In fact, we can’t see them at all because they are invisible. That was my hope. 
 
