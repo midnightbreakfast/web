@@ -43,11 +43,11 @@ The following long excerpt is the same one Nicole shared during her reading. It�
 
 <hr />
 
-My first memories of Mexico stretch back to when I visited family in San Diego as a child. On the other side of the Tijuana River, a concrete channel covered with green scum, was a little girl selling bracelets. Everything about her image still haunts me — so young, unkempt, and alone.
-
-<figure class="right">
+<figure class="middle">
   {% include picture.html path=page.road %}
 </figure>
+
+My first memories of Mexico stretch back to when I visited family in San Diego as a child. On the other side of the Tijuana River, a concrete channel covered with green scum, was a little girl selling bracelets. Everything about her image still haunts me — so young, unkempt, and alone.
 
 I later made Spring Break forays with friends as a college student. In Mexicali, I danced with a one-legged man, and I journeyed to Guerrero Negro in search of grey whales. I’d co-led the high school service trips to Tijuana and Vicente Guerrero. I’d even been to the city we were moving to, Querétaro, to meet Margo’s family by myself.
 
