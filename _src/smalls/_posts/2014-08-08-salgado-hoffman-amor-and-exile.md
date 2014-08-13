@@ -9,7 +9,7 @@ cover: smalls/amor-and-exile/cover.jpg
 road: smalls/amor-and-exile/road.jpg
 
 endnote: |
-  This text is excerpted from <cite>Amor and Exile</cite> by Nicole Salgado and Nathaniel Hoffman, copyright 2013 by Cordillera West Books, used with permission from the authors and Cordillera West Books.
+  This text is excerpted from <cite>Amor and Exile: True Stories of Love Across America's Borders</cite> by Nicole Salgado and Nathaniel Hoffman, copyright 2013 by Cordillera West Books, used with permission from the authors and Cordillera West Books.
 
 author:
   name: Nicole Salgado and Nathaniel Hoffman
