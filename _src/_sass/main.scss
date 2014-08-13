@@ -739,6 +739,14 @@ a.feature-smalls {
   }
 }
 
+.placeholder {
+  display: block;
+  width: 100%;
+  padding-top: 50%;
+  background-position: center center;
+  background-size: cover;
+}
+
 #mailchimp {
 	max-width: 25em;
 	margin: auto;
