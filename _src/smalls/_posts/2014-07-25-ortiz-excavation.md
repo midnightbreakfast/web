@@ -10,8 +10,10 @@ cover: smalls/excavation/cover.jpg
 endnote: |
   This text is excerpted from <cite>Excavation: A Memoir</cite> by Wendy C. Ortiz, copyright 2014 by Future Tense Books, used with permission from the author and Future Tense Books.
 
-bio: |
-  [Wendy C. Ortiz](http://wendyortiz.com) is the author of <cite>Excavation: A Memoir</cite> (Future Tense Books, July 2014) and <cite>Hollywood Notebook</cite> (Writ Large Press, Nov. 2014). She writes the monthly column "On the Trail of Mary Jane" for <cite>McSweeney's Internet Tendency</cite>, in which she explores medical marijuana dispensary culture in Southern California. Her work has appeared in <cite>The New York Times</cite>, <cite>Vol. 1 Brooklyn</cite>, <cite>The Nervous Breakdown</cite>, <cite>The Rumpus</cite>, and other journals both print and online. Wendy is the co-founder, curator and host of the decade-old [Rhapsodomancy Reading Series](http://www.rhapsodomancy.org).
+author:
+  name: Wendy C. Ortiz
+  bio: |
+    [Wendy C. Ortiz](http://wendyortiz.com) is the author of <cite>Excavation: A Memoir</cite> (Future Tense Books, July 2014) and <cite>Hollywood Notebook</cite> (Writ Large Press, Nov. 2014). She writes the monthly column "On the Trail of Mary Jane" for <cite>McSweeney's Internet Tendency</cite>, in which she explores medical marijuana dispensary culture in Southern California. Her work has appeared in <cite>The New York Times</cite>, <cite>Vol. 1 Brooklyn</cite>, <cite>The Nervous Breakdown</cite>, <cite>The Rumpus</cite>, and other journals both print and online. Wendy is the co-founder, curator and host of the decade-old [Rhapsodomancy Reading Series](http://www.rhapsodomancy.org).
 ---
 
 <div class="intro" markdown="block">

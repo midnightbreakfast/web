@@ -10,8 +10,10 @@ intro: |
 endnote: |
   "His Days" originally appeared in [Necessary Fiction](http://necessaryfiction.com/writerinres/HisDaysbyLaurenBecker) and is featured in Lauren Becker's new collection, [<cite>If I Would Leave Myself Behind</cite>](http://curbsidesplendor.bigcartel.com/product/if-i-would-leave-myself-behind-by-lauren-becker). This story has been reprinted with permission from the author and from Curbside Splendor Press.
 
-bio: |
-  Lauren Becker is editor of <cite>Corium Magazine</cite>. Her work has appeared in <cite>Tin House</cite> online, <cite>Wigleaf</cite>, <cite>NANO Fiction</cite>, <cite>Matchbook</cite>, and elsewhere. She lives in Austin, Texas. 
+author:
+  name: Lauren Becker
+  bio: |
+    Lauren Becker is editor of <cite>Corium Magazine</cite>. Her work has appeared in <cite>Tin House</cite> online, <cite>Wigleaf</cite>, <cite>NANO Fiction</cite>, <cite>Matchbook</cite>, and elsewhere. She lives in Austin, Texas. 
 ---
 
 <div class="intro" markdown="block">

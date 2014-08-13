@@ -9,8 +9,10 @@ cover: smalls/crystal-eaters/cover.jpg
 endnote: |
   This text is excerpted from <cite>Crystal Eaters</cite> by Shane Jones, copyright 2014 by Two Dollar Radio, used with permission from Two Dollar Radio.
 
-bio: |
-  Shane Jones's first novel, <cite>Light Boxes</cite>, was originally published by Publishing Genius Press in a print run of 500 copies in 2009. The novel was reviewed widely, the film optioned by Spike Jonze, and the book was reprinted by Penguin. <cite>Light Boxes</cite> has been translated in eight languages and was named an NPR best book of the year. Jones is also the author of the novels <cite>Daniel Fights a Hurricane</cite> and <cite>The Failure Six</cite>.
+author:
+  name: Shane Jones
+  bio: |
+    Shane Jones's first novel, <cite>Light Boxes</cite>, was originally published by Publishing Genius Press in a print run of 500 copies in 2009. The novel was reviewed widely, the film optioned by Spike Jonze, and the book was reprinted by Penguin. <cite>Light Boxes</cite> has been translated in eight languages and was named an NPR best book of the year. Jones is also the author of the novels <cite>Daniel Fights a Hurricane</cite> and <cite>The Failure Six</cite>.
 ---
 
 <div class="intro" markdown="block">
