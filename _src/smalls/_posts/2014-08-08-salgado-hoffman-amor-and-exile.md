@@ -16,22 +16,26 @@ bio: |
 
   Salgado is an American immigration reform advocate based in Central Mexico. She and her husband relocated to his birthplace in Mexico in 2006 due to his undocumented immigration status in the United States. An ecologist and educator by profession, Salgado currently teaches English and does conservation education in Mexico, most recently as a training advisor with Peace Corps Mexico. She is the author and illustrator of <cite>The Bajio’s Bounty</cite>, a book of Central Mexican native food plants and recipes, and blogs at [amorandexile.com](http://amorandexile.com/) and [The Succulent Seer](http://succulentseer.blogspot.com/). She lives with her husband and daughter in Querétaro.
 
-  Hoffman is the founding editor of <em>[The Blue Review](http://thebluereview.org/)</em>, a journal of popular scholarship at Boise State University. He has been a journalist for over a decade, covering immigration in Idaho and California and filing stories from Mexico, Cuba, Gaza, Israel, and Lebanon for the <cite>Christian Science Monitor</cite>, <cite>High Country News</cite>, <cite>Knight Ridder</cite>, <cite>Boise Weekly</cite>, and KQED public radio in San Francisco. He teaches citizenship courses for the International Rescue Committee and is on the Radio Boise Board of Directors.
+  Hoffman is the founding editor of <em>[The Blue Review](http://thebluereview.org/)</em>, a journal of popular scholarship at Boise State University. He has been a journalist for over a decade, covering immigration in Idaho and California and filing stories from Mexico, Cuba, Gaza, Israel, and Lebanon for the <cite>Christian Science Monitor</cite>, <cite>High Country News</cite>, <cite>Knight Ridder</cite>, <cite>Boise Weekly</cite>, and KQED public radio in San Francisco. He is on the Radio Boise Board of Directors.
 ---
 
 <div class="intro" markdown="block">
 
 <h4>Editor’s Note</h4>
 
-TK - first paragraph goes here
+I first met Nicole Salgado only a handful of weeks ago. I was in Querétaro, Mexico for a week-long writing workshop, and Nicole had come to speak to our group about a book she’d published last year with U.S.-based journalist Nathaniel Hoffman. A hybrid of memoir and journalism, <cite>[Amor and Exile: True Stories of Love Across America’s Borders](http://amorandexile.com)</cite> is partly a first-hand account of Nicole’s journey from the States to Mexico, a move she found herself forced to make when, due to strict American immigration policies implemented by the Clinton Administration in 1996, marrying her undocumented Mexican partner did not grant him automatic U.S. citizenship. Rather than risk her husband’s permanent deportation or follow the trajectories of so many other binational couples who live apart from one another, on opposite sides of the border, Nicole chose self-exile in Mexico, where she and her husband have resided since 2006 and have been waiting the requisite ten years before he is legally allowed to apply for U.S. status. 
 
 <figure class="right small">
   {% include picture.html path=page.cover %}
 </figure>
 
-TK - rest of the letter goes here
+Nicole’s is a narrative shared by hundreds of thousands, and the other half of <cite>Amor and Exile</cite> — written by Nathaniel — is devoted to unpacking the legalities and history behind the U.S.’s complex but often confounding immigration policies, and to the countless stories of other families affected by the emotionally detrimental nature of border politics. While Nicole is an ecologist and educator by profession, she has also become an advocate and activist for immigration reform, and remains an important fixture in her community in Querétaro. She has remarked on her decision to co-author the book:
 
-Enjoy!
+> I am passionate about telling my story so that others can understand the impacts of current immigration law on binational families like mine. Despite all the hardships I’ve faced, I remain committed to working for positive social change, and haven’t lost hope that someday my husband will obtain the legal right to join me and my daughter in the U.S., and for thousands of other families like mine to reunite in their homeland.  
+
+Towards the end of her reading, there was a moment when Nicole had to pause and take a minute to collect herself. “I’m sorry,” she said to our group, clearing her throat. “I usually don't read this part out loud.” No one said anything, but she had no reason to apologize. It is an unthinkable thing, to choose between your country and the person you love. That it is now 2014 and the U.S. government continues to stall on immigration reform and force its citizens into ultimatums like this one is, in my mind, unconscionable.
+
+The following long excerpt is the same one Nicole shared during her reading. It’s titled “The Road South, 2006,” and describes the tense drive Nicole and her husband made over the border. For anyone who has made a similar crossing, under similar circumstances, or has family or friends who have done so, I am glad <cite>Midnight Breakfast</cite> is able to share a version of your story. For everyone else: I hope this will help shed light on the importance of the issue, and will move you to read the rest of this remarkable book and to take action as Nicole has done, if only in the smallest of ways.     
 
 ---Rebecca Rubenstein, Editor-in-Chief
 
