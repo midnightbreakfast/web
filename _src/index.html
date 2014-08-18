@@ -34,4 +34,8 @@ class: home
 	  {% include post/small-plates.html %}
 	{% endfor %}
 		
+	{% for post in site.categories.smalls limit:1 offset:4 %}
+	  {% include post/small-plates.html %}
+	{% endfor %}
+		
 </div>
