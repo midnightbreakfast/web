@@ -10,8 +10,6 @@ cover: smalls/if-it-is-your-life/cover.jpg
 
 endnote: |
   Excerpted from <cite>If it is Your Life</cite> by James Kelman. Copyright 2014 by James Kelman. Published by Other Press. All rights reserved. Reprinted by permission from Other Press.
-  
-  Interested in having an excerpt from your upcoming book featured on Small Plates? Please feel free to drop us a line at rebecca@midnightbreakfast.com and let us know!
 
 bio: |
   James Kelman was born in Glasgow in 1946, left school at the earliest opportunity, and began working life in a factory aged 15. Emigrated with his family to California in 1963, returned to Scotland 1964. Kelman has worked at a variety of jobs ever since. He began writing while living in London aged twenty two and later met Texan writer Mary Gray Hughes. With her support his debut story collection, <cite>An Old Pub Near The Angel</cite> was published by Puckerbrush Press, Maine, in 1973.  His fourth novel, <cite>How Late It Was, How Late</cite>, won the Booker Prize in 1994. His recent publications include story collections <cite>Busted Scotch</cite> and <cite>If it is your life</cite>; and novels, <cite>You have to be careful in the Land of the Free</cite>, <cite>Translated Accounts</cite>, and <cite>Kieron Smith, boy</cite>. Kelman has taught at the University of Texas in Austin, and San José State University, California. He and his wife live in Scotland, not far from their two daughters and two grandchildren.
@@ -24,7 +22,7 @@ bio: |
 <a href="http://www.otherpress.com/">Other Press</a> has made it a mission to publish compelling fiction and nonfiction that represents unique voices from around the world. It’s a mission we share here at Midnight Breakfast, and so when we launched Small Plates I knew I’d soon be knocking on their door.
 
 <figure class="right small">
-  {% include picture.html path=page.cover %}
+  <a href="http://www.otherpress.com/books/life/">{% include picture.html path=page.cover %}</a>
 </figure>
 
 
