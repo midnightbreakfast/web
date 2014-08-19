@@ -1,8 +1,10 @@
 ---
 layout: smalls
 type: Small Plates
+overtitle: an excerpt from
+title: |
+  Amor and Exile
 title: If it is your life
-subtitle: from <cite>TK</cite>
 by: James Kelman
 cover: smalls/if-it-is-your-life/cover.jpg
 
@@ -28,7 +30,7 @@ bio: |
 
 I’d never read James Kelman before I picked up Other Press’s American edition of his recent short story collection, <a href="http://www.otherpress.com/books/life/"><cite>If it is your life</cite></a>, but I knew him by his reputation as one of Scotland’s eminent and most idiosyncratic writers. He’s won numerous awards, including the Booker Prize for his 1994 novel, <a href="http://www.theguardian.com/books/2011/sep/14/booker-club-james-kelman-how-late"><cite>How Late It Was, How Late</cite></a>, the awarding of which caused a good deal of controversy and got Kelman labeled an “illiterate savage” by his critics. Apparently, some of the British literary elite took offense to the vulgarity of Kelman’s roughshod stream-of-consciousness narrative voice, which he uses to capture the perspective of the Scottish working class, for whom he’s also an outspoken activist. In other words: He’s a man after my own heart.
 
-I won’t pretend that <cite>If it is your life</cite> isn’t often a challenging book. Kelman’s rambling Glaswegian internal monologues can sometimes be a bit hard to follow, but the experience of immersing oneself so wholly in the thoughts of Kelman’s downtrodden Scotsmen is often sublime. The book is also hilarious. Kelman wields irony sometimes like a scalpel and other times like a hammer. His narrators are so unreliable that they go back around the bend and become reliable again, their circuitous trains of thought revealing truths about themselves and the human experience that they may not even be aware of. Take, for example, the excerpt below, from the titular story in the collection, in which the narrator, a good old blue-collar boy from Glasgow, reflects on his new experiences at the English university where he’s gone to study philosophy and met an upper-crust girl who may just be sleeping with him because he’s from the wrong side of the tracks.
+I won’t pretend that <cite>If it is your life</cite> isn’t often a challenging book. Kelman’s rambling Glaswegian internal monologues can sometimes be a bit hard to follow, but the experience of immersing oneself so wholly in the thoughts of Kelman’s downtrodden Scotsmen is often sublime. The book is also hilarious. Kelman wields irony sometimes like a scalpel and other times like a hammer. His narrators are so unreliable that they go back around the bend and become reliable again, their circuitous trains of thought revealing truths about themselves and the human experience that they may not even be aware of. Take, for example, the excerpt below, from the titular story in the collection, in which the narrator, a good old blue-collar boy from Glasgow, reflects on his new experiences at the English university where he’s gone to study philosophy and fallen in with an upper-crust girl who may just be sleeping with him because he’s from the wrong side of the tracks.
 
 Enjoy!
 
