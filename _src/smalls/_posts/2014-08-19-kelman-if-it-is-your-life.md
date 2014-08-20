@@ -9,7 +9,7 @@ by: James Kelman
 cover: smalls/if-it-is-your-life/cover.jpg
 
 endnote: |
-  Excerpted from <cite>If it is Your Life</cite> by James Kelman. Copyright 2014 by James Kelman. Published by Other Press. All rights reserved. Reprinted by permission from Other Press.
+  Excerpted from <cite>If It Is Your Life</cite> by James Kelman. Copyright 2014 by James Kelman. Published by Other Press. All rights reserved. Reprinted by permission from Other Press.
 
 author:
   name: James Kelman
