@@ -14,8 +14,8 @@ illustrator:
   name: TK
   url: TK
 
-featured_image: issueTK/slug/image.jpg
-thumb: issueTK/slug/thumb.jpg
+featured_image: issue3/tierce/tierce.jpg
+thumb: issue3/tierce/thumb.png
 ---
 
 <figure class="right">
