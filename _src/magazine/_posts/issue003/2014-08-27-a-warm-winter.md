@@ -1,14 +1,14 @@
 ---
 layout: post
 issue: 3
-type: Above Title
-title: Title Goes Here
-by: Author Name
+type: Fiction
+title: A Warm Winter
+by: Molly McArdle
 author:
-  name: TK
-  url: TK
+  name: Molly McArdle
+  url: http://twitter.com/mollitudo
   bio: |
-    TK
+    [Molly McArdle](http://twitter.com/mollitudo)'s fiction, essays, and criticism have appeared in <cite>The Believer</cite>, <cite>The Los Angeles Review of Books</cite>, <cite>PANK</cite>, <cite>The Toast</cite>, <cite>The Rumpus</cite>, and <cite>Bitch Magazine</cite>. She runs [The Rumblr](http://therumpus.tumblr.com) (The Rumpus on Tumblr) and is working on her MFA in fiction at UMass Amherst. 
 
 illustrator:
   name: TK
@@ -22,4 +22,4 @@ thumb: issueTK/slug/thumb.jpg
   {% include picture.html path=page.featured_image %}
 </figure>
 
-ARTICLE GOES HERE
+TK
