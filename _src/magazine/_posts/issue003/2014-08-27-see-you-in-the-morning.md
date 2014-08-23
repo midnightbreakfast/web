@@ -8,7 +8,9 @@ author:
   name: Mairead Case
   url: http://twitter.com/maireadcase
   bio: |
-    [Mairead Case](http://twitter.com/maireadcase) lives in Colorado, where she is a PhD student at the University of Denver. Before that she lived in Chicago for a decade, where she worked in small presses, libraries, public schools, jails, at the Poetry Foundation, and as a birthday party clown. 
+    [Mairead Case](http://twitter.com/maireadcase) lives in Colorado, where she is a PhD student at the University of Denver. Before that she lived in Chicago for a decade, where she worked in small presses, libraries, public schools, jails, at the Poetry Foundation, and as a birthday party clown.
+
+endnote: TK (if you still want one)
 
 illustrator:
   name: TK
