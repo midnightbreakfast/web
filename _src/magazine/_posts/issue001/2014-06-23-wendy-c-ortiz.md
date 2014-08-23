@@ -15,6 +15,10 @@ featured_image: issue1/ortiz/ortiz.jpg
 
 thumb: issue1/ortiz/thumb.png
 
+subject:
+  name: Wendy C. Ortiz
+  url: http://www.wendyortiz.com
+
 photographer:
   name: Meiko Takechi Arquillos
   url: http://www.meikophoto.com

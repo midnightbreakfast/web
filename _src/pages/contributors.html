@@ -29,7 +29,14 @@ title: Our Contributors
         {% endcapture %}
         {% assign contributors = contributors | split: ' ' | sort %}
         {% for contributor in contributors %}
-          {% for post in site.posts %}
+          {% for slug in issue[1].contents %}
+            {% capture permalink %}/{{ slug }}/{% endcapture %}
+            {% for post in site.posts %}
+              {% if post.url == permalink %}
+                {% assign selection = post %}
+              {% endif %}
+            {% endfor %}
+            {% assign post = selection %}
             {% assign author = post.by | split:' ' | last %}
             {% if author == contributor %}
               <h3>
