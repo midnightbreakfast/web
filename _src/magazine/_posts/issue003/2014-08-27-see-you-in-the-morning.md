@@ -10,7 +10,7 @@ author:
   bio: |
     [Mairead Case](http://twitter.com/maireadcase) lives in Colorado, where she is a PhD student at the University of Denver. Before that she lived in Chicago for a decade, where she worked in small presses, libraries, public schools, jails, at the Poetry Foundation, and as a birthday party clown.
 
-endnote: TK (if you still want one)
+endnote: This text is excerpted from a full-length novel titled <cite>See You in the Morning</cite>, which will be published by <em>f</em>eatherproo<em>f</em> Books in Fall 2015.
 
 illustrator:
   name: TK
