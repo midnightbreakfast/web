@@ -6,9 +6,9 @@ title: Iced Cake Frosting
 by: Sarah Maria Medina
 author:
   name: Sarah Maria Medina
-  url: TK
+  url: https://twitter.com/crushedmagnolia
   bio: |
-    Sarah Maria Medina is a poet and a fiction/creative non-fiction writer from the American Northwest. She is Boricua, of mixed heritage. Her poetry is forthcoming or has been printed in <cite>Rivers Edge Literary Journal</cite>, <cite>Raspa Literary Journal</cite>, <cite>As/Us Literary Journal</cite>, <cite>Codex Journal</cite>, <cite>Semicolon Journal</cite>, <cite>Qu.ee/r Magazine</cite>, and elsewhere. Her essays and interviews have appeared in <cite>Hip Mama Magazine</cite>, <cite>Squat Journal</cite>, <cite>Mutha Magazine</cite>, <cite>Rebelle Society</cite>, and <cite>Bitch Magazine</cite>, among others. She is also the author of a chapbook of poetry titled <cite>Girl Turnin’ Queen and Other (Broken) Havana Love Stories</cite>. She currently resides in Mexico with her daughter, where she is working on her Havana memoir.
+    <a href="http://sarahmariamedina.com/">Sarah Maria Medina</a> is a poet and a fiction/creative non-fiction writer from the American Northwest. She is Boricua, of mixed heritage. Her poetry is forthcoming or has been printed in <cite>Rivers Edge Literary Journal</cite>, <cite>Raspa Literary Journal</cite>, <cite>As/Us Literary Journal</cite>, <cite>Codex Journal</cite>, <cite>Semicolon Journal</cite>, <cite>Qu.ee/r Magazine</cite>, and elsewhere. Her essays and interviews have appeared in <cite>Hip Mama Magazine</cite>, <cite>Squat Journal</cite>, <cite>Mutha Magazine</cite>, <cite>Rebelle Society</cite>, and <cite>Bitch Magazine</cite>, among others. She is also the author of a chapbook of poetry titled <cite>Girl Turnin’ Queen and Other (Broken) Havana Love Stories</cite>. She currently resides in Mexico with her daughter, where she is working on her Havana memoir.
 
 illustrator:
   name: TK
