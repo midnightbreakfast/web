@@ -14,8 +14,7 @@ illustrator:
   name: TK
   url: TK
 
-featured_image: issueTK/slug/image.jpg
-thumb: issueTK/slug/thumb.jpg
+featured_image: issue3/lawndad/wright.jpg
 ---
 
 <figure class="right">

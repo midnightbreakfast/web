@@ -6,11 +6,15 @@ class: home
 
 	<h2 class="tagline">An Ongoing Conversation.</h2>
 	
+	{% for issue in site.data.issues limit:1 %}
+	  {% include issue.html %}
+	{% endfor %}
+
 	{% for post in site.categories.smalls limit:1 %}
 	  {% include post/small-plates.html %}
 	{% endfor %}
 	
-	{% for issue in site.data.issues limit:1 %}
+	{% for issue in site.data.issues limit:1 offset:1 %}
 	  {% include issue.html %}
 	{% endfor %}
 	
@@ -18,7 +22,7 @@ class: home
 	  {% include post/small-plates.html %}
 	{% endfor %}
 	
-	{% for issue in site.data.issues limit:1 offset:1 %}
+	{% for issue in site.data.issues limit:1 offset:2 %}
 	  {% include issue.html %}
 	{% endfor %}
 
@@ -26,7 +30,7 @@ class: home
 	  {% include post/small-plates.html %}
 	{% endfor %}
 	
-	{% for issue in site.data.issues limit:1 offset:2 %}
+	{% for issue in site.data.issues limit:1 offset:3 %}
 	  {% include issue.html %}
 	{% endfor %}
 	
