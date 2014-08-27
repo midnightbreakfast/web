@@ -1,12 +1,12 @@
 issue3:
   number: 3
   contents:
-    - a-warm-winter
+    - lawn-dad-one-thing
     - merritt-tierce
-    - see-you-in-the-morning
     - stay
     - iced-cake-frosting
-    - lawn-dad-one-thing
+    - a-warm-winter
+    - see-you-in-the-morning
   letter: /issue-2-letter/
 issue2:
   number: 2
