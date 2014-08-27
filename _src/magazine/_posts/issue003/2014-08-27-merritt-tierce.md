@@ -24,9 +24,9 @@ thumb: issue3/tierce/thumb.png
 
 “I do anything I can to avoid speaking to people,” Merritt Tierce tells me about twenty minutes into our interview. I’m not exactly sure how to react. Should I be offended? Should I take it as a cue to try to wrap things up? Instead, I sit back and let the author keep going. She might not <em>like</em> talking, sure, but I’ve already figured out in the short time we’ve spent in conversation that she has a lot to say — and a lot that should be said. We don’t hang up for another twenty-five minutes.
 
-Tierce is the author of <cite>Love Me Back</cite>, a debut novel with bite. The book follows emotionally detached young mother Marie through her jobs at various Texas restaurants. Based heavily on Tierce’s own experiences — she too worked in food service and had two young children by age twenty-one — <cite>Love Me Back</cite> is an exploration of voice. Tierce’s often poetic language bends, twists, and broods as she recounts Marie’s thoughts and exploits through a series of interwoven shorts. The book is at once beautiful, sexy, and uncomfortable.
+Tierce is the author of <cite>[Love Me Back](http://www.indiebound.org/book/9780385538077)</cite>, a debut novel with bite. The book follows emotionally detached young mother Marie through her jobs at various Texas restaurants. Based heavily on Tierce’s own experiences — she too worked in food service and had two young children by age twenty-one — <cite>Love Me Back</cite> is an exploration of voice. Tierce’s often poetic language bends, twists, and broods as she recounts Marie’s thoughts and exploits through a series of interwoven shorts. The book is at once beautiful, sexy, and uncomfortable.
 
-A week after digesting one of the most unique reading experiences I’ve ever had, I spoke to Tierce via Skype — she in Dallas, me in Brooklyn. She tapped a pen she was holding in her hand on the table in between questions as she spoke, and we talked about <cite>Love Me Back<cite>, her work with the Texas Equal Access Fund (which she’s leaving at the end of August in order to write full-time), and what it’s like to tell someone you’re a writer for real. (Spoiler: It’s <em>good</em>.)
+A week after digesting one of the most unique reading experiences I’ve ever had, I spoke to Tierce via Skype — she in Dallas, me in Brooklyn. She tapped a pen she was holding in her hand on the table in between questions as she spoke, and we talked about <cite>Love Me Back</cite>, her work with the Texas Equal Access Fund (which she’s leaving at the end of August in order to write full-time), and what it’s like to tell someone you’re a writer for real. (Spoiler: It’s <em>good</em>.)
 
 ***
 
@@ -34,7 +34,7 @@ A week after digesting one of the most unique reading experiences I’ve ever ha
 
 **Merritt Tierce:** I know! I guess I am definitely past “larval stage.” It’s really easy to make fun of those things, but it’s fun when they land on you.
 
-**Turits:** The book technically hasn’t launched yet, but do you feel that because people are already getting their hands on it, it’s out into the world?
+**Turits:** The book technically hasn’t launched yet, but do you feel that because people are already getting their hands on it, it’s out in the world?
 
 **Tierce:** Since this is my first time out, I really haven’t known what to expect anyway, but it does seem to have gotten out there a lot more than I would have estimated. It’s been fun. I’m still thrilled when someone I don’t know has a copy of my book somehow. It’s like, <i>Oh, my publicist must be doing stuff!</i> The whole machine of it is really strange and thrilling.
 
