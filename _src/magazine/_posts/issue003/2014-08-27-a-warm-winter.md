@@ -8,7 +8,7 @@ author:
   name: Molly McArdle
   url: http://twitter.com/mollitudo
   bio: |
-    [Molly McArdle](http://twitter.com/mollitudo)'s fiction, essays, and criticism have appeared in <cite>The Believer</cite>, <cite>The Los Angeles Review of Books</cite>, <cite>PANK</cite>, <cite>The Toast</cite>, <cite>The Rumpus</cite>, and <cite>Bitch Magazine</cite>. She runs [The Rumblr](http://therumpus.tumblr.com) (The Rumpus on Tumblr) and is working on her MFA in fiction at UMass Amherst. 
+    [Molly McArdle](http://twitter.com/mollitudo)'s fiction, essays, and criticism have appeared in <cite>The Believer</cite>, <cite>The Los Angeles Review of Books</cite>, <cite>PANK</cite>, <cite>The Toast</cite>, <cite>The Rumpus</cite>, and <cite>Bitch Magazine</cite>. She runs [The Rumblr](http://therumpus.tumblr.com) (<cite>The Rumpus</cite> on Tumblr) and is working on her MFA in fiction at UMass Amherst. 
 
 illustrator:
   name: TK
@@ -93,7 +93,7 @@ Miriam couldn’t wear her dentures until the swelling went down; her gums neede
 
 “Caroline?” It sounded more like <em>Kawowine</em>.
 
-“Yeah, mom?”
+“Yeah, Mom?”
 
 “Can you get me some warm salt water?”
 
@@ -160,6 +160,7 @@ Caroline shoved the teeth back into her mother’s purse. It was probably the be
 Miriam’s eyes cracked open, but did not look at her. “Yes.”
 
 Caroline got up. “Come on,” she said, and looped her arm underneath her mother’s smaller one, and helped her up from the couch.
+
 “Be careful walking, hon.”
 
 “I will,” she said, and together they picked their way across the uncertain terrain.
@@ -179,6 +180,7 @@ With her mother back in bed, or rather the sliver of bed she allotted herself (t
 Caroline went back into the kitchen. In the cabinets above the stove were the remnants of her father’s old liquor cabinet. Why her mother brought these bottles with her in the first place, why she continued to hold on to them, was a mystery to her — Miriam didn’t drink. She might have said they were for guests, though no one other than she and her two children had ever entered the apartment since the day they moved in, almost ten years ago. Her mother sometimes spoke of inviting people over, but this was set to occur in an impossible future where their apartment could be freely traversed, when all of the counters were clear, when mice did not run through their things.
 
 Caroline climbed up on an overturned paint bucket they used for a stool and opened the cabinet up to reveal ancient bottles of Kahlua, Myers’s Rum, and other, more obscure cordials she didn’t recognize. She grabbed what she was looking for, an old handle of Bacardi, its once-white label yellow and cracked. When she first found it, it was nearly full. Now it had less than half its original content. Caroline had resolved that, first, her mother would never notice the difference, and second, by the time she did, Caroline would have finished the bottle and filled it again with water as a precaution. Anyway, the guests would never come.
+
 She poured an inch or so into the bottom of a plastic McDonald’s cup and filled the rest with an orange liquid that was only tenuously juice. The window above the sink was still open and cool, but not cold, air blew in. Caroline took her cup and inched through the narrow passage between the stacks of boxes that lined the hallway’s walls and out to the balcony. She had to kick a pile of clothes to one side to make space for the door to open, but it did, and she went outside.
 
 ***
