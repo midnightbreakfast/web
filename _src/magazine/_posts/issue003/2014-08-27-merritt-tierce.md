@@ -11,8 +11,8 @@ author:
     [Meredith Turits](http://twitter.com/meredithturits) is the senior culture editor at <cite>Bustle</cite>, where she runs the Books vertical, and the fiction editor at <cite>The Brooklyn Quarterly</cite>. Her writing and stories have appeared in publications including <cite>The New Republic</cite>, <cite>The Rumpus</cite>, <cite>Glamour</cite>, <cite>BlackBook</cite>, <cite>Joyland</cite>, <cite>Vol. 1 Brooklyn</cite>, and more. She can be found in Brooklyn and at @meredithturits, hopefully using the hashtag #amwriting.
 
 illustrator:
-  name: TK
-  url: TK
+  name: Kael Alford
+  url: http://kaelalford.sites.livebooks.com
 
 featured_image: issue3/tierce/tierce.jpg
 thumb: issue3/tierce/thumb.png
