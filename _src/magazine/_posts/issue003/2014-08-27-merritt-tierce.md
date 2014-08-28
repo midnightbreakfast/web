@@ -17,7 +17,7 @@ subject:
 
 photographer:
   name: Kael Alford
-  url: TK
+  url: http://kaelalford.sites.livebooks.com
 
 featured_image: issue3/tierce/tierce.jpg
 thumb: issue3/tierce/thumb.png
