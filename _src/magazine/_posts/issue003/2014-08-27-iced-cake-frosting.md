@@ -11,13 +11,13 @@ author:
     [Sarah Maria Medina](http://sarahmariamedina.com/) is a poet and a fiction/creative non-fiction writer from the American Northwest. She is Boricua, of mixed heritage. Her poetry is forthcoming or has been printed in <cite>RiverSedge Literary Journal</cite>, <cite>Raspa Literary Journal</cite>, <cite>As/Us Literary Journal</cite>, <cite>Codex Journal</cite>, <cite>Semicolon Journal</cite>, <cite>Qu.ee/r Magazine</cite>, and elsewhere. Her essays and interviews have appeared in <cite>Hip Mama Magazine</cite>, <cite>Squat Journal</cite>, <cite>Mutha Magazine</cite>, <cite>Rebelle Society</cite>, and <cite>Bitch Magazine</cite>, among others. She is also the author of a chapbook of poetry titled <cite>Girl Turnin’ Queen and Other (Broken) Havana Love Stories</cite>. She currently resides in Mexico with her daughter, where she is working on her Havana memoir.
 
 illustrator:
-  name: TK
-  url: TK
+  name: Maria Ines Gul
+  url: http://www.marjainez.com
 
 featured_image: issue3/cake/gul.jpg
 ---
 
-<figure class="right">
+<figure class="middle small">
   {% include picture.html path=page.featured_image %}
 </figure>
 

@@ -11,13 +11,13 @@ author:
     [Lincoln Michel](http://twitter.com/thelincoln) is the Co-Editor of <cite>[Gigantic](http://thegiganticmag.com/magazine/)</cite> and <cite>[Gigantic Worlds](http://giganticbooks.com/)</cite>, and the Online Editor of <cite>[Electric Literature](http://electricliterature.com/)</cite>. His work appears in <cite>Tin House</cite>, <cite>NOON</cite>, <cite>The Believer</cite>, <cite>Pushcart Prize XXXIX</cite>, and elsewhere. His debut collection, <cite>Upright Beasts</cite>, is forthcoming from Coffee House Press. Sometimes he [draws authors as monsters](https://www.etsy.com/listing/167461015/monsters-of-modern-literature-trading).
 
 illustrator:
-  name: TK
-  url: TK
+  name: Leanna Wright
+  url: http://leannawright.tumblr.com
 
 featured_image: issue3/lawndad/wright.jpg
 ---
 
-<figure class="right">
+<figure class="middle">
   {% include picture.html path=page.featured_image %}
 </figure>
 

@@ -13,8 +13,8 @@ author:
 endnote: This text is excerpted from a full-length novel titled <cite>See You in the Morning</cite>, which will be published by Featherproof Books in Fall 2015.
 
 illustrator:
-  name: TK
-  url: TK
+  name: Caitlin Hazell
+  url: http://bollykecks.tumblr.com
 
 featured_image: issue3/case/all.jpg
 ---

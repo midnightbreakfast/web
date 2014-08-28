@@ -11,13 +11,13 @@ author:
     [Molly McArdle](http://twitter.com/mollitudo)'s fiction, essays, and criticism have appeared in <cite>The Believer</cite>, <cite>The Los Angeles Review of Books</cite>, <cite>PANK</cite>, <cite>The Toast</cite>, <cite>The Rumpus</cite>, and <cite>Bitch Magazine</cite>. She runs [The Rumblr](http://therumpus.tumblr.com) (<cite>The Rumpus</cite> on Tumblr) and is working on her MFA in fiction at UMass Amherst. 
 
 illustrator:
-  name: TK
-  url: TK
+  name: Lara Odell
+  url: http://laraodell.com/home.html
 
 featured_image: issue3/winter/odell.jpg
 ---
 
-<figure class="right">
+<figure class="middle">
   {% include picture.html path=page.featured_image %}
 </figure>
 
