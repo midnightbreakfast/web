@@ -16,14 +16,22 @@ illustrator:
   name: Caitlin Hazell
   url: http://bollykecks.tumblr.com
 
-featured_image: issue3/case/all.jpg
+featured_image: issue3/case/house.jpg
+
+illos:
+  cassette:
+    path: issue3/case/cassette.jpg
+  house:
+    path: issue3/case/house.jpg
+  nametag:
+    path: issue3/case/nametag.jpg
+  octopus:
+    path: issue3/case/octopus.jpg
 ---
 
-<figure class="right">
-  {% include picture.html path=page.featured_image %}
+<figure class="middle small">
+  {% include picture.html path=page.illos.cassette.path %}
 </figure>
-
-[image of cassette tape]
 
 Louise turned on the radio in the car, to that afternoon show on the college station — those girls don’t always work the board right. Both their names begin with K and they sound glossy. Sometimes they are nervous about liking what they like, which is dumb. It’s not like music can make you sick. I remember once I was making a mixtape for Ben and I sat four or five minutes, deciding whether to use a song that had “fuck” in it. Then I realized how dumb I was being. I didn’t ask them to put it in. It wasn’t about me.
 
@@ -45,7 +53,9 @@ Also, I said, in Hawaiian myth, octopi are the lone survivors of an alien univer
 
 I’m sorry I tried to kiss you, I said. I didn’t mean it to be weird. It’s okay, she said, really no big deal. I really just wanted to hang out with you. Yeah, I said, well now I know. I unbuckled my seatbelt, got out of the car, and cannonballed into the house. I didn’t look, but I heard her tires moving away. 
 
-[image of octopus]
+<figure class="middle small">
+  {% include picture.html path=page.illos.octopus.path %}
+</figure>
 
 ***
 
@@ -53,7 +63,9 @@ People who came into the bookstore today: two girls in matching whiskery earring
 
 Sometimes when I’m reading on my break, I imagine polka dots filling up the margins, then going off the page and surrounding me like a blizzard that gets bigger. They hum and make a loud wall of color. I think if I could write everything down, important parts would start to pulse.
 
-[image of My Name Is nametag]
+<figure class="middle small">
+  {% include picture.html path=page.illos.nametag.path %}
+</figure>
 
 ***
 
@@ -61,7 +73,9 @@ One part I remember about Grandma is her dollhouse. Mom isn’t attached to it, 
 
 I didn’t have anyone to play with, so I decided I was a ghost, and I’d write little notes and stick them under the chairs, or write MOTHER MARGARET on the tiny mirror in nail polish with a bobby pin. I haunted the house. One day I decided hell was underneath it, so I spent all afternoon making flames out of construction paper and glitter glue and this red yarn I found. When Grandma came to get me for dinner, she looked sad, and took it all down and said this isn’t that kind of house, honey. Grandpa heard her and put his newspaper up close to his face, like always when he’s about to laugh but doesn’t want to make her mad.
 
-[image of dollhouse on fire]
+<figure class="middle small">
+  {% include picture.html path=page.illos.house.path %}
+</figure>
 
 ***
 
