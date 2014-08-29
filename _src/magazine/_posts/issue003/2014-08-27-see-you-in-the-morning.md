@@ -16,7 +16,7 @@ illustrator:
   name: Caitlin Hazell
   url: http://bollykecks.tumblr.com
 
-featured_image: issue3/case/house.jpg
+featured_image: issue3/case/octopus.jpg
 
 illos:
   cassette:
