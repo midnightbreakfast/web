@@ -5,7 +5,7 @@ overtitle: an excerpt from
 title: |
   If it is your life
 by: Dylan Landis
-cover: TK
+cover: smalls/rainey-royal/cover.jpg
 
 endnote: |
   Excerpted from <cite>Rainey Royal</cite> by Dylan Landis. Copyright 2014 by Dylan Landis. Published by Soho Press. All rights reserved. Reprinted by permission from Soho Press.
@@ -36,10 +36,6 @@ Enjoy!
 </div>
 
 <hr />
-
-<figure class="middle">
-  <a href="http://sohopress.com/books/rainey-royal/">{% include picture.html path=page.road %}</a>
-</figure>
 
 Late October sunlight slants through shuddering leaves, angling low into the windows. Rainey does her homework sprawled on her pink carpet—when she does it. More often she goes to the museum after school, pulling out a sketchpad, dropping her army pack with its straps and buckles noisily on the floor.
 
