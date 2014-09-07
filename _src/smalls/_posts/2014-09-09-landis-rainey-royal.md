@@ -3,7 +3,7 @@ layout: smalls
 type: Small Plates
 overtitle: an excerpt from
 title: |
-  If it is your life
+  Rainey Royal
 by: Dylan Landis
 cover: smalls/rainey-royal/cover.jpg
 
@@ -31,6 +31,7 @@ Persea was, at the time, renting a corner of the office of another indie publish
 <cite>Rainey Royal</cite> is the kind of novel that with a chapter that's [won the O’Henry Prize](http://www.latimes.com/books/jacketcopy/la-et-jc-o-henry-prize-anthology-2014-winners-20140505-story.html). <cite>Like Normal People Don’t Live Like This</cite>, it’s also part of something greater, a fictional universe that starts in New York City in the 1970’s and then expands to track the trajectory of several women as they grow up and apart, only to collide again at unexpected moments. <cite>Normal People</cite> opens with a stunning story about young Rainey and then turns the spotlight to Rainey’s classmate, Leah. <cite>Rainey Royal</cite>, too, opens with young Rainey, but Landis keeps the attention on this magnetic character, watching her grow in fits and starts just as we watched Leah grow. But Leah’s there too, just as Rainey was around in <cite>Normal People</cite>, their lives, or at least this time in their lives, interwoven. It’s as if Landis is building windows in the shape of stories into the parallel world these characters inhabit, a world whose scope seems as infinite as our own. All her characters have stories worth telling; Landis just has to decide which window she wants to open next. Personally, I’m looking forward to <cite>Honor Brennan</cite>.
 
 Enjoy!
+
 — F. Taylor Pavlik, Associate Editor
 
 </div>
