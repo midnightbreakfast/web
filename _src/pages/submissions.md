@@ -34,6 +34,14 @@ Fantastic. Submit it to [submissions@midnightbreakfast.com](mailto:submissions@m
 
 
 
+If you're submitting to our October issue...
+--------------------------------------------
+
+We're pleased to announce that Issue Five will be our first themed issue, featuring work that tackles the idea of "breaking down the barriers between the real and the unreal." We'll be accepting nonfiction and fiction submissions for this issue (though our preference is for nonfiction) until Friday, September 26th. Please follow the instructions above and also add "Halloween Issue" to the subject line of your email. Pieces submitted after the deadline will be considered for future issues.
+
+
+
+
 I hear you pay your contributors...
 -----------------------------------
  

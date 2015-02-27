@@ -1,45 +1,37 @@
 ---
 layout: default
 class: home
+order:
+  - small
+  - issue
+  - small
+  - issue
+  - small
+  - issue
+  - small
+  - issue
+  - small
+  - small
 ---
 <div class="cover">
 
 	<h2 class="tagline">An Ongoing Conversation.</h2>
 	
-	{% for issue in site.data.issues limit:1 %}
-	  {% include issue.html %}
-	{% endfor %}
-
-	{% for post in site.categories.smalls limit:1 %}
-	  {% include post/small-plates.html %}
-	{% endfor %}
+	{% assign small_i = 0 %}
+	{% assign issue_i = 0 %}
 	
-	{% for issue in site.data.issues limit:1 offset:1 %}
-	  {% include issue.html %}
-	{% endfor %}
-	
-	{% for post in site.categories.smalls limit:1 offset:1 %}
-	  {% include post/small-plates.html %}
-	{% endfor %}
-	
-	{% for issue in site.data.issues limit:1 offset:2 %}
-	  {% include issue.html %}
-	{% endfor %}
-
-	{% for post in site.categories.smalls limit:1 offset:2 %}
-	  {% include post/small-plates.html %}
-	{% endfor %}
-	
-	{% for issue in site.data.issues limit:1 offset:3 %}
-	  {% include issue.html %}
-	{% endfor %}
-	
-	{% for post in site.categories.smalls limit:1 offset:3 %}
-	  {% include post/small-plates.html %}
-	{% endfor %}
-		
-	{% for post in site.categories.smalls limit:1 offset:4 %}
-	  {% include post/small-plates.html %}
+	{% for item in page.order %}
+	  {% if item == "issue" %}
+      {% for issue in site.data.issues limit:1 offset:issue_i %}
+        {% include issue.html %}
+      {% endfor %}
+      {% assign issue_i = issue_i | plus:1 %}
+	  {% elsif item == "small" %}
+      {% for post in site.categories.smalls limit:1 offset:small_i %}
+        {% include post/small-plates.html %}
+      {% endfor %}
+      {% assign small_i = small_i | plus:1 %}
+	  {% endif %}
 	{% endfor %}
 		
 </div>
